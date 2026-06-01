@@ -1,0 +1,66 @@
+[
+  {
+    "id": "kampung-krapyak",
+    "nama": "Kampung Krapyak",
+    "foto": "/images/hidden-gems/kampung-krapyak.jpg",
+    "deskripsi": "Perkampungan nelayan bersejarah di pesisir utara Pekalongan yang menyimpan tradisi Syawalan unik dan kehidupan maritim autentik. Deretan perahu warna-warni di tepi sungai, jaring ikan yang dijemur di pekarangan, dan aroma khas pesisir menciptakan suasana kampung nelayan yang tak terjamah modernisasi. Kampung ini juga dikenal dengan kuliner seafood segar langsung dari tangkapan nelayan lokal.",
+    "tips": "Kunjungi saat perayaan Syawalan (seminggu setelah Idul Fitri) untuk menyaksikan tradisi sedekah laut dan pesta rakyat yang meriah. Datang pagi hari untuk melihat aktivitas nelayan membongkar hasil tangkapan.",
+    "koordinat": { "lat": -6.8600, "lng": 109.6900 }
+  },
+  {
+    "id": "gang-balaikambang",
+    "nama": "Gang Balaikambang",
+    "foto": "/images/hidden-gems/gang-balaikambang.jpg",
+    "deskripsi": "Lorong tersembunyi di kawasan kota lama Pekalongan yang dipagari deretan bangunan kolonial, peranakan, dan Jawa tradisional dari abad ke-19. Gang ini seperti museum arsitektur terbuka yang menceritakan sejarah multikulturalisme Pekalongan melalui fasad-fasad bangunan tuanya. Suasana tenang dan nostalgia kota tua menjadikannya surga bagi fotografer dan pecinta heritage.",
+    "tips": "Waktu terbaik untuk berkunjung adalah pagi hari saat cahaya matahari menerangi fasad bangunan-bangunan tua dari sudut yang sempurna. Bawa kamera dan jangan ragu untuk bertanya kepada warga lokal tentang sejarah bangunan-bangunan di sekitar.",
+    "koordinat": { "lat": -6.8888, "lng": 109.6748 }
+  },
+  {
+    "id": "pasar-pagi-tradisional",
+    "nama": "Pasar Pagi Tradisional",
+    "foto": "/images/hidden-gems/pasar-pagi.jpg",
+    "deskripsi": "Pasar tradisional tertua di Pekalongan yang beroperasi sejak subuh buta, menawarkan pengalaman autentik kehidupan masyarakat lokal. Dari ikan segar tangkapan nelayan, sayuran dari petani pedesaan, hingga jajanan pasar buatan tangan yang masih hangat dari kukusan — semua tersedia dengan harga yang sangat terjangkau. Pasar ini juga menjadi tempat terbaik untuk mencicipi soto tauto, megono, dan kuliner khas Pekalongan lainnya dalam versi paling autentik.",
+    "tips": "Datanglah sebelum pukul 06.00 WIB untuk merasakan suasana paling ramai dan mendapatkan bahan makanan paling segar. Jangan lupa sarapan soto tauto di dalam pasar — cari warung yang paling ramai dikunjungi warga lokal.",
+    "koordinat": { "lat": -6.8910, "lng": 109.6735 }
+  },
+  {
+    "id": "jembatan-sungai-loji",
+    "nama": "Jembatan Sungai Loji",
+    "foto": "/images/hidden-gems/jembatan-loji.jpg",
+    "deskripsi": "Jembatan baja peninggalan kolonial Belanda dari awal abad ke-20 yang melintasi Sungai Loji di kawasan kota lama. Konstruksi rivet baja yang masih kokoh dan pemandangan aliran sungai yang tenang diapit bangunan-bangunan tua menciptakan suasana romantis nan nostalgia. Pada sore hari, jembatan ini menawarkan pemandangan sunset yang memukau di antara siluet kota tua Pekalongan.",
+    "tips": "Kunjungi saat golden hour (pukul 16.00–17.30 WIB) untuk mendapatkan foto terbaik dengan cahaya matahari sore yang menerangi jembatan dan bangunan kolonial di sekitarnya.",
+    "koordinat": { "lat": -6.8878, "lng": 109.6770 }
+  },
+  {
+    "id": "taman-ronggowarsito",
+    "nama": "Taman Ronggowarsito",
+    "foto": "/images/hidden-gems/taman-ronggowarsito.jpg",
+    "deskripsi": "Taman kota bertemakan budaya Jawa yang terletak di pusat Pekalongan, dinamai untuk menghormati pujangga besar Ronggowarsito. Pada siang hari, taman ini menjadi ruang hijau yang teduh untuk bersantai, sementara malam hari berubah menjadi area kuliner jalanan dengan pedagang-pedagang kaki lima yang menjajakan jajanan khas Pekalongan. Bangku-bangku taman dihiasi motif batik, menambah nuansa kultural yang khas.",
+    "tips": "Datang pada malam hari (setelah pukul 18.00 WIB) untuk menikmati suasana kuliner malam dan jajanan khas seperti es dawet, tahu pletok, dan sate. Pada akhir pekan, sering ada pertunjukan seni gratis dari komunitas lokal.",
+    "koordinat": { "lat": -6.8892, "lng": 109.6722 }
+  },
+  {
+    "id": "pantai-pasir-kencana",
+    "nama": "Pantai Pasir Kencana",
+    "foto": "/images/hidden-gems/pantai-pasir-kencana.jpg",
+    "deskripsi": "Pantai bersejarah di pesisir utara Pekalongan yang dulunya merupakan titik pendaratan pedagang kuno dari berbagai penjuru Asia. Kini pantai ini menawarkan wisata alam dengan hamparan pasir hitam, taman bermain, dan fasilitas rekreasi keluarga. Setiap tahun, pantai ini menjadi lokasi upacara sedekah laut yang sakral, sebuah tradisi nelayan yang memadukan kepercayaan lokal dengan ajaran Islam.",
+    "tips": "Kunjungi saat pagi hari untuk udara yang masih segar dan pemandangan nelayan berangkat melaut. Hindari musim hujan (Desember–Februari) karena pantai sering terkena banjir rob. Sediakan payung atau topi untuk berlindung dari terik matahari.",
+    "koordinat": { "lat": -6.8650, "lng": 109.6850 }
+  },
+  {
+    "id": "alun-alun-pekalongan",
+    "nama": "Alun-Alun Pekalongan",
+    "foto": "/images/hidden-gems/alun-alun.jpg",
+    "deskripsi": "Ruang publik bersejarah yang telah menjadi jantung kehidupan sosial Pekalongan sejak abad ke-18. Dikelilingi oleh Masjid Agung, bangunan pemerintahan, dan deretan pertokoan, alun-alun ini menjadi saksi bisu perjalanan sejarah kota dari era kesultanan hingga modern. Pohon-pohon beringin raksasa peninggalan kolonial masih berdiri kokoh, memberikan keteduhan bagi warga yang berolahraga, bersantai, dan menikmati jajanan kaki lima.",
+    "tips": "Waktu terbaik adalah sore hingga malam hari saat warga lokal berkumpul dan pedagang jajanan mulai berjualan. Jangan lewatkan momen saat event Pekan Batik Internasional berlangsung — alun-alun berubah menjadi panggung pertunjukan budaya yang spektakuler.",
+    "koordinat": { "lat": -6.8895, "lng": 109.6715 }
+  },
+  {
+    "id": "pasar-grosir-setono",
+    "nama": "Pasar Grosir Setono",
+    "foto": "/images/hidden-gems/pasar-setono.jpg",
+    "deskripsi": "Pusat perdagangan batik terbesar di Pekalongan yang menampung lebih dari 100 kios dan toko batik dalam satu kompleks. Dari batik tulis premium karya maestro berharga jutaan rupiah hingga batik cap dan printing terjangkau untuk sehari-hari, semua tersedia di sini. Pasar ini menjadi barometer ekonomi batik Pekalongan dan surga belanja bagi siapa pun yang ingin membeli batik berkualitas dengan harga jauh lebih murah dari toko-toko di kota besar.",
+    "tips": "Datanglah pada hari kerja untuk menghindari keramaian dan mendapatkan perhatian lebih dari para penjual. Jangan malu untuk menawar — harga awal biasanya masih bisa diturunkan 20-30%. Minta penjual menjelaskan perbedaan antara batik tulis, cap, dan printing sebelum membeli.",
+    "koordinat": { "lat": -6.9010, "lng": 109.6650 }
+  }
+]

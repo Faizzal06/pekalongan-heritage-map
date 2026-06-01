@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pekan-batik-internasional",
+    "nama": "Pekan Batik Internasional",
+    "kategori": "Festival",
+    "tanggal": "September–Oktober (tahunan)",
+    "lokasi": "Museum Batik & Alun-Alun Pekalongan",
+    "foto": "/images/events/pekan-batik.jpg",
+    "deskripsi": "Pekan Batik Internasional (PBI) merupakan festival budaya terbesar di Pekalongan yang digelar setiap tahun selama satu hingga dua minggu pada bulan September–Oktober. Acara ini menampilkan pameran batik dari seluruh Indonesia dan mancanegara, fashion show batik kontemporer, kompetisi desain motif, workshop membatik, serta seminar tentang pelestarian warisan budaya tekstil. PBI menarik ribuan pengunjung dari dalam dan luar negeri, menjadikannya salah satu event batik terpenting di dunia dan etalase kreativitas batik Pekalongan di panggung internasional."
+  },
+  {
+    "id": "kirab-budaya-pekalongan",
+    "nama": "Kirab Budaya Pekalongan",
+    "kategori": "Parade",
+    "tanggal": "17 Agustus (Hari Kemerdekaan RI)",
+    "lokasi": "Jalan Protokol Kota Pekalongan",
+    "foto": "/images/events/kirab-budaya.jpg",
+    "deskripsi": "Kirab Budaya Pekalongan adalah parade budaya meriah yang digelar setiap tanggal 17 Agustus untuk memperingati Hari Kemerdekaan Republik Indonesia. Ribuan peserta dari berbagai komunitas — pengrajin batik, kelompok seni, perwakilan kampung, dan organisasi budaya — berpawai mengenakan pakaian adat dan kostum batik sepanjang jalan protokol kota. Parade ini menampilkan keragaman budaya Pekalongan melalui pertunjukan tari tradisional, musik gamelan, kendaraan hias bermotif batik, dan atraksi seni lainnya, menjadikannya perayaan kemerdekaan sekaligus perayaan identitas budaya Kota Batik."
+  },
+  {
+    "id": "syawalan-krapyak",
+    "nama": "Syawalan Krapyak",
+    "kategori": "Tradisi",
+    "tanggal": "Bulan Syawal (setelah Idul Fitri)",
+    "lokasi": "Kampung Krapyak, Pekalongan Utara",
+    "foto": "/images/events/syawalan-krapyak.jpg",
+    "deskripsi": "Syawalan Krapyak merupakan tradisi unik masyarakat nelayan Kampung Krapyak yang digelar setiap bulan Syawal, seminggu setelah Hari Raya Idul Fitri. Tradisi ini memadukan ritual Islami dengan budaya pesisir — dimulai dengan doa bersama dan ziarah ke makam leluhur, dilanjutkan dengan sedekah laut berupa pelepasan sesaji ke laut sebagai ungkapan syukur dan permohonan keselamatan bagi para nelayan. Perayaan diakhiri dengan pesta rakyat yang meriah, termasuk pertunjukan seni tradisional, lomba perahu, dan pasar malam yang menjadi ajang silaturahmi antarwarga."
+  },
+  {
+    "id": "cap-go-meh-pekalongan",
+    "nama": "Perayaan Cap Go Meh",
+    "kategori": "Perayaan",
+    "tanggal": "15 hari setelah Tahun Baru Imlek",
+    "lokasi": "Klenteng Tay Kak Sie & Kawasan Pecinan Pekalongan",
+    "foto": "/images/events/cap-go-meh.jpg",
+    "deskripsi": "Perayaan Cap Go Meh di Pekalongan merupakan salah satu yang paling meriah di Jawa Tengah, diselenggarakan lima belas hari setelah Tahun Baru Imlek di sekitar Klenteng Tay Kak Sie dan kawasan Pecinan. Perayaan ini menampilkan atraksi barongsai dan liong yang menari di sepanjang jalan, arak-arakan budaya Tionghoa-Jawa, pertunjukan wayang potehi, serta pesta kembang api yang spektakuler. Cap Go Meh di Pekalongan bukan hanya perayaan komunitas Tionghoa tetapi menjadi perayaan bersama seluruh warga kota, mencerminkan harmoni multikultural yang telah menjadi identitas Pekalongan selama berabad-abad."
+  }
+]
