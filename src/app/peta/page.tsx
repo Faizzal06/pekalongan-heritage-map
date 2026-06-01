@@ -65,7 +65,7 @@ export default function PetaPage() {
   }, [activeFilters, searchQuery]);
 
   return (
-    <div className="flex h-[calc(100vh-4rem)]">
+    <div className="flex h-[calc(100dvh-4rem)] relative overflow-hidden">
       {/* Sidebar */}
       <MapSidebar
         locations={filteredLocations}
