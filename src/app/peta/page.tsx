@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import dynamic from "next/dynamic";
 import MapSidebar from "@/components/map/MapSidebar";
 import heritageLocations from "@/data/heritage-locations.json";
@@ -41,6 +41,18 @@ export default function PetaPage() {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedLocationId, setSelectedLocationId] = useState<string | null>(null);
   const [isMobileSidebarOpen, setIsMobileSidebarOpen] = useState(false);
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const params = new URLSearchParams(window.location.search);
+      const gemId = params.get("gem");
+      const locId = params.get("loc");
+      const targetId = gemId || locId;
+      if (targetId) {
+        setSelectedLocationId(targetId);
+      }
+    }
+  }, []);
 
   const toggleFilter = (kategori: Kategori) => {
     setActiveFilters((prev) => {

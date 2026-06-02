@@ -134,7 +134,8 @@ export default function EventsGrid() {
               className="rounded-3xl shadow-heritage overflow-hidden bg-white"
             >
               {/* Image placeholder area */}
-              <div className="relative h-[240px] bg-surface-container-high flex items-center justify-center">
+              <div className="relative h-[240px] bg-surface-container-high flex items-center justify-center overflow-hidden">
+                {event.foto && <img src={event.foto} alt={event.nama} className="absolute inset-0 w-full h-full object-cover z-0" onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
                 {/* Subtle pattern background */}
                 <div
                   className="absolute inset-0 opacity-[0.04]"

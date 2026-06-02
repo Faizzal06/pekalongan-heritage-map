@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
@@ -21,27 +22,22 @@ export default function Navbar() {
     <nav className="sticky top-0 z-50 bg-surface/90 backdrop-blur-md border-b border-outline-variant/30">
       <div className="max-w-[1400px] mx-auto px-4 md:px-8 flex items-center justify-between h-16">
         {/* Logo */}
-        <Link href="/" className="flex items-center gap-1 group">
-          <span className="font-display text-xl md:text-2xl font-bold text-primary tracking-tight">
-            Pekalongan Heritage Map
-          </span>
-          <svg
-            width="24"
-            height="24"
-            viewBox="0 0 24 24"
-            fill="none"
-            className="text-primary -rotate-45 group-hover:rotate-0 transition-transform duration-300"
-          >
-            <path
-              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10c1.85 0 3.58-.5 5.07-1.38L12 12V2z"
-              fill="currentColor"
-              opacity="0.3"
-            />
-            <path
-              d="M12 2v10l5.07 8.62C19.44 18.58 22 15.56 22 12c0-5.52-4.48-10-10-10z"
-              fill="currentColor"
-            />
-          </svg>
+        <Link href="/" className="flex items-center gap-3 group">
+          <div className="flex flex-col leading-none">
+            <span className="font-display text-xl md:text-2xl font-bold text-primary tracking-tight">
+              Pekalongan
+            </span>
+            <span className="font-mono text-[10px] md:text-xs text-on-surface-variant tracking-[0.2em] uppercase mt-1">
+              Heritage Map
+            </span>
+          </div>
+          <Image
+            src="/canting.png"
+            alt="Canting Icon"
+            width={32}
+            height={32}
+            className="group-hover:-rotate-12 transition-transform duration-300"
+          />
         </Link>
 
         {/* Desktop Nav */}

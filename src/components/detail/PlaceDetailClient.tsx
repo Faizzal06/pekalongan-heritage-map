@@ -42,6 +42,7 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
     <div className="min-h-screen bg-surface">
       {/* Hero */}
       <div className="relative h-[300px] md:h-[400px] bg-surface-container-high overflow-hidden">
+        {location.foto_utama && <img src={location.foto_utama} alt={location.nama} className="absolute inset-0 w-full h-full object-cover z-0" onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center text-on-surface-variant/20">
             <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1">
@@ -144,6 +145,39 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
               </h2>
               <div className="text-on-surface-variant leading-relaxed italic border-l-4 border-batik-gold pl-4">
                 {location.cerita_budaya}
+              </div>
+            </section>
+          )}
+
+          {/* Galeri Foto */}
+          {location.galeri && location.galeri.length > 0 && (
+            <section className="mb-8">
+              <h2 className="font-display text-xl font-bold text-primary mb-3">
+                Galeri Foto
+              </h2>
+              {/* Native scroll-snap gallery */}
+              <div className="flex overflow-x-auto gap-4 pb-4 snap-x snap-mandatory custom-scrollbar -mx-6 px-6 md:mx-0 md:px-0">
+                {location.galeri.map((imgUrl, idx) => (
+                  <div 
+                    key={idx}
+                    className="relative w-[260px] md:w-[300px] h-[180px] md:h-[200px] shrink-0 rounded-2xl overflow-hidden snap-center shadow-sm bg-surface-container-high"
+                  >
+                    <img
+                      src={imgUrl}
+                      alt={`Galeri ${location.nama} ${idx + 1}`}
+                      className="absolute inset-0 w-full h-full object-cover z-10"
+                      onError={(e) => { e.currentTarget.style.display = 'none'; }}
+                    />
+                    {/* Placeholder fallback underneath */}
+                    <div className="absolute inset-0 flex items-center justify-center text-on-surface-variant/30 z-0">
+                      <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1">
+                        <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
+                        <circle cx="8.5" cy="8.5" r="1.5"/>
+                        <polyline points="21 15 16 10 5 21"/>
+                      </svg>
+                    </div>
+                  </div>
+                ))}
               </div>
             </section>
           )}

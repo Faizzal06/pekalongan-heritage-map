@@ -3,12 +3,12 @@
     "id": "museum-batik-pekalongan",
     "nama": "Museum Batik Pekalongan",
     "kategori": "museum",
-    "koordinat": { "lat": -6.8896, "lng": 109.6753 },
-    "foto_utama": "/images/heritage/museum-batik.jpg",
+    "koordinat": { "lat": -6.878629963453844, "lng": 109.6753626639849 },
+    "foto_utama": "https://files.catbox.moe/wq1ii9.jpg",
     "galeri": [
-      "/images/heritage/museum-batik-1.jpg",
-      "/images/heritage/museum-batik-2.jpg",
-      "/images/heritage/museum-batik-3.jpg"
+      "https://files.catbox.moe/wq1ii9.jpg",
+      "https://files.catbox.moe/nyu11k.jpg",
+      "https://files.catbox.moe/1e9rxl.jpg"
     ],
     "tahun_berdiri": "1972",
     "jam_buka": "Selasa–Minggu, 08.00–15.00 WIB",
@@ -22,12 +22,12 @@
     "id": "kampung-batik-kauman",
     "nama": "Kampung Batik Kauman",
     "kategori": "kampung-batik",
-    "koordinat": { "lat": -6.8912, "lng": 109.6701 },
-    "foto_utama": "/images/heritage/kampung-kauman.jpg",
+    "koordinat": { "lat": -6.889940031579889, "lng": 109.67276060112778 },
+    "foto_utama": "https://files.catbox.moe/pjo5km.jpg",
     "galeri": [
-      "/images/heritage/kampung-kauman-1.jpg",
-      "/images/heritage/kampung-kauman-2.jpg",
-      "/images/heritage/kampung-kauman-3.jpg"
+      "https://files.catbox.moe/4rksvd.jpg",
+      "https://files.catbox.moe/pjo5km.jpg",
+      "https://files.catbox.moe/wqfoer.jpg"
     ],
     "tahun_berdiri": "Abad ke-19",
     "jam_buka": "Setiap hari, 08.00–17.00 WIB",

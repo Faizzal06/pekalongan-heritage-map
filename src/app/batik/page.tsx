@@ -99,6 +99,7 @@ function BatikDetailModal({
           <div
             className={`absolute inset-0 bg-gradient-to-br ${gradientMap[motif.pengaruh] ?? "from-primary/70 to-batik-gold/50"}`}
           />
+          {motif.foto && <img src={motif.foto} alt={motif.nama} className="absolute inset-0 w-full h-full object-cover z-0" onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
           {/* decorative pattern */}
           <div
             className="absolute inset-0 opacity-10"
@@ -276,6 +277,7 @@ export default function BatikPage() {
                 <div
                   className={`absolute inset-0 bg-gradient-to-br ${gradientMap[motif.pengaruh] ?? "from-primary/70 to-batik-gold/50"}`}
                 />
+                {motif.foto && <img src={motif.foto} alt={motif.nama} className="absolute inset-0 w-full h-full object-cover z-0" onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
                 {/* decorative pattern */}
                 <div
                   className="absolute inset-0 opacity-10"

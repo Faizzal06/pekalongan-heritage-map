@@ -31,6 +31,9 @@ export const metadata: Metadata = {
     default: "Pekalongan Heritage Map — Jelajahi Warisan Budaya Kota Batik",
     template: "%s | Pekalongan Heritage Map",
   },
+  icons: {
+    icon: "/canting.png",
+  },
   description:
     "Peta interaktif warisan budaya Kota Pekalongan. Jelajahi museum, kampung batik, bangunan kolonial, kuliner legendaris, dan hidden gems dengan panduan digital modern.",
   keywords: [

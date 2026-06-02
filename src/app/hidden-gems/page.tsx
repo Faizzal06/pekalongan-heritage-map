@@ -88,6 +88,7 @@ export default function HiddenGemsPage() {
               <div
                 className={`absolute inset-0 bg-gradient-to-br ${gradients[i % gradients.length]}`}
               />
+              {gem.foto && <img src={gem.foto} alt={gem.nama} className="absolute inset-0 w-full h-full object-cover z-0" onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
               {/* subtle pattern overlay */}
               <div
                 className="absolute inset-0 opacity-10"
