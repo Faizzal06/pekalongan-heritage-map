@@ -3,7 +3,7 @@
     "id": "museum-batik-pekalongan",
     "nama": "Museum Batik Pekalongan",
     "kategori": "museum",
-    "koordinat": { "lat": -6.878629963453844, "lng": 109.6753626639849 },
+    "koordinat": { "lat": -6.8878, "lng": 109.6753 },
     "foto_utama": "https://files.catbox.moe/wq1ii9.jpg",
     "galeri": [
       "https://files.catbox.moe/wq1ii9.jpg",
@@ -11,10 +11,10 @@
       "https://files.catbox.moe/1e9rxl.jpg"
     ],
     "tahun_berdiri": "1972",
-    "jam_buka": "Selasa–Minggu, 08.00–15.00 WIB",
-    "harga_tiket": "Rp 15.000 (dewasa), Rp 5.000 (anak-anak)",
-    "sejarah": "Museum Batik Pekalongan merupakan satu-satunya museum di Indonesia yang secara khusus didedikasikan untuk melestarikan dan memamerkan warisan seni batik. Didirikan pada tahun 1972, museum ini awalnya menempati bekas gedung Balai Kota peninggalan kolonial Belanda yang dibangun pada awal abad ke-20. Gedung bergaya arsitektur Art Deco ini kemudian direnovasi dan difungsikan sebagai museum atas inisiatif para budayawan dan pengrajin batik Pekalongan yang khawatir akan punahnya motif-motif batik kuno.\n\nKoleksi museum ini mencakup lebih dari 1.000 lembar kain batik dari berbagai era, mulai dari batik pesisiran abad ke-19 hingga karya kontemporer. Di antara koleksi paling berharga adalah batik-batik karya maestro seperti Oey Soe Tjoen dan Eliza van Zuylen, yang memadukan estetika Eropa dengan teknik canting tradisional Jawa. Museum ini juga menyimpan peralatan membatik kuno, termasuk canting tembaga berusia ratusan tahun dan cap batik dari kayu jati.\n\nPada tahun 2014, Museum Batik Pekalongan mendapat pengakuan internasional ketika UNESCO menetapkan batik Indonesia sebagai Warisan Budaya Takbenda Kemanusiaan. Museum ini kemudian menjadi pusat dokumentasi dan riset batik yang dikunjungi oleh peneliti dan desainer dari seluruh dunia.",
-    "cerita_budaya": "Museum ini bukan sekadar tempat memajang kain, melainkan ruang hidup di mana pengunjung dapat menyaksikan langsung proses membatik dari para pengrajin yang masih mempertahankan teknik tulis tradisional. Setiap Sabtu pagi, museum mengadakan workshop membatik bagi wisatawan dan anak-anak sekolah, menjadikannya jembatan antara generasi tua pembatik dengan generasi muda yang akan mewarisi tradisi ini.",
+    "jam_buka": "Selasa–Minggu, 08.00–15.30 WIB",
+    "harga_tiket": "Rp 5.000 (umum), Rp 3.000 (anak-anak)",
+    "sejarah": "Museum Batik Pekalongan pertama kali didirikan pada 12 Juli 1972 atas inisiatif Kepala Bidang Permuseuman Departemen Pendidikan dan Kebudayaan Jawa Tengah bersama Walikota Pekalongan ke-10, Drs. R. Soepomo. Awalnya museum ini menempati bangunan sederhana seluas 40 m² di kawasan Jalan Resimen XVII (sekarang kawasan Pos Polisi), dengan koleksi 1.149 lembar batik termasuk wayang beber berusia ratusan tahun dan Alat Tenun Bukan Mesin (ATBM).\n\nPada 23 Mei 2006, museum dipindahkan ke gedung yang lebih representatif di Jl. Jetayu No. 1 — bekas gedung administrasi keuangan kolonial Belanda bergaya arsitektur Indische Empire yang megah. Peresmian dilakukan langsung oleh Presiden RI, Dr. H. Susilo Bambang Yudhoyono, pada 12 Juli 2006. Museum ini kini dikelola oleh Dinas Pendidikan dan Kebudayaan Kota Pekalongan.\n\nKoleksi museum mencakup batik klasik, batik lawasan, dan batik kontemporer dari berbagai era dan pengaruh budaya — mulai dari batik pesisiran abad ke-19, batik Encim peranakan Tionghoa, hingga karya kontemporer. Museum ini juga menyimpan peralatan membatik kuno termasuk canting tembaga berusia ratusan tahun.",
+    "cerita_budaya": "Museum ini bukan sekadar tempat memajang kain, melainkan ruang hidup di mana pengunjung dapat menyaksikan langsung proses membatik dari para pengrajin yang masih mempertahankan teknik tulis tradisional. Fasilitas museum terdiri atas Ruang Audio Visual, Ruang Pesisiran (Pamer I), Ruang Nusantara (Pamer II), Ruang Pedalaman (Pamer III), Aula, dan Perpustakaan. Setiap Sabtu pagi, museum mengadakan workshop membatik bagi wisatawan dan anak-anak sekolah, menjadikannya jembatan antara generasi tua pembatik dengan generasi muda.",
     "alamat": "Jl. Jetayu No. 1, Panjang Wetan, Kec. Pekalongan Utara, Kota Pekalongan",
     "deskripsi_singkat": "Museum seni batik terlengkap di Indonesia dengan koleksi lebih dari 1.000 kain batik dari berbagai era dan pengaruh budaya."
   },
@@ -22,475 +22,380 @@
     "id": "kampung-batik-kauman",
     "nama": "Kampung Batik Kauman",
     "kategori": "kampung-batik",
-    "koordinat": { "lat": -6.889940031579889, "lng": 109.67276060112778 },
-    "foto_utama": "https://files.catbox.moe/pjo5km.jpg",
+    "koordinat": { "lat": -6.889958899884272, "lng": 109.67274405705429 },
+    "foto_utama": "/images/heritage/kauman-batik.jpg",
     "galeri": [
-      "https://files.catbox.moe/4rksvd.jpg",
-      "https://files.catbox.moe/pjo5km.jpg",
-      "https://files.catbox.moe/wqfoer.jpg"
+      "/images/heritage/kauman-batik-1.jpg",
+      "/images/heritage/kauman-batik-2.jpg",
+      "/images/heritage/kauman-batik-3.jpg"
     ],
-    "tahun_berdiri": "Abad ke-19",
+    "tahun_berdiri": "Abad ke-18",
     "jam_buka": "Setiap hari, 08.00–17.00 WIB",
-    "harga_tiket": "Gratis (donasi sukarela)",
-    "sejarah": "Kampung Batik Kauman merupakan salah satu sentra batik tertua di Pekalongan yang telah ada sejak abad ke-19. Nama 'Kauman' berasal dari kata 'kaum' yang merujuk pada komunitas Muslim yang tinggal di sekitar masjid agung. Para santri dan keluarga ulama di kampung ini mengembangkan tradisi membatik sebagai mata pencaharian utama, menciptakan motif-motif khas yang sarat dengan nilai-nilai Islam seperti geometris dan arabesk.\n\nPada masa kejayaannya di awal abad ke-20, Kampung Kauman menjadi pusat produksi batik sarung yang diekspor ke berbagai wilayah Nusantara hingga Semenanjung Melayu. Pedagang-pedagang Arab dan India yang singgah di pelabuhan Pekalongan turut mempengaruhi corak batik Kauman, menghasilkan perpaduan unik antara motif Jawa, Arab, dan India yang tidak ditemukan di daerah batik lainnya.\n\nKini Kampung Batik Kauman telah bertransformasi menjadi destinasi wisata budaya di mana pengunjung dapat melihat langsung proses pembuatan batik tulis dan batik cap dari para pengrajin yang mewarisi keterampilan turun-temurun. Gang-gang sempit kampung ini dihiasi mural batik dan instalasi seni yang menjadikannya salah satu kampung tematik paling instagramable di Jawa Tengah.",
-    "cerita_budaya": "Di Kampung Kauman, membatik bukan sekadar pekerjaan melainkan ibadah. Para pembatik perempuan di sini percaya bahwa setiap goresan canting adalah doa, dan proses pewarnaan dengan bahan alami seperti mengkudu dan indigo adalah bentuk syukur kepada alam. Tradisi ini diwariskan dari ibu ke anak perempuan melalui praktik langsung sejak usia dini.",
-    "alamat": "Kampung Kauman, Kec. Pekalongan Barat, Kota Pekalongan",
-    "deskripsi_singkat": "Sentra batik tertua di Pekalongan yang masih mempertahankan tradisi membatik tulis dengan motif khas pengaruh Islam dan Arab."
+    "harga_tiket": "Gratis",
+    "sejarah": "Kampung Batik Kauman terletak di Kecamatan Pekalongan Timur dan diperkirakan merupakan kampung pertama yang ada di kawasan Kota Pekalongan. Hal ini dibuktikan dengan banyaknya rumah-rumah kuno peninggalan zaman dahulu dan adanya Masjid Jami' Kauman yang didirikan sekitar tahun 1852. Nama 'Kauman' berasal dari kata 'kaum' yang merujuk pada komunitas Muslim yang mendiami kawasan ini.\n\nSalah satu bukti Kauman sebagai kampung batik tertua adalah ditemukannya Batik Encim yang coraknya merupakan perpaduan antara batik Arab dan India (Jlamprang) dengan batik pengaruh Cina. Pada tahun 2007, Kementerian Pariwisata dan Ekonomi Kreatif menetapkan Kauman sebagai Kampung Batik Kauman.\n\nPada tahun 2012, Kampung Batik Kauman memperoleh penghargaan sebagai salah satu desa wisata terbaik di Indonesia. Sejak ditetapkan, kampung ini terus berkembang dengan banyak showroom, kios, dan toko yang menjajakan hasil produksi batik serta kerajinan khas batik lainnya.",
+    "cerita_budaya": "Di sini pengunjung dapat menyaksikan langsung proses pembuatan batik tulis dan cap oleh para pengrajin yang telah mewarisi keahlian turun-temurun. Kauman juga dilengkapi infrastruktur modern seperti IPAL untuk mengatasi limbah batik, teknologi informasi (internet), dan sarana pembelajaran batik. Banyak toko batik lawas yang masih mempertahankan teknik tradisional dan motif klasik Pekalongan.",
+    "alamat": "Kauman, Kec. Pekalongan Timur, Kota Pekalongan",
+    "deskripsi_singkat": "Sentra batik tertua di Pekalongan dengan ratusan pengrajin dan toko batik yang masih mempertahankan teknik tradisional. Desa wisata terbaik Indonesia 2012."
   },
   {
-    "id": "klenteng-tay-kak-sie",
-    "nama": "Klenteng Tay Kak Sie",
-    "kategori": "tempat-religi",
-    "koordinat": { "lat": -6.8882, "lng": 109.6762 },
-    "foto_utama": "/images/heritage/klenteng-tay-kak-sie.jpg",
+    "id": "kampung-batik-pesindon",
+    "nama": "Kampung Batik Pesindon",
+    "kategori": "kampung-batik",
+    "koordinat": { "lat": -6.887047140772468, "lng": 109.66908578442275 },
+    "foto_utama": "/images/heritage/pesindon-main.jpg",
     "galeri": [
-      "/images/heritage/klenteng-tay-kak-sie-1.jpg",
-      "/images/heritage/klenteng-tay-kak-sie-2.jpg",
-      "/images/heritage/klenteng-tay-kak-sie-3.jpg"
+      "/images/heritage/pesindon-main-1.jpg",
+      "/images/heritage/pesindon-main-2.jpg",
+      "/images/heritage/pesindon-main-3.jpg"
     ],
-    "tahun_berdiri": "1850",
+    "tahun_berdiri": "1950-an",
+    "jam_buka": "Setiap hari, 08.00–17.00 WIB",
+    "harga_tiket": "Gratis",
+    "sejarah": "Kampung Batik Pesindon adalah sebuah perdukuhan yang wilayahnya terletak di Kelurahan Kergon, Kecamatan Pekalongan Barat. Sejak tahun 1950-an, membatik telah menjadi mata pencaharian utama warga di kawasan ini. Nama 'Pesindon' berasal dari kata 'pesinden' (penyanyi) yang konon merujuk pada para pengrajin perempuan yang bekerja membatik sambil bernyanyi.\n\nKampung ini berkembang sebagai sentra produksi batik yang padat dengan pengrajin rumahan. Sebanyak 33 showroom dan produsen batik memanjakan pengunjung. Tiap showroom dilengkapi dengan tempat istirahat dan singgah bagi para tamu. Pengunjung juga bisa langsung menuju ke rumah-rumah produksi batik bahkan langsung ke dapur produksi.\n\nKampung Batik Pesindon bersama Kampung Batik Kauman masuk dalam kategori Desa Wisata Nasional. Lokasi kampung ini dekat dengan Pasar Anyar Pekalongan dan Stasiun Kereta Api.",
+    "cerita_budaya": "Kampung Wisata Batik Pesindon tidak hanya menyediakan beragam jenis batik namun juga memotret langsung ke jantung produksi. Pengunjung bisa menyaksikan pembuatan batik dengan kualitas karya seni tinggi sekaligus mendapatkan pendidikan membatik dan pengetahuan sosial budaya pembatik Pekalongan. Kampung ini juga dilengkapi Kantor Sekretariat, telecenter untuk transaksi hingga mancanegara, tempat ibadah, area parkir, dan becak batik sebagai sarana transportasi wisata.",
+    "alamat": "Jl. Hayam Wuruk, Kergon, Kec. Pekalongan Barat, Kota Pekalongan",
+    "deskripsi_singkat": "Sentra batik dengan 33 showroom dan produsen batik, tempat pengunjung dapat menyaksikan langsung proses pembuatan batik dari dapur produksi."
+  },
+  {
+    "id": "kawasan-budaya-jetayu",
+    "nama": "Kawasan Budaya Jetayu",
+    "kategori": "bangunan-kolonial",
+    "koordinat": { "lat": -6.878589831352707, "lng": 109.67479439964178 },
+    "foto_utama": "/images/heritage/jetayu-main.jpg",
+    "galeri": [
+      "/images/heritage/jetayu-main-1.jpg",
+      "/images/heritage/jetayu-main-2.jpg",
+      "/images/heritage/jetayu-main-3.jpg"
+    ],
+    "tahun_berdiri": "Abad ke-18 (sejak 1700-an)",
+    "jam_buka": "Setiap hari, 24 jam (area terbuka)",
+    "harga_tiket": "Gratis",
+    "sejarah": "Kawasan Budaya Jetayu dulunya adalah jantung pemerintahan kolonial Belanda di Pekalongan. Gedung-gedung di kawasan ini sudah ada sejak tahun 1700-an dan menjadi pusat administrasi Karesidenan Pekalongan pada masa Hindia Belanda. Di sinilah keputusan-keputusan besar diambil, dan gedung-gedung megah ini menjadi saksi bisu perubahan zaman dari era kolonial hingga kemerdekaan Indonesia.\n\nKawasan ini mencakup beberapa bangunan bersejarah penting: bekas Kantor Residen Pekalongan (dibangun 1850), Museum Batik (bekas gedung administrasi keuangan Belanda), Kantor Pos Pekalongan (berdiri 1920), serta lapangan terbuka yang kini menjadi ruang publik. Gedung-gedung bergaya Art Deco, Neo-Klasik, dan Indische Empire di kawasan ini masih mempertahankan orisinalitas arsitekturnya.\n\nPada masa kemerdekaan, Gedung Bakorwil di kawasan ini pernah digunakan sebagai Rumah Dinas/Kantor Karesidenan Pekalongan hingga tahun 2000.",
+    "cerita_budaya": "Gedung-gedung bergaya kolonial di kawasan Jetayu kini difungsikan sebagai pusat kegiatan budaya dan seni. Setiap akhir pekan sering diadakan pertunjukan seni tradisional dan pameran budaya. Kawasan ini juga menjadi rute utama Festival Kostum Karnaval Batik yang diselenggarakan sejak 2011, di mana peserta melakukan karnaval dari Alun-alun Pekalongan hingga kawasan Jetayu sejauh 2 kilometer. Jetayu adalah wajah Eropa dari Pekalongan — representasi arsitektur kolonial yang masih terawat.",
+    "alamat": "Jl. Jetayu, Panjang Wetan, Kec. Pekalongan Utara, Kota Pekalongan",
+    "deskripsi_singkat": "Kawasan heritage dengan gedung-gedung kolonial Belanda sejak abad ke-18 yang kini menjadi pusat kegiatan budaya dan seni Pekalongan."
+  },
+  {
+    "id": "stasiun-pekalongan",
+    "nama": "Stasiun Pekalongan",
+    "kategori": "bangunan-kolonial",
+    "koordinat": { "lat": -6.88971175068056, "lng": 109.66429999843635 },
+    "foto_utama": "/images/heritage/stasiun-pkn.jpg",
+    "galeri": [
+      "/images/heritage/stasiun-pkn-1.jpg",
+      "/images/heritage/stasiun-pkn-2.jpg",
+      "/images/heritage/stasiun-pkn-3.jpg"
+    ],
+    "tahun_berdiri": "1899",
+    "jam_buka": "Setiap hari, 24 jam",
+    "harga_tiket": "Gratis (area stasiun)",
+    "sejarah": "Stasiun Pekalongan dibangun pada akhir abad ke-19 oleh pemerintah kolonial Belanda sebagai bagian dari jalur kereta api utara Jawa yang menghubungkan Batavia (Jakarta) dengan Surabaya. Stasiun ini menjadi salah satu stasiun tersibuk di jalur Semarang-Jakarta dan menjadi saksi pentingnya peran Pekalongan sebagai kota pelabuhan dan pusat industri batik.\n\nBangunan stasiun dengan arsitektur kolonial Belanda ini masih mempertahankan orisinalitasnya hingga kini, dengan ciri khas dinding tebal, langit-langit tinggi, dan ventilasi besar yang dirancang untuk iklim tropis. Stasiun ini berada di jalur Pantura yang strategis, menjadikannya pintu gerbang utama bagi wisatawan yang berkunjung ke Kota Batik.",
+    "cerita_budaya": "Setiap hari ribuan penumpang naik turun di stasiun ini, menjadikannya pusat aktivitas ekonomi dan sosial masyarakat Pekalongan. Bagi para pembatik dan pedagang batik zaman dahulu, stasiun ini adalah jalur utama untuk mengirim produk batik ke pasar-pasar di Jakarta, Semarang, dan Surabaya. Hingga kini, stasiun ini tetap menjadi salah satu landmark penting kota.",
+    "alamat": "Jl. Gajah Mada, Kec. Pekalongan Barat, Kota Pekalongan",
+    "deskripsi_singkat": "Stasiun kereta api bersejarah dengan arsitektur kolonial Belanda yang masih aktif beroperasi sebagai pintu gerbang utama Kota Pekalongan."
+  },
+  {
+    "id": "kantor-pos-pekalongan",
+    "nama": "Kantor Pos Pekalongan",
+    "kategori": "bangunan-kolonial",
+    "koordinat": { "lat": -6.87576856907879, "lng": 109.67303313797807 },
+    "foto_utama": "/images/heritage/kantor-pos-pkn.jpg",
+    "galeri": [
+      "/images/heritage/kantor-pos-pkn-1.jpg",
+      "/images/heritage/kantor-pos-pkn-2.jpg",
+      "/images/heritage/kantor-pos-pkn-3.jpg"
+    ],
+    "tahun_berdiri": "1756 (cikal bakal), 1920 (gedung sekarang)",
+    "jam_buka": "Senin–Sabtu, 08.00–16.00 WIB",
+    "harga_tiket": "Gratis",
+    "sejarah": "Kantor Pos Pekalongan memiliki sejarah yang sangat panjang. Cikal bakalnya sudah ada sejak tahun 1746 ketika kawasan Jetayu berfungsi sebagai tempat pergantian kuda pada jalur pos Batavia–Semarang. Gedung kantor pos yang sekarang di Jetayu baru berdiri pada tahun 1920, menggantikan bangunan lama.\n\nFasad Kantor Pos Pekalongan kentara menunjukkan identitas arsitektur bangunan kolonial Belanda dengan dinding tebal, pilar-pilar klasik, dan langit-langit tinggi. Gedung ini terletak tepat di seberang Lapangan Jetayu, dekat dengan Museum Batik Pekalongan, menjadikannya bagian integral dari kawasan heritage Jetayu.\n\nKantor Pos ini merupakan salah satu bangunan heritage Pos Indonesia yang masih berfungsi hingga kini, menjadikannya saksi hidup transformasi layanan pos dari era kolonial hingga era digital.",
+    "cerita_budaya": "Sebagai bangunan heritage yang masih aktif beroperasi, Kantor Pos Pekalongan menjadi bukti bahwa warisan kolonial dapat terus hidup dan berfungsi di tengah modernisasi. Letaknya yang strategis di kawasan Jetayu menjadikannya salah satu spot heritage walk yang menarik di sore hari, ketika cahaya matahari jatuh sempurna menyinari dinding-dinding bangunan kolonial.",
+    "alamat": "Jl. Cenderawasih No. 1, Kandang Panjang, Kec. Pekalongan Utara, Kota Pekalongan",
+    "deskripsi_singkat": "Bangunan heritage Pos Indonesia bergaya kolonial Belanda yang masih aktif beroperasi sejak era 1700-an, terletak di kawasan budaya Jetayu."
+  },
+  {
+    "id": "klenteng-po-an-thian",
+    "nama": "Klenteng Po An Thian",
+    "kategori": "tempat-religi",
+    "koordinat": { "lat": -6.879860934637667, "lng": 109.67447219975485 },
+    "foto_utama": "/images/heritage/klenteng-pat.jpg",
+    "galeri": [
+      "/images/heritage/klenteng-pat-1.jpg",
+      "/images/heritage/klenteng-pat-2.jpg",
+      "/images/heritage/klenteng-pat-3.jpg"
+    ],
+    "tahun_berdiri": "1882",
     "jam_buka": "Setiap hari, 06.00–18.00 WIB",
     "harga_tiket": "Gratis",
-    "sejarah": "Klenteng Tay Kak Sie merupakan salah satu klenteng tertua di pesisir utara Jawa yang dibangun sekitar tahun 1850 oleh komunitas Tionghoa perantauan di Pekalongan. Nama 'Tay Kak Sie' berarti 'Kuil Kesadaran Agung' dalam bahasa Hokkien, mencerminkan ajaran Buddha dan Taoisme yang menjadi landasan spiritual klenteng ini. Bangunan ini menjadi saksi bisu kehadiran komunitas Tionghoa di Pekalongan yang telah berlangsung sejak era perdagangan maritim abad ke-15.\n\nArsitektur klenteng ini memadukan gaya Tiongkok Selatan dengan adaptasi lokal Jawa. Atap melengkung khas dengan ornamen naga dan phoenix dihiasi ukiran kayu jati buatan pengrajin lokal. Di dalam klenteng terdapat altar utama yang didedikasikan untuk Dewi Kwan Im (Avalokitesvara), serta altar samping untuk Dewa Kwan Kong dan Dewa Bumi. Dinding-dindingnya dihiasi lukisan mural yang menceritakan legenda-legenda Tiongkok klasik.\n\nKlenteng Tay Kak Sie memainkan peran penting dalam akulturasi budaya Tionghoa-Jawa di Pekalongan. Dari sinilah lahir tradisi batik Encim dan motif Liong yang menjadi ciri khas batik Pekalongan. Setiap tahun pada perayaan Cap Go Meh, klenteng ini menjadi pusat perayaan yang dihadiri oleh masyarakat lintas etnis dan agama.",
-    "cerita_budaya": "Klenteng ini menjadi simbol harmoni antarbudaya di Pekalongan. Pada masa lalu, para nyonya Tionghoa (Encim) yang tinggal di sekitar klenteng inilah yang pertama kali memperkenalkan motif burung hong, naga, dan bunga seruni ke dalam kain batik Pekalongan, menciptakan genre batik Encim yang kini menjadi salah satu jenis batik paling berharga di dunia.",
-    "alamat": "Jl. Dr. Sutomo, Panjang Wetan, Kec. Pekalongan Utara, Kota Pekalongan",
-    "deskripsi_singkat": "Klenteng bersejarah dari abad ke-19, pusat budaya Tionghoa-Jawa dan asal mula tradisi batik Encim Pekalongan."
+    "sejarah": "Klenteng Po An Thian didirikan pada tahun 1882 oleh komunitas Tionghoa yang bermukim di Pekalongan. Terletak di Jalan Blimbing, jantung kawasan Pecinan (Chinese Wijk) Pekalongan, klenteng ini menjadi pusat kegiatan keagamaan dan sosial komunitas Tionghoa serta menjadi saksi sejarah keberagaman budaya di Kota Pekalongan.\n\nKlenteng ini bukan sekadar tempat ibadah, tapi saksi bisu kedatangan leluhur Tionghoa ke Pekalongan yang bermula dari para pedagang yang singgah di pelabuhan Pekalongan sejak abad ke-17. Ornamen naga dan warna merahnya yang menyala sangat kontras namun harmonis dengan lingkungan sekitar.\n\nKlenteng ini menjadi pusat perayaan Cap Go Meh di Pekalongan yang dipusatkan di kawasan Jalan Blimbing, kemudian pawai berjalan ke Jalan Bandung, Jalan Diponegoro, Jalan Hayam Wuruk, dan Jalan Sultan Agung.",
+    "cerita_budaya": "Klenteng Po An Thian berdiri bersisian dengan Gereja Santo Petrus — sebuah pemandangan langka yang menyejukkan hati. Tak jauh dari sana, kubah sebuah masjid menyembul di antara atap bangunan. Tiga tempat ibadah di satu ruas jalan ini menggambarkan harmonisasi antar pemeluk agama yang sangat indah, wujud nyata Bhinneka Tunggal Ika yang sudah dipraktikkan warga Pekalongan jauh sebelum slogan itu sering didengungkan. Setiap tahun, klenteng ini menjadi lokasi perayaan Imlek dan tradisi Pek Cun yang dihadiri ribuan pengunjung.",
+    "alamat": "Jl. Blimbing, Kec. Pekalongan Utara, Kota Pekalongan",
+    "deskripsi_singkat": "Klenteng tertua di Pekalongan (1882) di kawasan Pecinan, simbol keberagaman budaya dan harmoni antarumat beragama di kota ini."
   },
   {
-    "id": "masjid-agung-baitul-hakim",
-    "nama": "Masjid Agung Baitul Hakim",
+    "id": "gereja-santo-petrus",
+    "nama": "Gereja Santo Petrus",
     "kategori": "tempat-religi",
-    "koordinat": { "lat": -6.8900, "lng": 109.6690 },
-    "foto_utama": "/images/heritage/masjid-agung.jpg",
+    "koordinat": { "lat": -6.879375382085224, "lng": 109.67520845661309 },
+    "foto_utama": "/images/heritage/gereja-st-petrus.jpg",
     "galeri": [
-      "/images/heritage/masjid-agung-1.jpg",
-      "/images/heritage/masjid-agung-2.jpg",
-      "/images/heritage/masjid-agung-3.jpg"
+      "/images/heritage/gereja-st-petrus-1.jpg",
+      "/images/heritage/gereja-st-petrus-2.jpg",
+      "/images/heritage/gereja-st-petrus-3.jpg"
     ],
-    "tahun_berdiri": "Abad ke-18",
-    "jam_buka": "Setiap hari, 24 jam (area luar 05.00–21.00 WIB)",
+    "tahun_berdiri": "1930",
+    "jam_buka": "Setiap hari (sesuai jadwal ibadah)",
     "harga_tiket": "Gratis",
-    "sejarah": "Masjid Agung Baitul Hakim adalah masjid utama Kota Pekalongan yang telah berdiri sejak abad ke-18, menjadikannya salah satu masjid tertua di pesisir utara Jawa. Dibangun pada masa penyebaran Islam di tanah Jawa oleh para wali dan pedagang Muslim, masjid ini awalnya merupakan langgar sederhana dari kayu jati yang kemudian diperluas seiring bertambahnya jumlah umat Islam di Pekalongan.\n\nArsitektur masjid ini menunjukkan perpaduan gaya Jawa tradisional dengan pengaruh Timur Tengah. Atap tajug bertingkat tiga yang menjadi ciri khas masjid Jawa kuno masih dipertahankan, sementara ornamen kaligrafi Arab menghiasi mihrab dan mimbar. Pada masa kolonial Belanda, masjid ini mengalami beberapa kali renovasi namun tetap mempertahankan struktur aslinya. Tiang-tiang kayu jati berukir yang menyangga atap utama diperkirakan berusia lebih dari 200 tahun.\n\nMasjid Agung Baitul Hakim memiliki peran sentral dalam perkembangan batik Pekalongan. Para ulama dan santri yang berkumpul di masjid ini turut mengembangkan motif-motif batik bermotif Islami, seperti motif Jlamprang yang terinspirasi dari kaligrafi Arab dan geometri Islam. Hingga kini, masjid ini tetap menjadi pusat kegiatan keagamaan dan budaya masyarakat Pekalongan.",
-    "cerita_budaya": "Setiap menjelang bulan Ramadhan, halaman Masjid Agung Baitul Hakim dipenuhi pedagang kain batik yang menjual sarung dan mukena bermotif khas Pekalongan. Tradisi ini telah berlangsung berabad-abad dan menjadi momen di mana seni batik dan spiritualitas Islam bertemu dalam harmoni yang indah.",
-    "alamat": "Jl. Alun-Alun, Kauman, Kec. Pekalongan Barat, Kota Pekalongan",
-    "deskripsi_singkat": "Masjid utama Pekalongan dari abad ke-18 dengan arsitektur tajug khas Jawa dan peran penting dalam pengembangan motif batik Islami."
+    "sejarah": "Gereja Santo Petrus adalah gereja Katolik yang dibangun sekitar tahun 1930 di kawasan Jalan Blimbing, tepat di jantung kawasan Pecinan Pekalongan. Gereja ini memiliki arsitektur kolonial yang khas dengan dinding tebal dan langit-langit tinggi, dirancang untuk menahan iklim tropis pesisir.\n\nSelama hampir satu abad, Gereja Santo Petrus menjadi tetangga yang rukun bagi Klenteng Po An Thian yang berdiri bersisian. Keberadaan gereja ini mencerminkan kehadiran komunitas Katolik — baik keturunan Eropa maupun Tionghoa — yang telah lama menjadi bagian dari mosaik budaya Pekalongan.\n\nGereja ini merupakan salah satu dari 'Segitiga Emas Toleransi' di Jalan Blimbing, bersama Klenteng Po An Thian dan sebuah masjid yang tidak jauh dari sana.",
+    "cerita_budaya": "Keberadaan Gereja Santo Petrus di samping Klenteng Po An Thian dan dekat dengan masjid merupakan bukti nyata toleransi antarumat beragama yang telah berlangsung lama di Pekalongan. Tiga tempat ibadah berbeda agama berdiri berdampingan di satu ruas jalan, menciptakan pemandangan yang langka dan mengharukan. Ini adalah warisan budaya tak benda yang tak kalah pentingnya dari bangunan fisik.",
+    "alamat": "Jl. Blimbing, Kec. Pekalongan Utara, Kota Pekalongan",
+    "deskripsi_singkat": "Gereja Katolik bergaya kolonial (1930) yang berdiri berdampingan dengan Klenteng Po An Thian, simbol toleransi antarumat beragama di Pekalongan."
   },
   {
-    "id": "gedung-bai",
-    "nama": "Gedung BAI (Bank Andalan Inggris)",
-    "kategori": "bangunan-kolonial",
-    "koordinat": { "lat": -6.8870, "lng": 109.6730 },
-    "foto_utama": "/images/heritage/gedung-bai.jpg",
+    "id": "masjid-jami-kauman",
+    "nama": "Masjid Jami Kauman",
+    "kategori": "tempat-religi",
+    "koordinat": { "lat": -6.8898, "lng": 109.6812 },
+    "foto_utama": "/images/heritage/masjid-jami-kauman.jpg",
     "galeri": [
-      "/images/heritage/gedung-bai-1.jpg",
-      "/images/heritage/gedung-bai-2.jpg",
-      "/images/heritage/gedung-bai-3.jpg"
+      "/images/heritage/masjid-jami-kauman-1.jpg",
+      "/images/heritage/masjid-jami-kauman-2.jpg",
+      "/images/heritage/masjid-jami-kauman-3.jpg"
     ],
-    "tahun_berdiri": "1895",
-    "jam_buka": "Senin–Jumat, 09.00–16.00 WIB (eksterior dapat dilihat kapan saja)",
-    "harga_tiket": "Gratis (hanya eksterior)",
-    "sejarah": "Gedung BAI atau Bank Andalan Inggris merupakan salah satu bangunan kolonial paling megah di Pekalongan yang dibangun pada tahun 1895 di masa puncak kolonialisme Belanda. Bangunan ini awalnya berfungsi sebagai kantor dagang dan perbankan yang melayani transaksi perdagangan hasil bumi, terutama gula, kopi, dan kain batik yang diekspor ke Eropa melalui pelabuhan Pekalongan.\n\nArsitektur gedung ini bergaya Indische Empire dengan pilar-pilar Doric yang menjulang, jendela-jendela besar bergaya neo-klasik, dan veranda luas yang khas bangunan tropis kolonial. Lantai marmer impor dari Italia dan langit-langit setinggi lima meter mencerminkan kemewahan era kolonial. Fasad bangunan yang menghadap ke jalan utama masih mempertahankan ornamen stucco asli dan balustrade besi tempa buatan Eropa.\n\nSetelah kemerdekaan Indonesia, gedung ini beralih fungsi beberapa kali — dari kantor pemerintahan hingga sempat terbengkalai. Kini Gedung BAI menjadi salah satu cagar budaya yang dilindungi pemerintah Kota Pekalongan dan sesekali digunakan untuk pameran seni dan acara budaya. Keberadaannya menjadi pengingat akan sejarah perdagangan internasional yang pernah menjadikan Pekalongan sebagai kota pelabuhan penting di pesisir utara Jawa.",
-    "cerita_budaya": "Gedung BAI menyimpan cerita tentang bagaimana perdagangan batik Pekalongan merambah pasar internasional. Dari gedung inilah kain-kain batik pesisiran dikirim ke Eropa, Jepang, dan Semenanjung Melayu, menjadikan Pekalongan dikenal sebagai 'Kota Batik' jauh sebelum julukan itu resmi diberikan.",
-    "alamat": "Jl. Hayam Wuruk, Panjang Wetan, Kec. Pekalongan Utara, Kota Pekalongan",
-    "deskripsi_singkat": "Bangunan kolonial megah bergaya Indische Empire dari tahun 1895, saksi bisu kejayaan perdagangan batik Pekalongan ke mancanegara."
-  },
-  {
-    "id": "soto-bang-ali",
-    "nama": "Soto Bang Ali",
-    "kategori": "kuliner-legendaris",
-    "koordinat": { "lat": -6.8920, "lng": 109.6710 },
-    "foto_utama": "/images/heritage/soto-bang-ali.jpg",
-    "galeri": [
-      "/images/heritage/soto-bang-ali-1.jpg",
-      "/images/heritage/soto-bang-ali-2.jpg",
-      "/images/heritage/soto-bang-ali-3.jpg"
-    ],
-    "tahun_berdiri": "1960-an",
-    "jam_buka": "Setiap hari, 06.00–13.00 WIB (hingga habis)",
-    "harga_tiket": "Mulai Rp 15.000 per porsi",
-    "sejarah": "Soto Bang Ali adalah warung soto legendaris yang telah menjadi ikon kuliner Pekalongan sejak tahun 1960-an. Didirikan oleh Bang Ali, seorang keturunan Arab-Jawa yang meracik resep soto tauto khas Pekalongan dengan bumbu rempah warisan keluarganya. Soto tauto sendiri merupakan varian soto khas pesisir utara Jawa yang menggunakan tauco (pasta kedelai fermentasi) sebagai bumbu utama, mencerminkan perpaduan kuliner Jawa dengan pengaruh Tionghoa.\n\nKeunikan Soto Bang Ali terletak pada kuahnya yang kental dan gurih, dibuat dari kaldu sapi yang direbus berjam-jam dengan campuran tauco, bawang putih goreng, dan rempah-rempah pilihan. Daging sapi yang empuk disajikan bersama irisan tomat, daun bawang, dan sambal kecap yang menjadi pelengkap wajib. Setiap pagi, warung sederhana ini sudah dipenuhi pengunjung dari berbagai kalangan yang rela antre demi semangkuk soto yang legendaris.\n\nResep asli Soto Bang Ali kini dilanjutkan oleh generasi ketiga keluarganya. Meski telah berpuluh-puluh tahun, cita rasa sotonya diklaim tidak pernah berubah. Warung ini menjadi bukti bahwa kuliner Pekalongan, seperti halnya batiknya, merupakan hasil akulturasi budaya yang harmonis antara Jawa, Arab, dan Tionghoa.",
-    "cerita_budaya": "Bagi masyarakat Pekalongan, menyantap soto tauto di pagi hari bukan sekadar sarapan melainkan ritual sosial. Di warung Soto Bang Ali, pedagang batik, nelayan, dan pegawai kantoran duduk berdampingan, berbagi meja sambil mendiskusikan kabar terkini — sebuah tradisi yang menunjukkan kesetaraan sosial khas masyarakat pesisir.",
-    "alamat": "Jl. Sulawesi, Kauman, Kec. Pekalongan Barat, Kota Pekalongan",
-    "deskripsi_singkat": "Warung soto tauto legendaris sejak 1960-an dengan resep turun-temurun, ikon kuliner akulturasi budaya Pekalongan."
-  },
-  {
-    "id": "nasi-grombyang-cahyo",
-    "nama": "Nasi Grombyang Cahyo",
-    "kategori": "kuliner-legendaris",
-    "koordinat": { "lat": -6.8935, "lng": 109.6725 },
-    "foto_utama": "/images/heritage/nasi-grombyang.jpg",
-    "galeri": [
-      "/images/heritage/nasi-grombyang-1.jpg",
-      "/images/heritage/nasi-grombyang-2.jpg",
-      "/images/heritage/nasi-grombyang-3.jpg"
-    ],
-    "tahun_berdiri": "1970-an",
-    "jam_buka": "Setiap hari, 17.00–23.00 WIB",
-    "harga_tiket": "Mulai Rp 20.000 per porsi",
-    "sejarah": "Nasi Grombyang adalah hidangan khas Pekalongan yang tidak ditemukan di kota lain mana pun di Indonesia. Warung Nasi Grombyang Cahyo, berdiri sejak tahun 1970-an, merupakan salah satu tempat paling autentik untuk menikmati kuliner unik ini. Nama 'grombyang' konon berasal dari bunyi 'byung' — suara kuah kental yang dituang ke atas nasi, menciptakan sensasi rasa yang khas.\n\nHidangan ini terdiri dari nasi putih yang disiram kuah semur daging sapi kental berwarna coklat kehitaman, disajikan dengan potongan daging sapi, babat, dan kikil yang telah dimasak lama hingga empuk. Bumbu utamanya adalah kecap manis, bawang merah goreng, dan rempah-rempah khas pesisiran. Kelezatan nasi grombyang terletak pada kuahnya yang manis-gurih-pedas secara bersamaan, sebuah harmoni rasa yang mencerminkan karakteristik kuliner pesisir utara Jawa.\n\nWarung Cahyo menjadi favorit warga Pekalongan terutama untuk santapan malam. Suasana warung yang sederhana dengan meja-meja kayu dan penerangan temaram justru menambah kenikmatan bersantap. Banyak perantau Pekalongan yang menjadikan warung ini sebagai tujuan pertama saat pulang kampung.",
-    "cerita_budaya": "Nasi Grombyang sering disebut sebagai 'comfort food' orang Pekalongan. Bagi warga perantauan, semangkuk nasi grombyang adalah peluk hangat dari kampung halaman. Resepnya yang rahasia dan berbeda di setiap warung menjadikannya topik perdebatan kuliner yang tak pernah usai di kalangan pecinta makanan Pekalongan.",
-    "alamat": "Jl. Dr. Wahidin, Podosugih, Kec. Pekalongan Barat, Kota Pekalongan",
-    "deskripsi_singkat": "Kuliner ikonik khas Pekalongan berupa nasi dengan siraman kuah semur daging sapi kental yang manis-gurih, sajian malam favorit warga lokal."
-  },
-  {
-    "id": "alun-alun-pekalongan",
-    "nama": "Alun-Alun Pekalongan",
-    "kategori": "hidden-gems",
-    "koordinat": { "lat": -6.8895, "lng": 109.6715 },
-    "foto_utama": "/images/heritage/alun-alun.jpg",
-    "galeri": [
-      "/images/heritage/alun-alun-1.jpg",
-      "/images/heritage/alun-alun-2.jpg",
-      "/images/heritage/alun-alun-3.jpg"
-    ],
-    "tahun_berdiri": "Abad ke-18",
+    "tahun_berdiri": "1852",
     "jam_buka": "Setiap hari, 24 jam",
     "harga_tiket": "Gratis",
-    "sejarah": "Alun-Alun Pekalongan merupakan ruang publik bersejarah yang telah menjadi jantung kehidupan sosial kota sejak era Kesultanan Mataram pada abad ke-18. Seperti alun-alun di kota-kota Jawa lainnya, lapangan terbuka ini dikelilingi oleh bangunan-bangunan penting: Masjid Agung di sisi barat, kantor pemerintahan di sisi utara, dan deretan pertokoan di sisi timur dan selatan.\n\nPada masa kolonial Belanda, Alun-Alun Pekalongan menjadi pusat kegiatan administratif dan perdagangan. Di sinilah pasar batik terbesar di pesisir utara Jawa pernah digelar, menarik pedagang dari Semarang, Cirebon, hingga Batavia. Pohon-pohon beringin raksasa yang ditanam pada era tersebut masih berdiri kokoh hingga kini, menjadi saksi bisu perubahan zaman dari kolonial hingga modern.\n\nKini Alun-Alun Pekalongan telah direnovasi menjadi taman kota modern yang tetap mempertahankan nilai historisnya. Setiap sore dan malam hari, tempat ini dipenuhi warga yang berolahraga, bersantai, dan menikmati jajanan kaki lima. Pada event-event besar seperti Pekan Batik Internasional, alun-alun ini bertransformasi menjadi panggung pertunjukan seni dan budaya yang meriah.",
-    "cerita_budaya": "Alun-Alun Pekalongan adalah tempat di mana semua lapisan masyarakat bertemu tanpa sekat. Di sore hari, anak-anak bermain layang-layang sementara para orang tua duduk berbincang di bawah pohon beringin. Tradisi berkumpul di alun-alun ini telah menjadi bagian tak terpisahkan dari identitas sosial masyarakat Pekalongan.",
-    "alamat": "Jl. Alun-Alun, Kauman, Kec. Pekalongan Barat, Kota Pekalongan",
-    "deskripsi_singkat": "Jantung kota Pekalongan sejak abad ke-18, ruang publik bersejarah yang kini menjadi pusat aktivitas sosial dan budaya warga."
+    "sejarah": "Masjid Jami Kauman didirikan sekitar tahun 1852 oleh komunitas Muslim di kawasan Kauman, Kecamatan Pekalongan Timur. Masjid ini menjadi salah satu masjid tertua di Pekalongan dan menjadi pusat penyebaran Islam di wilayah pesisir utara Jawa. Keberadaan masjid ini juga menjadi bukti bahwa Kauman telah menjadi pemukiman sejak lama.\n\nMasjid ini tidak hanya berfungsi sebagai tempat ibadah, tetapi juga sebagai pusat pendidikan dan kegiatan sosial masyarakat Kauman yang dikenal sebagai sentra batik tertua di Pekalongan. Para pengrajin batik Kauman memiliki hubungan erat dengan masjid ini, dan banyak di antara mereka yang aktif dalam kegiatan keagamaan.",
+    "cerita_budaya": "Masjid Jami Kauman menjadi pusat kegiatan Festival Dugderan yang diadakan setiap bulan Ramadan. Tradisi ini menandai datangnya bulan puasa dengan tabuhan bedug dan meriam bambu, dihadiri ribuan jamaah dari berbagai daerah. Masjid ini juga menjadi titik kumpul para pengrajin batik Kauman yang memadukan spiritualitas dengan kreativitas dalam karya batik mereka.",
+    "alamat": "Kauman, Kec. Pekalongan Timur, Kota Pekalongan",
+    "deskripsi_singkat": "Masjid bersejarah (1852) di jantung Kampung Batik Kauman, pusat kegiatan keagamaan dan budaya masyarakat batik Pekalongan."
   },
   {
-    "id": "pantai-pasir-kencana",
-    "nama": "Pantai Pasir Kencana",
-    "kategori": "hidden-gems",
-    "koordinat": { "lat": -6.8650, "lng": 109.6850 },
-    "foto_utama": "/images/heritage/pantai-pasir-kencana.jpg",
+    "id": "masjid-aulia-sapuro",
+    "nama": "Masjid Jami Aulia Sapuro",
+    "kategori": "tempat-religi",
+    "koordinat": { "lat": -6.896297573444841, "lng": 109.67565172022663 },
+    "foto_utama": "/images/heritage/masjid-aulia-sapuro.jpg",
     "galeri": [
-      "/images/heritage/pantai-pasir-kencana-1.jpg",
-      "/images/heritage/pantai-pasir-kencana-2.jpg",
-      "/images/heritage/pantai-pasir-kencana-3.jpg"
+      "/images/heritage/masjid-aulia-sapuro-1.jpg",
+      "/images/heritage/masjid-aulia-sapuro-2.jpg",
+      "/images/heritage/masjid-aulia-sapuro-3.jpg"
     ],
-    "tahun_berdiri": "1990-an (sebagai objek wisata)",
-    "jam_buka": "Setiap hari, 06.00–18.00 WIB",
-    "harga_tiket": "Rp 10.000 (dewasa), Rp 5.000 (anak-anak)",
-    "sejarah": "Pantai Pasir Kencana terletak di pesisir utara Kota Pekalongan dan merupakan destinasi wisata alam utama kota ini. Secara historis, kawasan pantai ini dulunya merupakan area pendaratan nelayan dan titik perdagangan maritim yang menghubungkan Pekalongan dengan jalur perdagangan Laut Jawa. Para pedagang Tionghoa, Arab, dan Gujarat yang membawa pengaruh budaya ke Pekalongan pertama kali menginjakkan kaki di pesisir ini.\n\nPada tahun 1990-an, pemerintah Kota Pekalongan mengembangkan kawasan pantai ini menjadi objek wisata dengan membangun taman bermain, kolam renang air laut, dan fasilitas rekreasi keluarga. Nama 'Pasir Kencana' diambil dari legenda lokal tentang pasir emas yang konon pernah ditemukan di pantai ini oleh para pelaut kuno. Meskipun legenda tersebut sulit dibuktikan, keindahan pantai dengan hamparan pasir hitam khas pantai utara Jawa tetap menjadi daya tarik tersendiri.\n\nPantai Pasir Kencana juga menjadi tempat di mana tradisi sedekah laut (nyadran) masih dilaksanakan setiap tahun oleh komunitas nelayan Pekalongan. Upacara ini merupakan bentuk syukur dan doa keselamatan bagi para nelayan yang menggantungkan hidup dari kekayaan Laut Jawa.",
-    "cerita_budaya": "Setiap tahun menjelang musim melaut, nelayan Pekalongan menggelar upacara sedekah laut di Pantai Pasir Kencana. Sesaji berupa kepala kerbau dan hasil bumi dihanyutkan ke laut sebagai ungkapan rasa hormat kepada penguasa laut. Tradisi ini memperlihatkan sisa-sisa kepercayaan pra-Islam yang masih hidup berdampingan dengan ajaran agama.",
-    "alamat": "Jl. Pantai Pasir Kencana, Panjang Baru, Kec. Pekalongan Utara, Kota Pekalongan",
-    "deskripsi_singkat": "Pantai bersejarah di pesisir utara Pekalongan, tempat pendaratan para pedagang kuno dan lokasi tradisi sedekah laut tahunan."
+    "tahun_berdiri": "1614 M (1035 H)",
+    "jam_buka": "Setiap hari, 24 jam",
+    "harga_tiket": "Gratis",
+    "sejarah": "Masjid Jami Aulia Sapuro dibangun pada tahun 1035 Hijriah atau sekitar 1614 Masehi oleh empat utusan Kerajaan Demak Bintoro, yakni Kiai Maksum, Kiai Sulaiman, Kiai Lukman, dan Nyai Kudung. Keempat tokoh ini semula hendak membangun masjid di Alas Roban, Kabupaten Batang, namun melalui salat istikharah mendapat petunjuk untuk memindahkan lokasi ke Sapuro.\n\nKayu-kayu bangunan Masjid Aulia Sapuro diyakini merupakan sisa pembangunan Masjid Agung Demak yang lebih dahulu dibangun pada 1479 M oleh Walisongo. Dengan usia lebih dari 400 tahun, masjid ini merupakan masjid tertua di seluruh wilayah Eks Karesidenan Pekalongan.\n\nMasjid ini mengalami lima kali perbaikan besar: 1614 M, 1722 M, 1787 M, 1884 M, dan 2010 M. Setiap perbaikan ditandai dengan prasasti yang masih tersimpan di dalam masjid. Pada awalnya bernama Masjid Galuh Rantai, kemudian berganti nama menjadi Masjid Jami Aulia pada 1980-an karena lokasinya di tengah kompleks makam para aulia (waliullah).",
+    "cerita_budaya": "Di kompleks makam sekitar masjid terdapat makam sejumlah ulama besar dan tokoh kerajaan, termasuk Habib Ahmad Alatas, Habib Hasyim bin Yahya, Pangeran Adipati Aryo Notodirjo (wafat 1899), dan Bupati Pasuruan Raden Tumenggung Amongnegoro (wafat 1666). Keistimewaan lainnya adalah adanya Al-Qur'an berukuran raksasa (1,2 x 2 meter) berisi Juz 30 yang menempel pada dinding masjid. Masjid ini menjadi tujuan ziarah wisatawan dari berbagai daerah dan mancanegara.",
+    "alamat": "Kelurahan Sapuro Kebulen, Kec. Pekalongan Barat, Kota Pekalongan",
+    "deskripsi_singkat": "Masjid tertua se-Karesidenan Pekalongan (400+ tahun) yang dibangun oleh utusan Kerajaan Demak, menyimpan Al-Qur'an raksasa dan makam para ulama besar."
   },
   {
-    "id": "kampung-batik-jenggot",
-    "nama": "Kampung Batik Jenggot",
+    "id": "soto-tauto-h-rochmani",
+    "nama": "Soto Tauto H. Rochmani",
+    "kategori": "kuliner-legendaris",
+    "koordinat": { "lat": -6.893795763482242, "lng": 109.66527637248225 },
+    "foto_utama": "/images/heritage/soto-tauto-rochmani.jpg",
+    "galeri": [
+      "/images/heritage/soto-tauto-rochmani-1.jpg",
+      "/images/heritage/soto-tauto-rochmani-2.jpg",
+      "/images/heritage/soto-tauto-rochmani-3.jpg"
+    ],
+    "tahun_berdiri": "1985",
+    "jam_buka": "Setiap hari, 09.00–16.00 WIB",
+    "harga_tiket": "Rp 27.000–35.000",
+    "sejarah": "Warung Soto Tauto Pak Haji Rochmani telah berdiri sekitar tahun 1985, menjadikannya salah satu kuliner legendaris Pekalongan. Awalnya berjualan di kawasan Pasar Sayun, warung ini kemudian pindah ke Jl. Kurinci No. 40, Bendan. Kini dikelola oleh generasi penerus keluarga yang tetap mempertahankan resep asli.\n\nSoto tauto adalah soto dengan bumbu tauco — kedelai yang telah dimasak dan dihaluskan — yang menjadi pembeda utama dari soto-soto lain di Indonesia. Konon, soto tauto pada awalnya merupakan makanan orang Tionghoa di Pekalongan yang kemudian diadaptasi oleh masyarakat lokal dengan sentuhan cita rasa Jawa pesisiran. Kuahnya kental berwarna kecokelatan dengan aroma tauco yang khas.",
+    "cerita_budaya": "Soto tauto merupakan kuliner khas Pekalongan yang paling terkenal dan dirindukan oleh warga Pekalongan perantauan maupun wisatawan. Penyajiannya cukup sederhana: bihun putih, daun bawang, bawang merah, dan kuah soto dengan tambahan tauco yang membuat kuahnya bertambah harum dengan cita rasa khas. Sebagai menu pelengkap biasanya tersedia tempe dan tahu goreng khas Pekalongan. Warung Pak H. Rochmani menjadi salah satu destinasi wajib bagi pecinta kuliner yang berkunjung ke Kota Batik.",
+    "alamat": "Jl. Kurinci No. 40, Bendan, Kec. Pekalongan Barat, Kota Pekalongan",
+    "deskripsi_singkat": "Soto tauto legendaris sejak 1985 dengan kuah tauco kental yang khas, salah satu kuliner wajib coba di Pekalongan."
+  },
+  {
+    "id": "garang-asem-masduki",
+    "nama": "Garang Asem Masduki",
+    "kategori": "kuliner-legendaris",
+    "koordinat": { "lat": -6.901230120632625, "lng": 109.67557722506575 },
+    "foto_utama": "/images/heritage/garang-asem-masduki.jpg",
+    "galeri": [
+      "/images/heritage/garang-asem-masduki-1.jpg",
+      "/images/heritage/garang-asem-masduki-2.jpg",
+      "/images/heritage/garang-asem-masduki-3.jpg"
+    ],
+    "tahun_berdiri": "1960-an",
+    "jam_buka": "Setiap hari, 08.00–21.00 WIB",
+    "harga_tiket": "Rp 25.000–45.000",
+    "sejarah": "Rumah Makan Masduki di Alun-alun lama Kota Pekalongan (Jalan Jenderal Sudirman) adalah salah satu tempat paling terkenal yang menyajikan garang asem khas Pekalongan. Berdiri sejak era 1960-an, warung ini telah menjadi ikon kuliner Kota Pekalongan selama lebih dari setengah abad.\n\nGarang asem adalah makanan sejenis rawon tetapi lebih bening dan berasa lebih asam dan pedas. Kuahnya ditambah banyak tomat dan di dalamnya dicampur dengan daging yang biasanya adalah daging kerbau, disajikan dalam keadaan panas disertai dengan telur rendang. Cita rasa asam-pedas-segar inilah yang membuat garang asem Pekalongan berbeda dari masakan serupa di daerah lain.",
+    "cerita_budaya": "Garang asem merepresentasikan akulturasi budaya di Pekalongan — perpaduan cita rasa Jawa pesisiran yang berani dengan pengaruh kuliner dari berbagai komunitas yang pernah menetap di kota ini. Rumah Makan Masduki telah menjadi tempat berkumpulnya berbagai generasi warga Pekalongan, dari pejabat hingga pedagang biasa, semuanya duduk bersama menikmati semangkuk garang asem yang hangat dan menyegarkan.",
+    "alamat": "Jl. Jenderal Sudirman (Alun-alun Lama), Kota Pekalongan",
+    "deskripsi_singkat": "Rumah makan legendaris sejak 1960-an dengan garang asem khas Pekalongan — kuah asam pedas dengan daging kerbau dan telur rendang."
+  },
+  {
+    "id": "sego-megono-pak-kasimin",
+    "nama": "Sego Megono Pak Kasimin (belum ketemu)",
+    "kategori": "kuliner-legendaris",
+    "koordinat": { "lat": -6.8920, "lng": 109.6730 },
+    "foto_utama": "/images/heritage/sego-megono.jpg",
+    "galeri": [
+      "/images/heritage/sego-megono-1.jpg",
+      "/images/heritage/sego-megono-2.jpg",
+      "/images/heritage/sego-megono-3.jpg"
+    ],
+    "tahun_berdiri": "1970-an",
+    "jam_buka": "Setiap hari, 06.00–14.00 WIB",
+    "harga_tiket": "Rp 8.000–15.000",
+    "sejarah": "Sego Megono adalah kuliner khas Pekalongan yang paling merakyat. Nama 'megono' konon berasal dari kata 'mergo ono' (sebab ada), yang menggambarkan sifat sederhana makanan ini — dibuat dari bahan yang tersedia di sekitar rumah. Megono berbahan dasar nangka muda yang dicacah kecil-kecil, direbus, lalu dicampur dengan bumbu urap yang terdiri dari parutan kelapa dan bumbu dapur yang dihaluskan.\n\nDahulu, megono umumnya hanya bisa dijumpai di warung-warung makan kelas menengah ke bawah sepanjang pantura dari Pekalongan hingga Batang. Namun kini telah diadopsi bersama soto Pekalongan dan dapat ditemui di berbagai restoran. Sego Megono Pak Kasimin adalah salah satu warung legendaris yang mempertahankan cita rasa autentik megono tradisional.",
+    "cerita_budaya": "Megono adalah makanan akar rumput yang mencerminkan karakter masyarakat Pekalongan: sederhana, kreatif, dan penuh cita rasa. Membuat megono tak terlampu rumit — nangka muda direbus, dicampur bumbu urap dari parutan kelapa, bawang putih, bawang merah, cabe, jeruk purut, kencur, dan garam. Menghidangkannya pun sederhana: nasi putih langsung diberi taburan megono. Meski sederhana, megono adalah kuliner yang paling dirindukan warga Pekalongan di perantauan.",
+    "alamat": "Kota Pekalongan (berbagai lokasi warung)",
+    "deskripsi_singkat": "Kuliner khas Pekalongan paling merakyat — nasi dengan taburan nangka muda berbumbu urap kelapa, cita rasa autentik yang telah ada sejak puluhan tahun."
+  },
+  {
+    "id": "kampung-canting-landungsari",
+    "nama": "Kampung Canting Landungsari-Kebulen (belum ketemu)",
     "kategori": "kampung-batik",
-    "koordinat": { "lat": -6.9050, "lng": 109.6680 },
-    "foto_utama": "/images/heritage/kampung-jenggot.jpg",
+    "koordinat": { "lat": -6.8905, "lng": 109.6635 },
+    "foto_utama": "/images/heritage/kampung-canting.jpg",
     "galeri": [
-      "/images/heritage/kampung-jenggot-1.jpg",
-      "/images/heritage/kampung-jenggot-2.jpg",
-      "/images/heritage/kampung-jenggot-3.jpg"
+      "/images/heritage/kampung-canting-1.jpg",
+      "/images/heritage/kampung-canting-2.jpg",
+      "/images/heritage/kampung-canting-3.jpg"
     ],
-    "tahun_berdiri": "Awal abad ke-20",
-    "jam_buka": "Setiap hari, 08.00–17.00 WIB",
-    "harga_tiket": "Gratis",
-    "sejarah": "Kampung Batik Jenggot terletak di wilayah Pekalongan Selatan dan merupakan salah satu sentra produksi batik cap terbesar di kota ini. Berbeda dengan Kampung Kauman yang terkenal dengan batik tulisnya, Kampung Jenggot mengembangkan teknik batik cap (stamped batik) yang memungkinkan produksi dalam jumlah besar tanpa mengurangi keindahan motif. Teknik ini mulai berkembang pada awal abad ke-20 seiring meningkatnya permintaan pasar.\n\nNama 'Jenggot' konon berasal dari nama seorang tokoh masyarakat berjanggut lebat yang pertama kali memperkenalkan teknik cap tembaga di kampung ini. Cap-cap tembaga tersebut dibuat oleh pengrajin logam lokal dengan presisi tinggi, memungkinkan reproduksi motif-motif rumit secara konsisten. Beberapa cap tembaga antik buatan awal abad ke-20 masih tersimpan dan sesekali digunakan untuk produksi batik edisi khusus.\n\nKini Kampung Batik Jenggot menjelma menjadi pusat industri batik modern yang memadukan teknik tradisional dengan inovasi kontemporer. Para pengrajin di sini tidak hanya memproduksi kain batik, tetapi juga mengembangkan produk turunan seperti tas, sepatu, dan aksesori berbahan batik yang diminati pasar nasional dan internasional.",
-    "cerita_budaya": "Di Kampung Jenggot, suara 'dap dap dap' cap tembaga yang ditekan ke kain menjadi irama sehari-hari yang mengiringi kehidupan warga. Anak-anak tumbuh besar dengan aroma malam panas dan pewarna kain, menjadikan batik bukan sekadar produk ekonomi tetapi bagian dari identitas dan memori kolektif kampung.",
-    "alamat": "Kelurahan Jenggot, Kec. Pekalongan Selatan, Kota Pekalongan",
-    "deskripsi_singkat": "Sentra batik cap terbesar di Pekalongan yang memadukan teknik tradisional dengan inovasi produk batik kontemporer."
-  },
-  {
-    "id": "gedung-radio-prk",
-    "nama": "Gedung Radio PRK",
-    "kategori": "bangunan-kolonial",
-    "koordinat": { "lat": -6.8875, "lng": 109.6735 },
-    "foto_utama": "/images/heritage/gedung-radio-prk.jpg",
-    "galeri": [
-      "/images/heritage/gedung-radio-prk-1.jpg",
-      "/images/heritage/gedung-radio-prk-2.jpg",
-      "/images/heritage/gedung-radio-prk-3.jpg"
-    ],
-    "tahun_berdiri": "1930-an",
-    "jam_buka": "Senin–Jumat, 09.00–15.00 WIB",
-    "harga_tiket": "Gratis",
-    "sejarah": "Gedung Radio PRK (Pekalongan Radio Kring) merupakan bangunan bersejarah yang dibangun pada era 1930-an dan menjadi salah satu stasiun radio pertama di pesisir utara Jawa. Pada masa kolonial Belanda, radio ini berfungsi sebagai sarana penyiaran berita, hiburan, dan propaganda pemerintah kolonial. Gedung ini dirancang dengan gaya Art Deco yang populer pada masa itu, dengan garis-garis geometris tegas dan fasad yang sederhana namun elegan.\n\nPada masa pendudukan Jepang (1942-1945), gedung radio ini diambil alih dan digunakan untuk kepentingan propaganda militer Jepang. Namun, secara diam-diam, para pejuang kemerdekaan Indonesia memanfaatkan peralatan radio di gedung ini untuk menyadap informasi dan menyebarkan semangat perlawanan. Setelah Proklamasi Kemerdekaan 17 Agustus 1945, Radio PRK menjadi salah satu stasiun pertama yang menyiarkan berita kemerdekaan di wilayah Pekalongan.\n\nKini Gedung Radio PRK menjadi cagar budaya yang dilindungi dan sesekali digunakan untuk kegiatan kebudayaan. Bangunan ini menjadi pengingat akan peran penting media dalam perjuangan kemerdekaan dan perkembangan budaya di Pekalongan.",
-    "cerita_budaya": "Gedung Radio PRK menyimpan kisah heroik tentang bagaimana gelombang radio menjadi senjata perjuangan. Para pemuda Pekalongan yang bekerja di stasiun ini secara diam-diam menyiarkan lagu-lagu perjuangan dan berita kemerdekaan, mempertaruhkan nyawa demi menyebarkan api nasionalisme ke seluruh pelosok pesisir utara Jawa.",
-    "alamat": "Jl. KH. Mansyur, Panjang Wetan, Kec. Pekalongan Utara, Kota Pekalongan",
-    "deskripsi_singkat": "Stasiun radio bersejarah dari era 1930-an bergaya Art Deco, saksi perjuangan kemerdekaan melalui gelombang radio."
-  },
-  {
-    "id": "toko-oei",
-    "nama": "Toko Oei",
-    "kategori": "bangunan-kolonial",
-    "koordinat": { "lat": -6.8890, "lng": 109.6745 },
-    "foto_utama": "/images/heritage/toko-oei.jpg",
-    "galeri": [
-      "/images/heritage/toko-oei-1.jpg",
-      "/images/heritage/toko-oei-2.jpg",
-      "/images/heritage/toko-oei-3.jpg"
-    ],
-    "tahun_berdiri": "Awal abad ke-20",
+    "tahun_berdiri": "Turun-temurun (generasi ke-3)",
     "jam_buka": "Senin–Sabtu, 08.00–17.00 WIB",
-    "harga_tiket": "Gratis (area belanja)",
-    "sejarah": "Toko Oei merupakan bangunan perdagangan bersejarah milik keluarga Tionghoa-Peranakan yang telah berdiri sejak awal abad ke-20 di kawasan pecinan Pekalongan. Bangunan dua lantai ini memadukan arsitektur shophouse Tionghoa Selatan dengan elemen kolonial Belanda — lantai bawah berfungsi sebagai toko sementara lantai atas menjadi tempat tinggal keluarga. Gaya arsitektur ini khas kawasan perdagangan di kota-kota pesisir Jawa pada masa itu.\n\nKeluarga Oei dikenal sebagai salah satu keluarga pedagang batik Tionghoa paling berpengaruh di Pekalongan. Dari toko inilah mereka mendistribusikan batik-batik berkualitas tinggi, termasuk batik Encim dan batik Buketan yang menjadi primadona pasar kelas atas pada zaman kolonial. Koneksi dagang mereka membentang dari Batavia hingga Singapura dan Penang, menjadikan batik Pekalongan dikenal luas di Asia Tenggara.\n\nMeskipun fungsi komersialnya telah berubah seiring zaman, bangunan Toko Oei masih mempertahankan arsitektur aslinya, termasuk pintu lipat kayu jati, lantai tegel bermotif, dan balkon besi tempa di lantai atas. Bangunan ini menjadi salah satu contoh terbaik arsitektur peranakan di Pekalongan dan merupakan cagar budaya yang dilindungi.",
-    "cerita_budaya": "Toko Oei merepresentasikan peran penting komunitas Tionghoa-Peranakan dalam membangun ekonomi dan budaya Pekalongan. Melalui toko-toko seperti inilah, batik Pekalongan menjangkau pasar internasional, dan akulturasi budaya Tionghoa-Jawa menghasilkan motif-motif batik yang kini dianggap sebagai masterpiece seni tekstil dunia.",
-    "alamat": "Jl. Dr. Sutomo, Panjang Wetan, Kec. Pekalongan Utara, Kota Pekalongan",
-    "deskripsi_singkat": "Bangunan shophouse Tionghoa-Peranakan dari awal abad ke-20, pusat perdagangan batik Encim yang menghubungkan Pekalongan dengan pasar Asia Tenggara."
+    "harga_tiket": "Gratis",
+    "sejarah": "Sebagai pusat industri batik, berbagai kebutuhan dan usaha terkait batik ikut berkembang di Kota Pekalongan, termasuk pembuatan canting — alat paling penting untuk membatik. Kampung Canting Landungsari-Kebulen di Kelurahan Landungsari dan Kebulen, Kecamatan Pekalongan Barat, menjadi pusat pengrajin canting terbesar di Pekalongan.\n\nPara pengrajin di kampung ini pada umumnya adalah generasi ketiga yang secara turun-temurun mewarisi keahlian membuat canting dari para pendahulunya. Canting terdiri dari dua jenis: canting cap dan canting tulis. Proses pembuatan canting cap batik tergantung tingkat kerumitan motifnya — untuk motif sederhana bisa selesai dalam 2-5 hari, namun untuk motif rumit membutuhkan waktu hingga satu bulan.",
+    "cerita_budaya": "Pembuatan canting cap membutuhkan tingkat ketelitian, ketelatenan, dan kesabaran yang sangat tinggi agar menghasilkan karya seni yang bagus. Harga canting cap berkisar antara Rp 100.000 hingga Rp 3.000.000 — semakin halus motifnya, semakin lama proses pembuatannya dan semakin mahal harganya. Kini, canting cap tidak hanya dipandang sebagai alat membatik, namun juga sebagai karya seni yang indah untuk hiasan dan souvenir. Kampung ini adalah hidden gem yang jarang dikunjungi wisatawan namun sangat penting dalam ekosistem batik Pekalongan.",
+    "alamat": "Kelurahan Landungsari & Kebulen, Kec. Pekalongan Barat, Kota Pekalongan",
+    "deskripsi_singkat": "Sentra pengrajin canting batik turun-temurun (generasi ke-3), tempat lahirnya alat-alat membatik berkualitas tinggi untuk seluruh Pekalongan."
+  },
+  {
+    "id": "kampung-tenun-atbm-medono",
+    "nama": "Kampung Tenun ATBM Medono",
+    "kategori": "kampung-batik",
+    "koordinat": { "lat": -6.905324552787377, "lng": 109.66833186635206 },
+    "foto_utama": "/images/heritage/kampung-tenun-medono.jpg",
+    "galeri": [
+      "/images/heritage/kampung-tenun-medono-1.jpg",
+      "/images/heritage/kampung-tenun-medono-2.jpg",
+      "/images/heritage/kampung-tenun-medono-3.jpg"
+    ],
+    "tahun_berdiri": "Turun-temurun",
+    "jam_buka": "Setiap hari, 08.00–16.30 WIB",
+    "harga_tiket": "Gratis",
+    "sejarah": "Kelurahan Medono, Kecamatan Pekalongan Barat, dikenal sebagai pusat kerajinan tenun tangan ATBM (Alat Tenun Bukan Mesin). Kampung ini menghasilkan kain tenun ATBM dan beragam produk kerajinan interior rumah seperti korden, taplak meja, karpet, serta keset. Sebagian perajin juga memproduksi handuk dan kain ihram.\n\nTenun merupakan salah satu potensi Kota Pekalongan selain batik. Pengrajin di Medono masih menggunakan alat tenun tradisional yang dioperasikan secara manual, menghasilkan kain berkualitas tinggi dengan tekstur dan motif yang tidak bisa ditiru oleh mesin industri.",
+    "cerita_budaya": "Produk tenun ATBM Medono tidak hanya diminati pasar lokal dan nasional, tetapi juga konsumen internasional. Produk-produk tenun seperti serbet makan dan syal diekspor ke sejumlah negara antara lain Perancis, Amerika, Hong Kong, dan Malaysia. Salah satu pengrajin terkenal adalah Tenun ATBM Ilman Kandung di Jl. Karya Bhakti, Gang 3, yang mampu membuat kain tenun ATBM dengan panjang 90 meter dalam waktu satu minggu. Kampung ini adalah bukti bahwa tradisi kerajinan tangan Pekalongan tidak hanya terbatas pada batik.",
+    "alamat": "Jl. Karya Bhakti, Medono, Kec. Pekalongan Barat, Kota Pekalongan",
+    "deskripsi_singkat": "Sentra tenun tradisional ATBM yang produknya diekspor ke Perancis, Amerika, dan berbagai negara — warisan kerajinan tangan Pekalongan selain batik."
   },
   {
     "id": "pasar-grosir-setono",
-    "nama": "Pasar Grosir Setono",
-    "kategori": "hidden-gems",
-    "koordinat": { "lat": -6.9010, "lng": 109.6650 },
+    "nama": "Pasar Grosir Batik Setono",
+    "kategori": "bangunan-kolonial",
+    "koordinat": { "lat": -6.902616284130997, "lng": 109.68999014191078 },
     "foto_utama": "/images/heritage/pasar-setono.jpg",
     "galeri": [
       "/images/heritage/pasar-setono-1.jpg",
       "/images/heritage/pasar-setono-2.jpg",
       "/images/heritage/pasar-setono-3.jpg"
     ],
-    "tahun_berdiri": "1990-an",
+    "tahun_berdiri": "Era 1970-an",
     "jam_buka": "Setiap hari, 08.00–17.00 WIB",
     "harga_tiket": "Gratis",
-    "sejarah": "Pasar Grosir Setono, yang dikenal juga sebagai Pasar Grosir Batik Setono, merupakan pusat perdagangan batik terbesar di Pekalongan dan salah satu yang terbesar di Indonesia. Didirikan pada tahun 1990-an, pasar ini awalnya merupakan inisiatif pemerintah daerah untuk menyediakan tempat pemasaran terpusat bagi para pengrajin batik dari seluruh Pekalongan dan sekitarnya.\n\nDengan lebih dari 100 kios dan toko yang tersebar di kompleks bangunan bertingkat, Pasar Grosir Setono menawarkan berbagai jenis batik — mulai dari batik tulis premium berharga jutaan rupiah hingga batik printing terjangkau untuk pasar massal. Pengunjung dapat menemukan beragam produk batik: kain panjang, sarung, kemeja, dress, hingga aksesori dan souvenir bermotif batik khas Pekalongan.\n\nPasar ini menjadi barometer ekonomi batik Pekalongan. Saat musim puncak menjelang Lebaran dan tahun ajaran baru, aktivitas perdagangan di sini meningkat drastis dengan pembeli dari seluruh Indonesia bahkan mancanegara. Bagi wisatawan, Pasar Grosir Setono adalah surga belanja batik dengan harga yang jauh lebih murah dibanding di kota-kota besar.",
-    "cerita_budaya": "Di Pasar Setono, seni tawar-menawar adalah bagian dari pengalaman berbelanja. Para pedagang yang sebagian besar adalah perempuan pengrajin batik akan dengan senang hati menceritakan proses pembuatan dan makna filosofis motif batik dagangannya, menjadikan setiap transaksi sebagai pertukaran budaya yang berharga.",
-    "alamat": "Jl. Dr. Sutomo, Setono, Kec. Pekalongan Timur, Kota Pekalongan",
-    "deskripsi_singkat": "Pusat perdagangan batik terbesar di Pekalongan dengan lebih dari 100 kios, surga belanja batik dari premium hingga terjangkau."
+    "sejarah": "Pasar Grosir Batik Setono merupakan pusat wisata belanja pertama yang menjual berbagai kerajinan rakyat di Pekalongan, terutama batik. Terletak sekitar 3 km di sebelah timur pusat Kota Pekalongan, tepatnya di Jl. Raya Baros yang merupakan Jalan Raya Jakarta–Surabaya (Jalur Pantura), pasar ini mudah dijangkau dari berbagai arah.\n\nMeskipun namanya Pasar Grosir Batik, komoditas yang menjadi bursa tidak hanya batik semata. Pasar ini juga melayani pembelian eceran (retail) dan menyediakan komoditas batik, konveksi, tenun, palekat, dan kerajinan. Di sekitar pasar juga banyak dijumpai Rumah Batik dan Kerajinan yang tersebar ke beberapa daerah di Kota Pekalongan.",
+    "cerita_budaya": "Pasar Grosir Setono adalah denyut nadi perdagangan batik Pekalongan. Di sinilah para pedagang dari seluruh Indonesia datang untuk membeli batik dalam jumlah besar, yang kemudian didistribusikan ke pasar-pasar di Jakarta, Surabaya, dan seluruh Nusantara. Bagi wisatawan, pasar ini menawarkan pengalaman belanja batik yang autentik — langsung dari sumbernya, dengan harga grosir yang jauh lebih terjangkau. Suasananya yang ramai dan penuh tawar-menawar adalah cerminan budaya dagang Pekalongan yang telah berlangsung selama berabad-abad.",
+    "alamat": "Jl. Dr. Sutomo / Jl. Raya Baros, Kec. Pekalongan Timur, Kota Pekalongan",
+    "deskripsi_singkat": "Pusat grosir batik terbesar di Pekalongan di jalur Pantura, menjual batik, konveksi, tenun, dan kerajinan dengan harga grosir langsung dari produsen."
   },
   {
-    "id": "puri-bagongan",
-    "nama": "Puri Bagongan",
-    "kategori": "museum",
-    "koordinat": { "lat": -6.8880, "lng": 109.6720 },
-    "foto_utama": "/images/heritage/puri-bagongan.jpg",
+    "id": "jalan-blimbing-pecinan",
+    "nama": "Jalan Blimbing — Kawasan Pecinan (belum ketemu)",
+    "kategori": "bangunan-kolonial",
+    "koordinat": { "lat": -6.8894, "lng": 109.6760 },
+    "foto_utama": "/images/heritage/jalan-blimbing.jpg",
     "galeri": [
-      "/images/heritage/puri-bagongan-1.jpg",
-      "/images/heritage/puri-bagongan-2.jpg",
-      "/images/heritage/puri-bagongan-3.jpg"
+      "/images/heritage/jalan-blimbing-1.jpg",
+      "/images/heritage/jalan-blimbing-2.jpg",
+      "/images/heritage/jalan-blimbing-3.jpg"
     ],
     "tahun_berdiri": "Abad ke-19",
-    "jam_buka": "Selasa–Minggu, 09.00–15.00 WIB",
-    "harga_tiket": "Rp 10.000",
-    "sejarah": "Puri Bagongan merupakan bekas kediaman resmi Bupati Pekalongan pada masa pemerintahan kolonial Belanda di abad ke-19. Nama 'Bagongan' berasal dari bahasa Jawa yang berarti 'tempat berkumpul', merujuk pada fungsi bangunan ini sebagai pusat pemerintahan dan pertemuan para pejabat daerah. Arsitekturnya memadukan gaya Jawa tradisional dengan sentuhan kolonial Eropa, menciptakan langgam Indis yang anggun.\n\nBangunan utama puri ini terdiri dari pendopo besar dengan pilar-pilar kayu jati berukir, ruang dalam (dalem) yang menjadi kediaman pribadi bupati, dan paviliun-paviliun samping untuk tamu dan kegiatan resmi. Taman yang mengelilingi puri ditanami pohon-pohon tropis dan bunga-bunga yang tertata rapi menurut konsep taman Jawa. Di dalam puri tersimpan berbagai benda peninggalan sejarah, termasuk koleksi keris, batik kuno, dan dokumen-dokumen pemerintahan era kolonial.\n\nSetelah kemerdekaan, Puri Bagongan sempat terbengkalai sebelum akhirnya direvitalisasi dan dijadikan museum serta pusat kebudayaan. Kini puri ini menjadi tempat diselenggarakannya berbagai acara budaya, pameran batik, dan pertunjukan seni tradisional, menjaga agar warisan budaya para bupati Pekalongan tetap hidup dan dikenal generasi muda.",
-    "cerita_budaya": "Puri Bagongan adalah tempat di mana seni, kekuasaan, dan budaya Jawa bertemu. Di pendopo inilah para bupati Pekalongan menerima tamu-tamu penting sambil memamerkan koleksi batik terbaik mereka — sebuah tradisi diplomasi budaya yang menunjukkan bahwa batik bukan sekadar kain, melainkan simbol status dan identitas.",
-    "alamat": "Jl. Sriwijaya, Panjang Wetan, Kec. Pekalongan Utara, Kota Pekalongan",
-    "deskripsi_singkat": "Bekas kediaman resmi Bupati Pekalongan abad ke-19, kini menjadi museum dan pusat kebudayaan dengan koleksi peninggalan sejarah."
-  },
-  {
-    "id": "masjid-jami-pekalongan",
-    "nama": "Masjid Jami' Pekalongan",
-    "kategori": "tempat-religi",
-    "koordinat": { "lat": -6.8908, "lng": 109.6698 },
-    "foto_utama": "/images/heritage/masjid-jami.jpg",
-    "galeri": [
-      "/images/heritage/masjid-jami-1.jpg",
-      "/images/heritage/masjid-jami-2.jpg",
-      "/images/heritage/masjid-jami-3.jpg"
-    ],
-    "tahun_berdiri": "Abad ke-17",
-    "jam_buka": "Setiap hari, 24 jam",
-    "harga_tiket": "Gratis",
-    "sejarah": "Masjid Jami' Pekalongan merupakan salah satu masjid tertua di kota ini, diperkirakan telah berdiri sejak abad ke-17 pada masa awal penyebaran Islam di pesisir utara Jawa. Masjid ini didirikan oleh para pedagang dan mubalig Arab yang menetap di Pekalongan, menjadikannya bukti otentik pengaruh budaya Arab dalam membentuk identitas kota. Arsitektur awal masjid ini menggabungkan elemen Jawa dengan sentuhan Timur Tengah.\n\nSepanjang sejarahnya, Masjid Jami' telah mengalami beberapa kali renovasi dan perluasan, namun elemen-elemen asli seperti mihrab batu berukir dan beberapa tiang kayu jati masih dipertahankan. Kaligrafi Arab yang menghiasi dinding masjid merupakan karya para kaligrafer dari Hadramaut, Yaman, yang membawa tradisi seni Islam ke Nusantara. Masjid ini juga berfungsi sebagai madrasah di mana ilmu agama dan seni batik diajarkan secara bersamaan.\n\nMasjid Jami' Pekalongan memiliki ikatan erat dengan perkembangan motif batik Jlamprang, yang terinspirasi dari pola geometris dan kaligrafi Arab yang terdapat di masjid ini. Para santri yang belajar di masjid ini sekaligus belajar membatik, menghasilkan motif-motif yang sarat akan simbolisme Islam dan menjadi ciri khas batik Pekalongan.",
-    "cerita_budaya": "Masjid Jami' adalah tempat lahirnya konsep 'membatik sebagai ibadah'. Para ulama yang mengajar di sini menanamkan keyakinan bahwa setiap goresan canting adalah bentuk dzikir, dan kesabaran dalam proses membatik adalah latihan spiritual. Filosofi ini masih dipegang teguh oleh banyak pembatik Pekalongan hingga kini.",
-    "alamat": "Jl. KH. Agus Salim, Kauman, Kec. Pekalongan Barat, Kota Pekalongan",
-    "deskripsi_singkat": "Masjid bersejarah abad ke-17 yang menjadi akar lahirnya motif batik Jlamprang dan tradisi 'membatik sebagai ibadah'."
-  },
-  {
-    "id": "gereja-kristen-jawi-wetan",
-    "nama": "Gereja Kristen Jawi Wetan",
-    "kategori": "tempat-religi",
-    "koordinat": { "lat": -6.8885, "lng": 109.6755 },
-    "foto_utama": "/images/heritage/gereja-jawi-wetan.jpg",
-    "galeri": [
-      "/images/heritage/gereja-jawi-wetan-1.jpg",
-      "/images/heritage/gereja-jawi-wetan-2.jpg",
-      "/images/heritage/gereja-jawi-wetan-3.jpg"
-    ],
-    "tahun_berdiri": "1860-an",
-    "jam_buka": "Minggu (ibadah), Senin–Sabtu 09.00–12.00 WIB (kunjungan)",
-    "harga_tiket": "Gratis",
-    "sejarah": "Gereja Kristen Jawi Wetan (GKJW) Pekalongan merupakan salah satu gereja Protestan tertua di pesisir utara Jawa, didirikan pada tahun 1860-an oleh misionaris Belanda bersama komunitas Jawa Kristen lokal. Nama 'Jawi Wetan' secara harfiah berarti 'Jawa Timur' dalam bahasa Jawa, merujuk pada asal-usul sinode gereja ini. Bangunan gereja ini menjadi saksi keberagaman agama yang telah lama menjadi bagian dari identitas Pekalongan.\n\nArsitektur gereja ini menampilkan perpaduan unik antara gaya Gotik Eropa dan ornamen Jawa. Jendela-jendela kaca patri bermotif bunga yang memasukkan cahaya berwarna-warni ke dalam ruang ibadah, sementara ukiran kayu jati bermotif Jawa menghiasi mimbar dan bangku-bangku gereja. Menara gereja yang menjulang menjadi salah satu landmark kawasan pusat kota Pekalongan, berdiri harmonis berdampingan dengan menara masjid dan atap klenteng di sekitarnya.\n\nGereja ini berperan penting dalam kehidupan sosial Pekalongan, tidak hanya sebagai tempat ibadah tetapi juga sebagai pusat kegiatan sosial dan pendidikan. Sekolah-sekolah Kristen yang diasuh gereja ini telah mendidik banyak tokoh penting Pekalongan dari berbagai latar belakang agama, mencerminkan semangat toleransi yang menjadi ciri khas masyarakat pesisir.",
-    "cerita_budaya": "GKJW Pekalongan adalah bukti nyata bahwa keberagaman agama di Pekalongan bukanlah hal baru. Letaknya yang berdekatan dengan klenteng dan masjid menciptakan pemandangan unik di mana suara lonceng gereja, adzan, dan doa-doa di klenteng bersahutan — sebuah simfoni toleransi yang telah berlangsung selama lebih dari satu setengah abad.",
-    "alamat": "Jl. Dr. Sutomo, Panjang Wetan, Kec. Pekalongan Utara, Kota Pekalongan",
-    "deskripsi_singkat": "Gereja Protestan bersejarah dari 1860-an dengan arsitektur Gotik-Jawa, simbol kerukunan beragama di Pekalongan."
-  },
-  {
-    "id": "rumah-batik-komar",
-    "nama": "Rumah Batik Komar",
-    "kategori": "kampung-batik",
-    "koordinat": { "lat": -6.8940, "lng": 109.6695 },
-    "foto_utama": "/images/heritage/rumah-batik-komar.jpg",
-    "galeri": [
-      "/images/heritage/rumah-batik-komar-1.jpg",
-      "/images/heritage/rumah-batik-komar-2.jpg",
-      "/images/heritage/rumah-batik-komar-3.jpg"
-    ],
-    "tahun_berdiri": "1950-an",
-    "jam_buka": "Senin–Sabtu, 08.00–16.00 WIB",
-    "harga_tiket": "Rp 25.000 (termasuk demo membatik)",
-    "sejarah": "Rumah Batik Komar merupakan rumah produksi batik tulis tradisional yang telah beroperasi sejak tahun 1950-an, didirikan oleh Haji Komar, seorang maestro batik yang mewarisi keahlian membatik dari ayahnya. Rumah batik ini menjadi salah satu dari sedikit tempat di Pekalongan yang masih sepenuhnya memproduksi batik tulis secara manual, tanpa menggunakan teknik cap atau printing.\n\nDi Rumah Batik Komar, setiap lembar kain batik dikerjakan secara telaten oleh para pembatik perempuan yang telah berpengalaman puluhan tahun. Proses pembuatan satu lembar kain batik tulis halus bisa memakan waktu dua hingga enam bulan, tergantung kerumitan motifnya. Motif-motif yang diproduksi di sini termasuk motif klasik Pekalongan seperti Jlamprang, Buketan, dan Pesisiran, serta motif-motif kreasi baru yang dikembangkan oleh generasi penerus keluarga Komar.\n\nKini Rumah Batik Komar telah berkembang menjadi pusat edukasi batik yang menerima kunjungan wisatawan domestik dan mancanegara. Pengunjung dapat menyaksikan seluruh proses pembuatan batik tulis dari awal hingga akhir: mulai dari pemolaan, pencantingan, pewarnaan, hingga pelorodan (penghilangan malam). Rumah ini menjadi saksi hidup bahwa seni batik tulis Pekalongan masih lestari di tengah gempuran batik printing modern.",
-    "cerita_budaya": "Di Rumah Batik Komar, para pembatik masih mempraktikkan ritual sebelum mulai membatik — berdoa dan membakar dupa untuk meminta kelancaran. Mereka percaya bahwa suasana hati pembatik akan tertuang dalam setiap goresan canting, sehingga hanya membatik saat hati sedang tenang dan bahagia untuk menghasilkan karya terbaik.",
-    "alamat": "Jl. Teratai, Kauman, Kec. Pekalongan Barat, Kota Pekalongan",
-    "deskripsi_singkat": "Rumah produksi batik tulis tradisional sejak 1950-an yang menawarkan pengalaman edukasi membatik langsung dari para maestro."
-  },
-  {
-    "id": "warung-megono-bu-jum",
-    "nama": "Warung Megono Bu Jum",
-    "kategori": "kuliner-legendaris",
-    "koordinat": { "lat": -6.8925, "lng": 109.6740 },
-    "foto_utama": "/images/heritage/warung-megono.jpg",
-    "galeri": [
-      "/images/heritage/warung-megono-1.jpg",
-      "/images/heritage/warung-megono-2.jpg",
-      "/images/heritage/warung-megono-3.jpg"
-    ],
-    "tahun_berdiri": "1980-an",
-    "jam_buka": "Setiap hari, 07.00–14.00 WIB",
-    "harga_tiket": "Mulai Rp 12.000 per porsi",
-    "sejarah": "Warung Megono Bu Jum merupakan salah satu warung megono paling terkenal di Pekalongan, telah beroperasi sejak tahun 1980-an. Megono sendiri adalah hidangan khas Pekalongan yang terbuat dari nangka muda (gori) yang dicincang halus dan dimasak dengan parutan kelapa, cabai, dan rempah-rempah tradisional. Hidangan sederhana ini merupakan warisan kuliner masyarakat pesisir Pekalongan yang kaya akan cita rasa.\n\nBu Jum memulai usahanya dengan berjualan megono di gerobak keliling sebelum akhirnya membuka warung tetap. Keistimewaan megono buatannya terletak pada pemilihan nangka muda yang tepat — tidak terlalu muda sehingga berair, tidak terlalu tua sehingga keras — serta racikan bumbu kelapa yang gurih-pedas sempurna. Megono disajikan bersama nasi putih hangat, ikan asin goreng, dan sambal terasi, menciptakan kombinasi rasa yang sederhana namun membekas.\n\nMegono Bu Jum tidak hanya populer di kalangan warga Pekalongan tetapi juga menjadi incaran wisatawan kuliner dari luar kota. Banyak acara televisi dan food blogger yang meliput warung ini, menjadikannya salah satu destinasi kuliner wajib bagi siapa pun yang berkunjung ke Pekalongan.",
-    "cerita_budaya": "Megono adalah bukti bahwa kuliner terbaik sering kali lahir dari kesederhanaan. Masyarakat Pekalongan menyebut megono sebagai 'masakan rakyat' yang menyatukan semua kalangan — dari nelayan hingga juragan batik. Memasak megono juga menjadi tradisi komunal di mana ibu-ibu sekampung berkumpul saat ada hajatan.",
-    "alamat": "Jl. Progo, Podosugih, Kec. Pekalongan Barat, Kota Pekalongan",
-    "deskripsi_singkat": "Warung megono legendaris dengan racikan nangka muda dan kelapa yang sempurna, hidangan rakyat paling ikonik Pekalongan."
-  },
-  {
-    "id": "taman-kota-laut",
-    "nama": "Taman Kota Laut",
-    "kategori": "hidden-gems",
-    "koordinat": { "lat": -6.8660, "lng": 109.6830 },
-    "foto_utama": "/images/heritage/taman-kota-laut.jpg",
-    "galeri": [
-      "/images/heritage/taman-kota-laut-1.jpg",
-      "/images/heritage/taman-kota-laut-2.jpg",
-      "/images/heritage/taman-kota-laut-3.jpg"
-    ],
-    "tahun_berdiri": "2010-an",
-    "jam_buka": "Setiap hari, 06.00–21.00 WIB",
-    "harga_tiket": "Gratis",
-    "sejarah": "Taman Kota Laut merupakan ruang terbuka hijau yang terletak di kawasan pesisir utara Pekalongan, dibangun pada tahun 2010-an sebagai bagian dari program revitalisasi kawasan pantai. Sebelum menjadi taman, area ini merupakan lahan kosong bekas tambak yang terdampak abrasi dan rob (banjir pasang air laut), masalah lingkungan yang menjadi tantangan serius bagi kota-kota pesisir di Jawa.\n\nPemerintah Kota Pekalongan mengubah tantangan ini menjadi peluang dengan membangun taman yang dirancang sebagai buffer zone antara pemukiman dan laut. Taman ini dilengkapi jogging track, area bermain anak, gazebo-gazebo untuk bersantai, dan zona penanaman mangrove yang berfungsi sebagai penahan abrasi alami. Konsep desainnya mengintegrasikan elemen-elemen budaya Pekalongan, termasuk ornamen bermotif batik pada pagar dan bangku-bangku taman.\n\nTaman Kota Laut kini menjadi destinasi favorit warga Pekalongan untuk berolahraga pagi dan menikmati sunset di sore hari. Udara laut yang segar dan pemandangan Laut Jawa yang membentang menjadikan tempat ini sebagai oasis di tengah kesibukan kota. Pada akhir pekan, taman ini sering digunakan untuk kegiatan komunitas, bazaar, dan acara budaya.",
-    "cerita_budaya": "Taman Kota Laut merepresentasikan resiliensi masyarakat pesisir Pekalongan dalam menghadapi perubahan iklim. Alih-alih menyerah pada ancaman rob dan abrasi, warga mengubah lahan terdampak menjadi ruang publik yang indah — sebuah metafora tentang kemampuan masyarakat Pekalongan untuk selalu beradaptasi dan bangkit.",
-    "alamat": "Jl. Pantai, Panjang Baru, Kec. Pekalongan Utara, Kota Pekalongan",
-    "deskripsi_singkat": "Taman pesisir modern dengan pemandangan Laut Jawa, dibangun di lahan bekas tambak sebagai simbol resiliensi masyarakat pesisir."
-  },
-  {
-    "id": "kampung-batik-pesindon",
-    "nama": "Kampung Batik Pesindon",
-    "kategori": "kampung-batik",
-    "koordinat": { "lat": -6.8975, "lng": 109.6724 },
-    "foto_utama": "/images/heritage/kampung-pesindon.jpg",
-    "galeri": [
-      "/images/heritage/kampung-pesindon-1.jpg",
-      "/images/heritage/kampung-pesindon-2.jpg",
-      "/images/heritage/kampung-pesindon-3.jpg"
-    ],
-    "tahun_berdiri": "Abad ke-19",
-    "jam_buka": "Setiap hari, 08.00–17.00 WIB",
-    "harga_tiket": "Gratis",
-    "sejarah": "Kampung Batik Pesindon merupakan salah satu kampung batik bersejarah di Pekalongan yang terkenal dengan produksi batik warna cerah dan motif-motif pesisiran yang khas. Nama 'Pesindon' diperkirakan berasal dari kata 'sindon', sejenis kain halus yang dahulu diproduksi di kampung ini. Sejak abad ke-19, Pesindon telah menjadi pusat kreativitas batik di mana para pengrajin berani bereksperimen dengan warna-warna yang tidak lazim dalam tradisi batik pedalaman.\n\nKekhasan batik Pesindon terletak pada penggunaan warna-warna berani seperti merah, biru cerah, hijau, dan kuning yang mencerminkan pengaruh budaya pesisir yang terbuka dan kosmopolitan. Motif-motif yang dihasilkan sering terinspirasi dari kehidupan laut — ikan, kerang, terumbu karang, dan ombak — serta flora tropis yang tumbuh di sekitar kampung. Perpaduan ini menghasilkan kain batik yang penuh warna dan dinamis, berbeda jauh dari batik keraton yang cenderung soga (coklat) dan geometris.\n\nKini Kampung Batik Pesindon telah ditata menjadi kampung wisata tematik dengan mural-mural batik menghiasi dinding-dinding rumah warga. Pengunjung dapat langsung berkunjung ke rumah-rumah pengrajin, melihat proses membatik, dan membeli kain batik langsung dari produsennya dengan harga yang sangat terjangkau.",
-    "cerita_budaya": "Di Pesindon, batik adalah bahasa visual yang menceritakan kehidupan pesisir. Setiap motif memiliki cerita — motif ikan melambangkan rezeki dari laut, motif bunga melambangkan kesuburan, dan warna-warna cerah mencerminkan semangat hidup masyarakat pesisir yang optimis dan terbuka terhadap perubahan.",
-    "alamat": "Kelurahan Pesindon, Kec. Pekalongan Barat, Kota Pekalongan",
-    "deskripsi_singkat": "Kampung batik pesisiran dengan motif laut dan warna-warna cerah yang berani, kini menjadi kampung wisata tematik yang instagramable."
-  },
-  {
-    "id": "museum-islam-nusantara",
-    "nama": "Museum Islam Nusantara",
-    "kategori": "museum",
-    "koordinat": { "lat": -6.8905, "lng": 109.6708 },
-    "foto_utama": "/images/heritage/museum-islam-nusantara.jpg",
-    "galeri": [
-      "/images/heritage/museum-islam-nusantara-1.jpg",
-      "/images/heritage/museum-islam-nusantara-2.jpg",
-      "/images/heritage/museum-islam-nusantara-3.jpg"
-    ],
-    "tahun_berdiri": "2005",
-    "jam_buka": "Selasa–Minggu, 08.00–15.00 WIB",
-    "harga_tiket": "Rp 10.000",
-    "sejarah": "Museum Islam Nusantara Pekalongan didirikan pada tahun 2005 sebagai upaya untuk mendokumentasikan dan melestarikan sejarah penyebaran Islam di pesisir utara Jawa, khususnya di Pekalongan dan sekitarnya. Museum ini menempati bangunan berarsitektur Islami modern yang dirancang dengan sentuhan estetika kaligrafi dan geometri Islam.\n\nKoleksi museum mencakup naskah-naskah kuno berbahasa Arab dan Jawa Pegon (aksara Arab untuk bahasa Jawa), peralatan ibadah bersejarah, replika makam-makam wali, dan dokumentasi visual tentang perkembangan Islam di Pekalongan dari abad ke-15 hingga era modern. Salah satu koleksi paling menarik adalah kumpulan batik bermotif kaligrafi dan arabesk yang menunjukkan perpaduan seni Islam dengan tradisi batik lokal.\n\nMuseum ini juga berfungsi sebagai pusat kajian dan perpustakaan tentang Islam Nusantara, menyelenggarakan diskusi, seminar, dan pameran temporer yang mengeksplorasi hubungan antara Islam, budaya Jawa, dan seni batik. Keberadaan museum ini menegaskan posisi Pekalongan sebagai salah satu simpul penting dalam jaringan penyebaran Islam di Nusantara melalui jalur perdagangan maritim.",
-    "cerita_budaya": "Museum Islam Nusantara menampilkan bagaimana Islam di Pekalongan tidak datang dengan pedang melainkan dengan perdagangan dan seni. Para mubalig Arab dan Gujarat memperkenalkan Islam sambil membawa pengaruh estetika yang kemudian menyatu dengan tradisi lokal, menghasilkan keunikan Islam pesisir yang moderat dan toleran.",
-    "alamat": "Jl. KH. Agus Salim, Kauman, Kec. Pekalongan Barat, Kota Pekalongan",
-    "deskripsi_singkat": "Museum yang mendokumentasikan sejarah penyebaran Islam di pesisir Jawa dengan koleksi naskah kuno dan batik bermotif kaligrafi."
-  },
-  {
-    "id": "kampung-krapyak",
-    "nama": "Kampung Krapyak",
-    "kategori": "hidden-gems",
-    "koordinat": { "lat": -6.8600, "lng": 109.6900 },
-    "foto_utama": "/images/heritage/kampung-krapyak.jpg",
-    "galeri": [
-      "/images/heritage/kampung-krapyak-1.jpg",
-      "/images/heritage/kampung-krapyak-2.jpg",
-      "/images/heritage/kampung-krapyak-3.jpg"
-    ],
-    "tahun_berdiri": "Abad ke-17",
-    "jam_buka": "Setiap hari (area publik)",
-    "harga_tiket": "Gratis",
-    "sejarah": "Kampung Krapyak merupakan perkampungan nelayan bersejarah di pesisir utara Pekalongan yang telah ada sejak abad ke-17. Terletak di muara sungai yang bermuara ke Laut Jawa, kampung ini menjadi salah satu komunitas maritim tertua di Pekalongan. Warganya yang mayoritas berprofesi sebagai nelayan memiliki tradisi dan budaya yang khas, berbeda dari masyarakat kota di pusat Pekalongan.\n\nKampung Krapyak terkenal dengan tradisi Syawalan, sebuah perayaan besar yang digelar pada bulan Syawal setiap tahun. Tradisi ini merupakan perpaduan unik antara ritual Islami dan tradisi lokal pesisir, di mana warga kampung menggelar pesta rakyat dengan berbagai atraksi budaya, pertunjukan seni, dan ritual sedekah laut. Perayaan Syawalan Krapyak menarik pengunjung dari seluruh Pekalongan dan kota-kota sekitarnya.\n\nMeskipun menghadapi tantangan modern seperti abrasi pantai dan perubahan pola mata pencaharian, Kampung Krapyak tetap mempertahankan karakter kampung nelayannya. Deretan perahu warna-warni yang tertambat di tepi sungai, jaring-jaring ikan yang dijemur di pekarangan rumah, dan aroma ikan asin yang mengudara menjadi pemandangan sehari-hari yang memikat bagi wisatawan yang mencari pengalaman autentik kehidupan pesisir.",
-    "cerita_budaya": "Di Kampung Krapyak, laut bukan hanya sumber penghidupan tetapi juga sumber identitas budaya. Lagu-lagu nelayan yang dinyanyikan saat melaut, doa-doa sebelum berlayar, dan ritual syukur saat tangkapan melimpah adalah ekspresi budaya maritim yang telah diwariskan turun-temurun selama berabad-abad.",
-    "alamat": "Kelurahan Krapyak, Kec. Pekalongan Utara, Kota Pekalongan",
-    "deskripsi_singkat": "Perkampungan nelayan bersejarah dengan tradisi Syawalan yang unik dan kehidupan maritim autentik di pesisir Pekalongan."
-  },
-  {
-    "id": "gang-balaikambang",
-    "nama": "Gang Balaikambang",
-    "kategori": "hidden-gems",
-    "koordinat": { "lat": -6.8888, "lng": 109.6748 },
-    "foto_utama": "/images/heritage/gang-balaikambang.jpg",
-    "galeri": [
-      "/images/heritage/gang-balaikambang-1.jpg",
-      "/images/heritage/gang-balaikambang-2.jpg",
-      "/images/heritage/gang-balaikambang-3.jpg"
-    ],
-    "tahun_berdiri": "Abad ke-19",
-    "jam_buka": "Setiap hari (area publik)",
-    "harga_tiket": "Gratis",
-    "sejarah": "Gang Balaikambang merupakan salah satu lorong bersejarah di kawasan kota lama Pekalongan yang menyimpan jejak-jejak arsitektur kolonial dan peranakan. Nama 'Balaikambang' diperkirakan berasal dari sebuah bangunan balai pertemuan yang terletak di tepi sungai kecil (kambang berarti mengapung atau terapung), yang pada masa lalu digunakan sebagai tempat berkumpul para pedagang dan warga sekitar.\n\nGang sempit ini dipagari oleh deretan bangunan tua dari abad ke-19 hingga awal abad ke-20, menampilkan berbagai gaya arsitektur — dari rumah-rumah Jawa tradisional dengan atap joglo mini, shophouse Tionghoa dengan pintu lipat kayu, hingga rumah-rumah bergaya Art Deco peninggalan era kolonial. Keragaman arsitektur ini mencerminkan komposisi multikultural Pekalongan pada masa lampau.\n\nKini Gang Balaikambang mulai menarik perhatian pegiat heritage dan fotografer yang mencari sudut-sudut kota tua yang belum banyak dijamah wisatawan. Beberapa bangunan di gang ini telah diinventarisasi sebagai cagar budaya oleh pemerintah kota, meskipun sebagian besar masih ditinggali dan digunakan oleh warga setempat, memberikan kesan autentik yang sulit ditemukan di tempat wisata heritage yang sudah terlalu dikomersilkan.",
-    "cerita_budaya": "Gang Balaikambang adalah museum terbuka yang menceritakan sejarah multikulturalisme Pekalongan. Di sini, rumah Jawa, Tionghoa, dan kolonial berdiri berdampingan tanpa sekat — persis seperti masyarakat Pekalongan yang telah hidup dalam keragaman selama berabad-abad tanpa kehilangan harmoni.",
-    "alamat": "Gang Balaikambang, Panjang Wetan, Kec. Pekalongan Utara, Kota Pekalongan",
-    "deskripsi_singkat": "Lorong bersejarah dengan deretan bangunan kolonial dan peranakan, museum terbuka multikulturalisme kota tua Pekalongan."
-  },
-  {
-    "id": "pasar-pagi-tradisional",
-    "nama": "Pasar Pagi Tradisional",
-    "kategori": "hidden-gems",
-    "koordinat": { "lat": -6.8910, "lng": 109.6735 },
-    "foto_utama": "/images/heritage/pasar-pagi.jpg",
-    "galeri": [
-      "/images/heritage/pasar-pagi-1.jpg",
-      "/images/heritage/pasar-pagi-2.jpg",
-      "/images/heritage/pasar-pagi-3.jpg"
-    ],
-    "tahun_berdiri": "Abad ke-19",
-    "jam_buka": "Setiap hari, 04.00–10.00 WIB",
-    "harga_tiket": "Gratis",
-    "sejarah": "Pasar Pagi Tradisional Pekalongan merupakan pasar tradisional yang telah beroperasi sejak abad ke-19, menjadikannya salah satu pasar tertua di kota ini. Terletak di jantung kota, pasar ini awalnya merupakan pasar terbuka tempat para petani, nelayan, dan pedagang dari desa-desa sekitar membawa hasil bumi dan tangkapan laut mereka untuk dijual kepada warga kota.\n\nKeunikan Pasar Pagi Pekalongan terletak pada waktu operasionalnya yang dimulai sejak dini hari, bahkan sebelum matahari terbit. Pada pukul empat pagi, pasar sudah ramai dengan aktivitas jual beli — pedagang ikan menyusun hasil tangkapan segar, penjual sayur menata dagangan mereka di atas tikar, dan pedagang jajanan pasar menyiapkan kue-kue tradisional yang masih hangat dari kukusan. Suasana pasar yang hidup dan penuh warna ini menjadi daya tarik tersendiri bagi wisatawan yang ingin merasakan kehidupan autentik masyarakat Pekalongan.\n\nPasar ini juga menjadi tempat di mana kuliner khas Pekalongan bisa dinikmati dalam bentuk paling autentik. Soto tauto, nasi megono, lontong kupang, dan berbagai jajanan pasar tersedia dengan harga yang sangat terjangkau. Bagi banyak warga Pekalongan, mengunjungi Pasar Pagi adalah rutinitas harian yang tidak bisa digantikan oleh supermarket modern.",
-    "cerita_budaya": "Pasar Pagi adalah ruang sosial di mana tradisi tawar-menawar menjadi seni berkomunikasi. Di sini, hubungan antara penjual dan pembeli bukan sekadar transaksi tetapi relasi personal yang terjalin selama bertahun-tahun. Banyak pedagang yang telah melayani keluarga yang sama selama tiga generasi.",
-    "alamat": "Jl. KH. Mansyur, Kauman, Kec. Pekalongan Barat, Kota Pekalongan",
-    "deskripsi_singkat": "Pasar tradisional tertua Pekalongan yang beroperasi sejak subuh, tempat terbaik merasakan kehidupan autentik dan kuliner lokal."
-  },
-  {
-    "id": "jembatan-sungai-loji",
-    "nama": "Jembatan Sungai Loji",
-    "kategori": "hidden-gems",
-    "koordinat": { "lat": -6.8878, "lng": 109.6770 },
-    "foto_utama": "/images/heritage/jembatan-loji.jpg",
-    "galeri": [
-      "/images/heritage/jembatan-loji-1.jpg",
-      "/images/heritage/jembatan-loji-2.jpg",
-      "/images/heritage/jembatan-loji-3.jpg"
-    ],
-    "tahun_berdiri": "Awal abad ke-20",
     "jam_buka": "Setiap hari, 24 jam (area publik)",
     "harga_tiket": "Gratis",
-    "sejarah": "Jembatan Sungai Loji merupakan jembatan bersejarah yang melintasi Sungai Loji di kawasan kota lama Pekalongan, dibangun pada awal abad ke-20 pada masa pemerintahan kolonial Belanda. Nama 'Loji' berasal dari kata Belanda 'loge' yang berarti penginapan atau kantor, merujuk pada keberadaan loji (kantor dagang) Belanda yang pernah berdiri di tepi sungai ini.\n\nJembatan ini dibangun dengan konstruksi baja rivet khas era kolonial yang masih kokoh hingga kini. Desainnya yang sederhana namun fungsional mencerminkan pendekatan pragmatis teknik sipil Belanda di Hindia Belanda. Dari atas jembatan, pengunjung dapat melihat aliran Sungai Loji yang tenang, diapit oleh deretan rumah-rumah tua dan pepohonan rindang yang menciptakan suasana nostalgia kota lama.\n\nJembatan Sungai Loji kini menjadi salah satu spot favorit bagi para fotografer dan pelukis yang mencari sudut-sudut romantis kota tua Pekalongan. Pada sore hari, jembatan ini dipenuhi warga yang menikmati angin sungai sambil menyaksikan matahari terbenam di antara siluet bangunan-bangunan tua. Meskipun bukan destinasi wisata utama, jembatan ini menyimpan pesona tersembunyi yang membuat pengunjung merasa seperti melangkah mundur ke masa lalu.",
-    "cerita_budaya": "Jembatan Sungai Loji menjadi saksi bisu alur kehidupan kota Pekalongan selama lebih dari satu abad. Di bawah jembatan ini, perahu-perahu kecil dulu mengangkut kain batik dari kampung-kampung produksi ke pelabuhan untuk diekspor, menjadikan sungai ini sebagai urat nadi perdagangan batik pada masa kejayaannya.",
-    "alamat": "Jl. Dr. Sutomo (sekitar Sungai Loji), Panjang Wetan, Kec. Pekalongan Utara, Kota Pekalongan",
-    "deskripsi_singkat": "Jembatan baja kolonial Belanda dari awal abad ke-20 dengan pemandangan romantis sungai dan kota tua Pekalongan."
+    "sejarah": "Jalan Blimbing di kawasan Pecinan Pekalongan dulunya dikenal sebagai Chinese Wijk atau pemukiman Tionghoa yang menjadi pusat denyut nadi perdagangan. Di sini, gedung-gedung tua saling berhadapan, berdiri kontras namun gagah di tepi jalan. Kawasan ini menyimpan eksotika bangunan tua yang sering terlewatkan oleh wisatawan.\n\nSalah satu bangunan paling menarik adalah rumah walet bergaya Indische Empire yang berlantai dua dengan tembok cat putih yang mulai memudar. Jendela-jendela besarnya (krepyak) dan pintu kayu yang tinggi menggambarkan gaya arsitektur Indische Empire. Konon dulunya ini adalah rumah saudagar kaya yang kini beralih fungsi menjadi sarang burung walet.\n\nKawasan ini juga menjadi rumah bagi Klenteng Po An Thian (1882) dan Gereja Santo Petrus (1930), menciptakan 'Segitiga Emas Toleransi' yang unik.",
+    "cerita_budaya": "Berjalan di Jalan Blimbing rasanya seperti masuk ke set film klasik. Gedung-gedung tua bergaya Indische Empire, rumah walet yang memudar, ornamen klenteng yang merah menyala, dan lonceng gereja yang berdentang — semuanya berpadu dalam harmoni yang memukau. Kawasan ini adalah spot foto vintage yang sangat instagrammable. Setiap perayaan Cap Go Meh, jalan ini menjadi pusat pawai lampion yang meriah, sementara di hari-hari biasa, suasana tenang dan nostalgik menyelimuti gang-gang sempit di sekitarnya.",
+    "alamat": "Jl. Blimbing, Kec. Pekalongan Utara, Kota Pekalongan",
+    "deskripsi_singkat": "Kawasan Pecinan bersejarah dengan gedung-gedung Indische Empire yang eksotis, rumah Klenteng Po An Thian dan Gereja Santo Petrus dalam harmoni toleransi."
   },
   {
-    "id": "taman-ronggowarsito",
-    "nama": "Taman Ronggowarsito",
-    "kategori": "hidden-gems",
-    "koordinat": { "lat": -6.8892, "lng": 109.6722 },
-    "foto_utama": "/images/heritage/taman-ronggowarsito.jpg",
+    "id": "pantai-pasir-kencana",
+    "nama": "Pantai Pasir Kencana",
+    "kategori": "wisata-alam",
+    "koordinat": { "lat": -6.859281315860979, "lng": 109.69103432626011 },
+    "foto_utama": "/images/heritage/pasir-kencana.jpg",
     "galeri": [
-      "/images/heritage/taman-ronggowarsito-1.jpg",
-      "/images/heritage/taman-ronggowarsito-2.jpg",
-      "/images/heritage/taman-ronggowarsito-3.jpg"
+      "/images/heritage/pasir-kencana-1.jpg",
+      "/images/heritage/pasir-kencana-2.jpg",
+      "/images/heritage/pasir-kencana-3.jpg"
     ],
-    "tahun_berdiri": "2000-an",
-    "jam_buka": "Setiap hari, 06.00–21.00 WIB",
-    "harga_tiket": "Gratis",
-    "sejarah": "Taman Ronggowarsito merupakan taman kota yang terletak di pusat Kota Pekalongan, dinamai untuk menghormati Raden Ngabehi Ronggowarsito, pujangga besar Jawa abad ke-19 yang karyanya sangat berpengaruh dalam sastra dan filsafat Jawa. Meskipun Ronggowarsito berasal dari Surakarta, namanya diabadikan di Pekalongan sebagai penghormatan terhadap kontribusinya dalam melestarikan budaya Jawa yang juga menjadi akar budaya masyarakat Pekalongan.\n\nTaman ini dibangun pada era 2000-an sebagai bagian dari program penghijauan dan penataan ruang publik kota. Desainnya menggabungkan konsep taman Jawa tradisional dengan fasilitas modern — ada area terbuka untuk berkumpul, bangku-bangku taman yang dihiasi motif batik, dan panggung kecil yang sering digunakan untuk pertunjukan seni dan musik. Patung atau relief yang menggambarkan tokoh-tokoh budaya Jawa menambah nuansa kultural taman ini.\n\nTaman Ronggowarsito menjadi ruang publik yang inklusif di mana berbagai kegiatan komunitas berlangsung — dari senam pagi ibu-ibu, latihan pencak silat remaja, hingga diskusi sastra dan budaya yang diadakan oleh komunitas seniman lokal. Pada malam hari, taman ini berubah menjadi area kuliner dengan pedagang-pedagang kaki lima yang menjajakan jajanan khas Pekalongan.",
-    "cerita_budaya": "Taman Ronggowarsito menjadi simbol bahwa masyarakat Pekalongan tetap menghargai warisan sastra dan filsafat Jawa di tengah modernisasi. Di taman inilah, komunitas-komunitas budaya sering menggelar pembacaan puisi Jawa, diskusi filsafat Ronggowarsito, dan pertunjukan seni tradisional yang menjaga agar warisan intelektual Jawa tetap hidup.",
-    "alamat": "Jl. Ronggowarsito, Kauman, Kec. Pekalongan Barat, Kota Pekalongan",
-    "deskripsi_singkat": "Taman kota bertemakan budaya Jawa di pusat Pekalongan, ruang publik untuk kegiatan seni, budaya, dan kuliner malam."
+    "tahun_berdiri": "-",
+    "jam_buka": "Setiap hari, 06.00–18.00 WIB",
+    "harga_tiket": "Rp 5.000–10.000",
+    "sejarah": "Obyek Wisata Pantai Pasir Kencana merupakan obyek wisata utama yang dimiliki Pemerintah Kota Pekalongan. Terletak berbatasan dengan Tempat Pelelangan Ikan dan Pelabuhan Perikanan Nusantara di Pantai Utara Jawa, dengan jarak tempuh 4,5 km dari pusat kota atau stasiun kereta api. Luas lahan pantai ini adalah 1,5 hektar dan dikelola oleh Dinas Pariwisata, Kebudayaan, Pemuda dan Olahraga Kota Pekalongan.\n\nDi sekitar pantai terdapat pula Krematorium, Pura Hindu, tambak-tambak ikan, serta Aquarium Ikan Laut yang ada di Pelabuhan Perikanan. Pantai ini juga menjadi lokasi tradisi Pek Cun yang diselenggarakan oleh umat Konghucu setiap tahun.",
+    "cerita_budaya": "Di Pantai Pasir Kencana, pengunjung dapat bersantai sambil menyaksikan matahari terbit dan terbenam, aktivitas nelayan dan perahunya, bermain di taman, memancing, berolahraga pantai, atau sekedar menghirup udara pantai yang segar. Tradisi Pek Cun yang digelar di sini menjadi bukti keragaman budaya Pekalongan — ritual yang melibatkan berbagai komunitas masyarakat lintas agama dalam suasana kebersamaan.",
+    "alamat": "Pesisir Utara, Kec. Pekalongan Utara, Kota Pekalongan",
+    "deskripsi_singkat": "Pantai utama Kota Pekalongan dengan pemandangan sunrise-sunset, aktivitas nelayan, dan lokasi tradisi budaya lintas agama."
+  },
+  {
+    "id": "pekalongan-mangrove-park",
+    "nama": "Pekalongan Mangrove Park (PMP)",
+    "kategori": "wisata-alam",
+    "koordinat": { "lat": -6.858280425748842, "lng": 109.6750566573072 },
+    "foto_utama": "/images/heritage/mangrove-park.jpg",
+    "galeri": [
+      "/images/heritage/mangrove-park-1.jpg",
+      "/images/heritage/mangrove-park-2.jpg",
+      "/images/heritage/mangrove-park-3.jpg"
+    ],
+    "tahun_berdiri": "2013",
+    "jam_buka": "Setiap hari, 07.00–17.00 WIB",
+    "harga_tiket": "Rp 5.000–10.000",
+    "sejarah": "Pekalongan Mangrove Park diresmikan pada akhir tahun 2013 oleh Menteri Kehutanan kala itu, Zulkifli Hasan. Kawasan ini dulunya adalah tambak udang milik Dinas Pertanian dan Kelautan Kota Pekalongan. Letaknya yang berada sangat dekat dengan laut menjadikannya rentan terhadap rob (banjir air laut), sehingga pengembangan kawasan mangrove menjadi solusi untuk mitigasi bencana sekaligus wisata edukasi.\n\nFasilitas infrastruktur yang ada antara lain Gedung Pusat Restorasi Pembelajaran Mangrove, shelter untuk beristirahat, pembibitan permanen dan semi permanen, jogging track, serta Kapal Wisata Katamaran yang merupakan bantuan langsung dari Kementerian Kelautan dan Perikanan. Kawasan ini memiliki luas area terbangun seluas 5,7 hektar dengan total luas rencana yang lebih besar.",
+    "cerita_budaya": "Pekalongan Mangrove Park bukan hanya wisata alam, tetapi juga sarana edukasi keluarga tentang pentingnya ekosistem pesisir. Di sini pengunjung dapat mempelajari berbagai jenis mangrove seperti Avicennia, Bruguiera, dan Rhizophora. Kawasan ini juga mengembangkan ekonomi produktif melalui budidaya kepiting soka, rumput laut, dan silvofishery (tumpang sari antara ikan/udang dan mangrove). PMP adalah contoh bagaimana Pekalongan menghadapi tantangan perubahan iklim dengan kreativitas.",
+    "alamat": "Kelurahan Kandang Panjang, Kec. Pekalongan Utara, Kota Pekalongan",
+    "deskripsi_singkat": "Wisata edukasi ekosistem mangrove di pesisir Pekalongan — pusat restorasi lingkungan, mitigasi bencana, dan budidaya kepiting soka."
+  },
+  {
+    "id": "pantai-slamaran-indah",
+    "nama": "Pantai Slamaran Indah",
+    "kategori": "wisata-alam",
+    "koordinat": { "lat": -6.862119486326977, "lng": 109.70173727091755 },
+    "foto_utama": "/images/heritage/slamaran-indah.jpg",
+    "galeri": [
+      "/images/heritage/slamaran-indah-1.jpg",
+      "/images/heritage/slamaran-indah-2.jpg",
+      "/images/heritage/slamaran-indah-3.jpg"
+    ],
+    "tahun_berdiri": "-",
+    "jam_buka": "Setiap hari, 06.00–18.00 WIB",
+    "harga_tiket": "Rp 5.000–10.000",
+    "sejarah": "Pantai Slamaran Indah adalah potensi daya tarik wisata alam pantai yang masih alami, terletak di Kelurahan Krapyak Lor, Kecamatan Pekalongan Utara. Berada di sebelah timur Pantai Pasir Kencana dan dibatasi oleh muara Pelabuhan Perikanan Nusantara Pekalongan. Dapat dicapai lewat muara pelabuhan dengan perahu pesiar atau lewat jalur darat sekitar 5 km dari pusat kota.\n\nLuas lahan Pantai Slamaran Indah sekitar 3,5 hektar, dilengkapi fasilitas lahan parkir yang luas, rumah makan, warung makan, serta perahu sewa yang siap mengantarkan pengunjung berkeliling sekitar pantai. Pantai ini juga menjadi lokasi tujuan utama setelah tradisi Syawalan/Lopis Raksasa di Krapyak.",
+    "cerita_budaya": "Pantai Slamaran memiliki pemandangan yang sangat indah dengan udara segar, serta dapat disaksikan terbit dan terbenamnya matahari. Setiap tradisi Syawalan (7 hari setelah Idul Fitri), ribuan pengunjung berbondong-bondong ke pantai ini setelah pembagian Lopis Raksasa di Krapyak. Pantai ini juga menjadi tempat penyelenggaraan tradisi Nyadran/Sedekah Laut oleh masyarakat nelayan sebagai ungkapan rasa syukur atas hasil laut yang melimpah.",
+    "alamat": "Krapyak Lor, Kec. Pekalongan Utara, Kota Pekalongan",
+    "deskripsi_singkat": "Pantai alami di pesisir utara Pekalongan dengan pemandangan sunrise-sunset yang indah, lokasi tradisi Syawalan dan Nyadran nelayan."
+  },
+  {
+    "id": "wisata-bahari-ppnp",
+    "nama": "Wisata Bahari PPNP",
+    "kategori": "wisata-alam",
+    "koordinat": { "lat": -6.858325286281507, "lng": 109.69196219981592 },
+    "foto_utama": "/images/heritage/ppnp.jpg",
+    "galeri": [
+      "/images/heritage/ppnp-1.jpg",
+      "/images/heritage/ppnp-2.jpg",
+      "/images/heritage/ppnp-3.jpg"
+    ],
+    "tahun_berdiri": "2006",
+    "jam_buka": "Setiap hari, 08.00–17.00 WIB",
+    "harga_tiket": "Rp 5.000–10.000",
+    "sejarah": "Wisata Bahari Pelabuhan Perikanan Nusantara Pekalongan (PPNP) adalah suatu kompleks wisata laut milik Kementerian Kelautan dan Perikanan RI yang berada di Kota Pekalongan. Kompleks ini diresmikan pada Juli 2006 oleh Menteri Kelautan dan Perikanan, Freddy Numberi.\n\nWisata bahari PPNP berada di pesisir pantai Kota Pekalongan, tepatnya di Jl. WR Supratman No. 1. Kawasan wisata ini menawarkan pemandangan pantai, laut, serta muara sungai Pekalongan. Area wisata bahari seluas 10.000 m² dilengkapi taman bunga/pohon rindang dan taman bermain anak-anak.\n\nGedung Aquarium 3 lantai menjadi daya tarik utama: Lantai 1 berisi aquarium laut dan air tawar ber-AC dengan berbagai jenis ikan, Lantai 2 berisi Ruang Iptek seluas 150 m² dengan miniatur kapal dan alat tangkap ikan, dan Lantai 3 merupakan ruang terbuka untuk view kelaut (gardu pandang atas).",
+    "cerita_budaya": "Wisata Bahari PPNP menggambarkan identitas Pekalongan sebagai kota pesisir yang hidup dari laut. Di sini pengunjung dapat menyewa perahu wisata untuk berkeliling pantai, menyaksikan koleksi ikan laut di akuarium, memancing, atau bersantai di anjungan. Kompleks ini juga menjadi pusat aktivitas nelayan Pekalongan yang setiap hari membawa hasil tangkapan ke tempat pelelangan ikan.",
+    "alamat": "Jl. WR Supratman No. 1, Komplek Pelabuhan Perikanan Nusantara, Pekalongan Utara",
+    "deskripsi_singkat": "Kompleks wisata bahari dengan aquarium 3 lantai, perahu wisata, dan pemandangan pantai — pusat aktivitas nelayan Pekalongan."
   }
 ]
