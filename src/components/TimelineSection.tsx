@@ -59,7 +59,7 @@ export default function TimelineSection() {
               >
                 {/* Timeline dot */}
                 <div
-                  className="timeline-dot absolute left-[17px] top-6"
+                  className="timeline-dot"
                   aria-hidden="true"
                 />
 

@@ -3,7 +3,7 @@
     "id": "museum-batik-pekalongan",
     "nama": "Museum Batik Pekalongan",
     "kategori": "museum",
-    "koordinat": { "lat": -6.8878, "lng": 109.6753 },
+    "koordinat": { "lat": -6.8785599679490685, "lng": 109.67536156371936 },
     "foto_utama": "https://files.catbox.moe/wq1ii9.jpg",
     "galeri": [
       "https://files.catbox.moe/wq1ii9.jpg",
@@ -23,7 +23,7 @@
     "nama": "Kampung Batik Kauman",
     "kategori": "kampung-batik",
     "koordinat": { "lat": -6.889958899884272, "lng": 109.67274405705429 },
-    "foto_utama": "/images/heritage/kauman-batik.jpg",
+    "foto_utama": "https://i.ibb.co/XrKMtc6n/kampung-batik.webp",
     "galeri": [
       "/images/heritage/kauman-batik-1.jpg",
       "/images/heritage/kauman-batik-2.jpg",
@@ -42,11 +42,11 @@
     "nama": "Kampung Batik Pesindon",
     "kategori": "kampung-batik",
     "koordinat": { "lat": -6.887047140772468, "lng": 109.66908578442275 },
-    "foto_utama": "/images/heritage/pesindon-main.jpg",
+    "foto_utama": "https://files.catbox.moe/e09cgj.jpg",
     "galeri": [
-      "/images/heritage/pesindon-main-1.jpg",
-      "/images/heritage/pesindon-main-2.jpg",
-      "/images/heritage/pesindon-main-3.jpg"
+      "https://files.catbox.moe/6y9ry8.jpg",
+      "https://files.catbox.moe/3bs2ib.jpg",
+      "https://files.catbox.moe/3ionx4.jpg"
     ],
     "tahun_berdiri": "1950-an",
     "jam_buka": "Setiap hari, 08.00–17.00 WIB",
@@ -61,7 +61,7 @@
     "nama": "Kawasan Budaya Jetayu",
     "kategori": "bangunan-kolonial",
     "koordinat": { "lat": -6.878589831352707, "lng": 109.67479439964178 },
-    "foto_utama": "/images/heritage/jetayu-main.jpg",
+    "foto_utama": "https://files.catbox.moe/v3thcr.jpeg",
     "galeri": [
       "/images/heritage/jetayu-main-1.jpg",
       "/images/heritage/jetayu-main-2.jpg",
@@ -80,7 +80,7 @@
     "nama": "Stasiun Pekalongan",
     "kategori": "bangunan-kolonial",
     "koordinat": { "lat": -6.88971175068056, "lng": 109.66429999843635 },
-    "foto_utama": "/images/heritage/stasiun-pkn.jpg",
+    "foto_utama": "https://files.catbox.moe/2m3bpo.jpg",
     "galeri": [
       "/images/heritage/stasiun-pkn-1.jpg",
       "/images/heritage/stasiun-pkn-2.jpg",
@@ -99,7 +99,7 @@
     "nama": "Kantor Pos Pekalongan",
     "kategori": "bangunan-kolonial",
     "koordinat": { "lat": -6.87576856907879, "lng": 109.67303313797807 },
-    "foto_utama": "/images/heritage/kantor-pos-pkn.jpg",
+    "foto_utama": "https://files.catbox.moe/gd2c1k.jpg",
     "galeri": [
       "/images/heritage/kantor-pos-pkn-1.jpg",
       "/images/heritage/kantor-pos-pkn-2.jpg",
@@ -136,8 +136,8 @@
     "id": "gereja-santo-petrus",
     "nama": "Gereja Santo Petrus",
     "kategori": "tempat-religi",
-    "koordinat": { "lat": -6.879375382085224, "lng": 109.67520845661309 },
-    "foto_utama": "/images/heritage/gereja-st-petrus.jpg",
+    "koordinat": { "lat": -6.879936229962366, "lng": 109.67482027097915 },
+    "foto_utama": "https://files.catbox.moe/bdln0s.jpg",
     "galeri": [
       "/images/heritage/gereja-st-petrus-1.jpg",
       "/images/heritage/gereja-st-petrus-2.jpg",
@@ -156,7 +156,7 @@
     "nama": "Masjid Jami Kauman",
     "kategori": "tempat-religi",
     "koordinat": { "lat": -6.8898, "lng": 109.6812 },
-    "foto_utama": "/images/heritage/masjid-jami-kauman.jpg",
+    "foto_utama": "https://i.ibb.co/QjCD4d6T/0950077p.jpg",
     "galeri": [
       "/images/heritage/masjid-jami-kauman-1.jpg",
       "/images/heritage/masjid-jami-kauman-2.jpg",
@@ -175,7 +175,7 @@
     "nama": "Masjid Jami Aulia Sapuro",
     "kategori": "tempat-religi",
     "koordinat": { "lat": -6.896297573444841, "lng": 109.67565172022663 },
-    "foto_utama": "/images/heritage/masjid-aulia-sapuro.jpg",
+    "foto_utama": "https://i.ibb.co/mwVSyt8/masjid-jami-aulia-dibangun-pada-1035-hijriyah-atau-1614-220910161209-649.jpg",
     "galeri": [
       "/images/heritage/masjid-aulia-sapuro-1.jpg",
       "/images/heritage/masjid-aulia-sapuro-2.jpg",
@@ -289,7 +289,7 @@
     "nama": "Pasar Grosir Batik Setono",
     "kategori": "bangunan-kolonial",
     "koordinat": { "lat": -6.902616284130997, "lng": 109.68999014191078 },
-    "foto_utama": "/images/heritage/pasar-setono.jpg",
+    "foto_utama": "https://i.ibb.co/tw92c3C0/pasar-batik-grosir-sentono.jpg",
     "galeri": [
       "/images/heritage/pasar-setono-1.jpg",
       "/images/heritage/pasar-setono-2.jpg",
@@ -327,7 +327,7 @@
     "nama": "Pantai Pasir Kencana",
     "kategori": "wisata-alam",
     "koordinat": { "lat": -6.859281315860979, "lng": 109.69103432626011 },
-    "foto_utama": "/images/heritage/pasir-kencana.jpg",
+    "foto_utama": "https://i.ibb.co/Jwg1wM3R/fd118676-e32f-4f22-aaa6-be222ec820f52.jpg",
     "galeri": [
       "/images/heritage/pasir-kencana-1.jpg",
       "/images/heritage/pasir-kencana-2.jpg",
@@ -344,9 +344,9 @@
   {
     "id": "pekalongan-mangrove-park",
     "nama": "Pekalongan Mangrove Park (PMP)",
-    "kategori": "wisata-alam",
+    "kategori": "hidden-gems",
     "koordinat": { "lat": -6.858280425748842, "lng": 109.6750566573072 },
-    "foto_utama": "/images/heritage/mangrove-park.jpg",
+    "foto_utama": "https://i.ibb.co/DfhKMsTw/mangrove-pekalongan.jpg",
     "galeri": [
       "/images/heritage/mangrove-park-1.jpg",
       "/images/heritage/mangrove-park-2.jpg",
@@ -397,5 +397,80 @@
     "cerita_budaya": "Wisata Bahari PPNP menggambarkan identitas Pekalongan sebagai kota pesisir yang hidup dari laut. Di sini pengunjung dapat menyewa perahu wisata untuk berkeliling pantai, menyaksikan koleksi ikan laut di akuarium, memancing, atau bersantai di anjungan. Kompleks ini juga menjadi pusat aktivitas nelayan Pekalongan yang setiap hari membawa hasil tangkapan ke tempat pelelangan ikan.",
     "alamat": "Jl. WR Supratman No. 1, Komplek Pelabuhan Perikanan Nusantara, Pekalongan Utara",
     "deskripsi_singkat": "Kompleks wisata bahari dengan aquarium 3 lantai, perahu wisata, dan pemandangan pantai — pusat aktivitas nelayan Pekalongan."
+  },
+  {
+    "id": "toko-batik-ny-oey",
+    "nama": "Toko Batik Ny. Oey",
+    "kategori": "hidden-gems",
+    "koordinat": { "lat": -6.9697957264973915, "lng": 109.64612022476257 },
+    "foto_utama": "/images/heritage/toko-batik-ny-oey.jpg",
+    "galeri": [],
+    "tahun_berdiri": "1920-an",
+    "jam_buka": "Setiap hari",
+    "harga_tiket": "Gratis",
+    "sejarah": "Toko batik tertua di Kauman, berdiri sejak 1920-an.",
+    "cerita_budaya": "Menyimpan koleksi batik lawasan yang sangat langka dan autentik.",
+    "alamat": "Kauman, Kec. Pekalongan Timur, Kota Pekalongan",
+    "deskripsi_singkat": "Toko batik tertua di Kauman, berdiri sejak 1920-an."
+  },
+  {
+    "id": "gang-batik-pelangi",
+    "nama": "Gang Batik Pelangi (belum ketemu)",
+    "kategori": "hidden-gems",
+    "koordinat": { "lat": -6.8920, "lng": 109.6715 },
+    "foto_utama": "/images/heritage/gang-batik-pelangi.jpg",
+    "galeri": [],
+    "tahun_berdiri": "-",
+    "jam_buka": "Setiap hari, 24 jam",
+    "harga_tiket": "Gratis",
+    "sejarah": "Gang sempit penuh mural motif batik yang digambar oleh warga sekitar.",
+    "cerita_budaya": "Menjadi spot foto favorit bagi wisatawan yang berkunjung ke kawasan kampung batik.",
+    "alamat": "Kota Pekalongan",
+    "deskripsi_singkat": "Gang sempit penuh mural motif batik, spot foto favorit."
+  },
+  {
+    "id": "warung-kopi-tahlil",
+    "nama": "Warung Kopi Tahlil",
+    "kategori": "kuliner-legendaris",
+    "koordinat": { "lat": -6.8981356257494095, "lng": 109.67975883969095 },
+    "foto_utama": "/images/heritage/kopi-tahlil.jpg",
+    "galeri": [],
+    "tahun_berdiri": "1970",
+    "jam_buka": "Sore - Malam",
+    "harga_tiket": "Mulai Rp 5.000",
+    "sejarah": "Kopi hitam khas Pekalongan yang telah ada sejak 1970.",
+    "cerita_budaya": "Kopi tahlil biasanya disajikan dengan rempah-rempah yang menghangatkan badan.",
+    "alamat": "Kota Pekalongan",
+    "deskripsi_singkat": "Kopi hitam khas Pekalongan yang telah ada sejak 1970."
+  },
+  {
+    "id": "pelabuhan-lama",
+    "nama": "Pelabuhan Lama",
+    "kategori": "hidden-gems",
+    "koordinat": { "lat": -6.857831037826201, "lng": 109.69208567917003 },
+    "foto_utama": "https://i.ibb.co/bDDH8Qb/berita-20220404021637.jpg",
+    "galeri": [],
+    "tahun_berdiri": "Era Kolonial",
+    "jam_buka": "Setiap hari, 24 jam",
+    "harga_tiket": "Gratis",
+    "sejarah": "Sisa dermaga kolonial dengan view sunset terbaik.",
+    "cerita_budaya": "Pelabuhan lama ini pernah menjadi urat nadi perdagangan batik dan hasil bumi ke berbagai pulau.",
+    "alamat": "Pesisir Utara, Kota Pekalongan",
+    "deskripsi_singkat": "Sisa dermaga kolonial dengan view sunset terbaik."
+  },
+  {
+    "id": "soto-tauto-pak-marsum",
+    "nama": "Soto Tauto Pak Marsum",
+    "kategori": "kuliner-legendaris",
+    "koordinat": { "lat": -6.8930, "lng": 109.6710 },
+    "foto_utama": "/images/heritage/soto-tauto-marsum.jpg",
+    "galeri": [],
+    "tahun_berdiri": "-",
+    "jam_buka": "Setiap hari",
+    "harga_tiket": "Mulai Rp 25.000",
+    "sejarah": "Salah satu soto tauto legendaris di Pekalongan.",
+    "cerita_budaya": "Soto tauto ini terkenal dengan kuah tauco yang kental dan gurih.",
+    "alamat": "Kota Pekalongan",
+    "deskripsi_singkat": "Kuliner soto tauto legendaris Pekalongan."
   }
 ]

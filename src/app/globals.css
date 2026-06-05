@@ -259,6 +259,9 @@ body {
 }
 
 .timeline-dot {
+  position: absolute;
+  left: 17px;
+  top: 24px;
   width: 16px;
   height: 16px;
   border-radius: 50%;
@@ -266,7 +269,6 @@ body {
   border: 3px solid var(--color-surface);
   box-shadow: 0 0 0 2px var(--color-batik-gold);
   z-index: 2;
-  position: relative;
 }
 
 /* ============================================
