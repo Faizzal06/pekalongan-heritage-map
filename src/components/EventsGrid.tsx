@@ -135,15 +135,21 @@ export default function EventsGrid() {
             >
               {/* Image placeholder area */}
               <div className="relative h-[240px] bg-surface-container-high flex items-center justify-center overflow-hidden">
-                {event.foto && <img src={event.foto} alt={event.nama} className="absolute inset-0 w-full h-full object-cover z-0" onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
+                {event.foto && <img src={event.foto} alt={event.nama} className="absolute inset-0 w-full h-full object-cover z-0" onError={(e) => { e.currentTarget.style.display = 'none'; if (e.currentTarget.nextElementSibling) (e.currentTarget.nextElementSibling as HTMLElement).style.display = 'flex'; }} />}
+                <div className="absolute inset-0 flex items-center justify-center text-on-surface-variant/30 z-0" style={{ display: event.foto ? 'none' : 'flex' }}>
+                  <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
+                    <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
+                    <circle cx="8.5" cy="8.5" r="1.5"/>
+                    <polyline points="21 15 16 10 5 21"/>
+                  </svg>
+                </div>
                 {/* Subtle pattern background */}
                 <div
-                  className="absolute inset-0 opacity-[0.04]"
+                  className="absolute inset-0 opacity-[0.04] z-0"
                   style={{
                     backgroundImage: `url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23421e04' fill-opacity='1'%3E%3Cpath d='M20 20.5V18H0v-2h20v-2l2 3-2 3zm0-9V9H0V7h20V5l2 3-2 3z'/%3E%3C/g%3E%3C/svg%3E")`,
                   }}
                 />
-                <CategoryIcon />
 
                 {/* Category badge */}
                 <span className="absolute top-4 left-4 bg-batik-red text-white text-xs font-bold tracking-[0.1em] uppercase px-3 py-1.5 rounded-lg">

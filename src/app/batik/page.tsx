@@ -99,10 +99,17 @@ function BatikDetailModal({
           <div
             className={`absolute inset-0 bg-gradient-to-br ${gradientMap[motif.pengaruh] ?? "from-primary/70 to-batik-gold/50"}`}
           />
-          {motif.foto && <img src={motif.foto} alt={motif.nama} className="absolute inset-0 w-full h-full object-cover z-0" onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
+          {motif.foto && <img src={motif.foto} alt={motif.nama} className="absolute inset-0 w-full h-full object-cover z-0" onError={(e) => { e.currentTarget.style.display = 'none'; if (e.currentTarget.nextElementSibling) (e.currentTarget.nextElementSibling as HTMLElement).style.display = 'flex'; }} />}
+          <div className="absolute inset-0 flex items-center justify-center text-on-surface-variant/30 z-0" style={{ display: motif.foto ? 'none' : 'flex' }}>
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
+              <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
+              <circle cx="8.5" cy="8.5" r="1.5"/>
+              <polyline points="21 15 16 10 5 21"/>
+            </svg>
+          </div>
           {/* decorative pattern */}
           <div
-            className="absolute inset-0 opacity-10"
+            className="absolute inset-0 opacity-10 z-0"
             style={{
               backgroundImage: `url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23fff' fill-opacity='1'%3E%3Cpath d='M20 0l10 20-10 20L10 20z'/%3E%3C/g%3E%3C/svg%3E")`,
             }}
@@ -277,10 +284,17 @@ export default function BatikPage() {
                 <div
                   className={`absolute inset-0 bg-gradient-to-br ${gradientMap[motif.pengaruh] ?? "from-primary/70 to-batik-gold/50"}`}
                 />
-                {motif.foto && <img src={motif.foto} alt={motif.nama} className="absolute inset-0 w-full h-full object-cover z-0" onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
+                {motif.foto && <img src={motif.foto} alt={motif.nama} className="absolute inset-0 w-full h-full object-cover z-0" onError={(e) => { e.currentTarget.style.display = 'none'; if (e.currentTarget.nextElementSibling) (e.currentTarget.nextElementSibling as HTMLElement).style.display = 'flex'; }} />}
+                <div className="absolute inset-0 flex items-center justify-center text-on-surface-variant/30 z-0" style={{ display: motif.foto ? 'none' : 'flex' }}>
+                  <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
+                    <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
+                    <circle cx="8.5" cy="8.5" r="1.5"/>
+                    <polyline points="21 15 16 10 5 21"/>
+                  </svg>
+                </div>
                 {/* decorative pattern */}
                 <div
-                  className="absolute inset-0 opacity-10"
+                  className="absolute inset-0 opacity-10 z-0"
                   style={{
                     backgroundImage: `url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23fff' fill-opacity='1'%3E%3Cpath d='M20 0l10 20-10 20L10 20z'/%3E%3C/g%3E%3C/svg%3E")`,
                   }}

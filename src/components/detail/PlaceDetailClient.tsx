@@ -42,16 +42,13 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
     <div className="min-h-screen bg-surface">
       {/* Hero */}
       <div className="relative h-[300px] md:h-[400px] bg-surface-container-high overflow-hidden">
-        {location.foto_utama && <img src={location.foto_utama} alt={location.nama} className="absolute inset-0 w-full h-full object-cover z-0" onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
-        <div className="absolute inset-0 flex items-center justify-center">
-          <div className="text-center text-on-surface-variant/20">
-            <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1">
-              <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
-              <circle cx="8.5" cy="8.5" r="1.5"/>
-              <polyline points="21 15 16 10 5 21"/>
-            </svg>
-            <p className="text-sm mt-2">Foto {location.nama}</p>
-          </div>
+        {location.foto_utama && <img src={location.foto_utama} alt={location.nama} className="absolute inset-0 w-full h-full object-cover z-0" onError={(e) => { e.currentTarget.style.display = 'none'; if (e.currentTarget.nextElementSibling) (e.currentTarget.nextElementSibling as HTMLElement).style.display = 'flex'; }} />}
+        <div className="absolute inset-0 flex items-center justify-center text-on-surface-variant/30 z-0" style={{ display: location.foto_utama ? 'none' : 'flex' }}>
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
+            <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
+            <circle cx="8.5" cy="8.5" r="1.5"/>
+            <polyline points="21 15 16 10 5 21"/>
+          </svg>
         </div>
 
         {/* Gradient overlay */}
@@ -166,11 +163,11 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
                       src={imgUrl}
                       alt={`Galeri ${location.nama} ${idx + 1}`}
                       className="absolute inset-0 w-full h-full object-cover z-10"
-                      onError={(e) => { e.currentTarget.style.display = 'none'; }}
+                      onError={(e) => { e.currentTarget.style.display = 'none'; if (e.currentTarget.nextElementSibling) (e.currentTarget.nextElementSibling as HTMLElement).style.display = 'flex'; }}
                     />
                     {/* Placeholder fallback underneath */}
-                    <div className="absolute inset-0 flex items-center justify-center text-on-surface-variant/30 z-0">
-                      <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1">
+                    <div className="absolute inset-0 flex items-center justify-center text-on-surface-variant/30 z-0" style={{ display: imgUrl ? 'none' : 'flex' }}>
+                      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
                         <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
                         <circle cx="8.5" cy="8.5" r="1.5"/>
                         <polyline points="21 15 16 10 5 21"/>
@@ -205,7 +202,7 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
               Buka di Google Maps
             </a>
             <Link
-              href="/peta"
+              href={`/peta?loc=${location.id}`}
               className="flex-1 flex items-center justify-center gap-2 px-6 py-3 border-2 border-batik-gold text-primary font-semibold rounded-xl hover:bg-batik-gold/10 transition-colors"
             >
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
