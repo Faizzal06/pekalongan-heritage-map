@@ -31,9 +31,9 @@
     },
     "foto_utama": "https://i.ibb.co/XrKMtc6n/kampung-batik.webp",
     "galeri": [
-      "/images/heritage/kauman-batik-1.jpg",
-      "/images/heritage/kauman-batik-2.jpg",
-      "/images/heritage/kauman-batik-3.jpg"
+      "https://i.ibb.co/F4s75Ytm/IMG-1816-768x512.jpg",
+      "https://i.ibb.co/XkbN94wy/photo-6215101618056181309-y.jpg",
+      "https://i.ibb.co/gM9FRB6H/IMG-20210914-100450-1536x864.jpg"
     ],
     "tahun_berdiri": "Abad ke-18",
     "jam_buka": "Setiap hari, 08.00–17.00 WIB",
@@ -121,9 +121,9 @@
     },
     "foto_utama": "https://files.catbox.moe/gd2c1k.jpg",
     "galeri": [
-      "/images/heritage/kantor-pos-pkn-1.jpg",
-      "/images/heritage/kantor-pos-pkn-2.jpg",
-      "/images/heritage/kantor-pos-pkn-3.jpg"
+      "https://i.ibb.co/5XxKRcTx/kantor-pos-pekalongan-2022.webp",
+      "https://files.catbox.moe/gd2c1k.jpg",
+      "https://i.ibb.co/JjZ1wzk7/cagar-budaya-kantor-pos-pkl-jpg.webp"
     ],
     "tahun_berdiri": "1756 (cikal bakal), 1920 (gedung sekarang)",
     "jam_buka": "Senin–Sabtu, 08.00–16.00 WIB",
@@ -141,11 +141,11 @@
       "lat": -6.879854713000528,
       "lng": 109.67447708100038
     },
-    "foto_utama": "/images/heritage/klenteng-pat.jpg",
+    "foto_utama": "https://i.ibb.co/8D4s5DdF/klenteng1.jpg",
     "galeri": [
-      "/images/heritage/klenteng-pat-1.jpg",
-      "/images/heritage/klenteng-pat-2.jpg",
-      "/images/heritage/klenteng-pat-3.jpg"
+      "https://i.ibb.co/6c0FzVXZ/klenteng2.jpg",
+      "https://i.ibb.co/8D4s5DdF/klenteng1.jpg",
+      "https://i.ibb.co/Hp1cTpVf/klenteng3.jpg"
     ],
     "tahun_berdiri": "1882",
     "jam_buka": "Setiap hari, 06.00–18.00 WIB",
@@ -165,9 +165,9 @@
     },
     "foto_utama": "https://files.catbox.moe/bdln0s.jpg",
     "galeri": [
-      "/images/heritage/gereja-st-petrus-1.jpg",
-      "/images/heritage/gereja-st-petrus-2.jpg",
-      "/images/heritage/gereja-st-petrus-3.jpg"
+      "https://files.catbox.moe/bdln0s.jpg",
+      "https://i.ibb.co/fz5Dj8Cj/gereja1.jpg",
+      "https://i.ibb.co/SwjbqrRs/gereja2.jpg"
     ],
     "tahun_berdiri": "1930",
     "jam_buka": "Setiap hari (sesuai jadwal ibadah)",
@@ -187,9 +187,9 @@
     },
     "foto_utama": "https://i.ibb.co/QjCD4d6T/0950077p.jpg",
     "galeri": [
-      "/images/heritage/masjid-jami-kauman-1.jpg",
-      "/images/heritage/masjid-jami-kauman-2.jpg",
-      "/images/heritage/masjid-jami-kauman-3.jpg"
+      "https://i.ibb.co/NnG2vMx8/Masjid-Agung-Al-Jami.jpg",
+      "https://i.ibb.co/S7w38fmV/masjid-kauman2.jpg",
+      "https://i.ibb.co/Kp3CZXzW/AF1-Qip-P5fh-XT-wr-OQBtu-O9dhq-G1b-Ymv-D8ly-Sjdj-BZ4-A-s1360-w1360-h1020-rw.webp"
     ],
     "tahun_berdiri": "1852",
     "jam_buka": "Setiap hari, 24 jam",
@@ -209,9 +209,9 @@
     },
     "foto_utama": "https://i.ibb.co/mwVSyt8/masjid-jami-aulia-dibangun-pada-1035-hijriyah-atau-1614-220910161209-649.jpg",
     "galeri": [
-      "/images/heritage/masjid-aulia-sapuro-1.jpg",
-      "/images/heritage/masjid-aulia-sapuro-2.jpg",
-      "/images/heritage/masjid-aulia-sapuro-3.jpg"
+      "https://i.ibb.co/JjFV2hr0/sapuro1.jpg",
+      "https://i.ibb.co/HTWkgN7X/sapuro2.jpg",
+      "https://i.ibb.co/WpPvK056/sapuro3.jpg"
     ],
     "tahun_berdiri": "1614 M (1035 H)",
     "jam_buka": "Setiap hari, 24 jam",
