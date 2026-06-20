@@ -1,38 +1,74 @@
 [
   {
-    "id": "pekan-batik-internasional",
-    "nama": "Pekan Batik Internasional",
+    "id": "syawalan-pekalongan",
+    "nama": "Syawalan Pekalongan",
+    "kategori": "Tradisi Budaya",
+    "tanggal": "8 Syawal, seminggu setelah Idul Fitri (tahunan)",
+    "lokasi": "Krapyak, Linggoasri, dan berbagai kecamatan di Kota Pekalongan",
+    "foto": "https://i.ibb.co/bRmRnMn7/Harmony-Syawalan-4.jpg",
+    "deskripsi": "Syawalan adalah hari raya kedua bagi masyarakat Pekalongan yang bagi sebagian warga kemeriahannya bahkan melampaui Idul Fitri itu sendiri. Perayaan yang jatuh setiap tanggal 8 Syawal ini berakar dari tradisi mengakhiri puasa sunnah enam hari di bulan Syawal, dan telah berkembang menjadi festival budaya berskala kota yang sudah berlangsung ratusan tahun. Rangkaian acaranya sangat beragam, mulai dari pemotongan lopis raksasa pemecah rekor MURI di Krapyak, kirab gunungan megono di Linggoasri, hingga pembuatan getuk lindri sepanjang ratusan meter. Tradisi ini menjadi daya tarik wisata budaya yang menggambarkan kekayaan kuliner dan kebersamaan warga Pekalongan."
+  },
+  {
+    "id": "pekan-balon-festival",
+    "nama": "Pekan Balon Festival",
     "kategori": "Festival",
-    "tanggal": "September–Oktober (tahunan)",
-    "lokasi": "Museum Batik & Alun-Alun Pekalongan",
-    "foto": "/images/events/pekan-batik.jpg",
-    "deskripsi": "Pekan Batik Internasional (PBI) merupakan festival budaya terbesar di Pekalongan yang digelar setiap tahun selama satu hingga dua minggu pada bulan September–Oktober. Acara ini menampilkan pameran batik dari seluruh Indonesia dan mancanegara, fashion show batik kontemporer, kompetisi desain motif, workshop membatik, serta seminar tentang pelestarian warisan budaya tekstil. PBI menarik ribuan pengunjung dari dalam dan luar negeri, menjadikannya salah satu event batik terpenting di dunia dan etalase kreativitas batik Pekalongan di panggung internasional."
+    "tanggal": "Maret–April, mengikuti momentum Syawalan (tahunan)",
+    "lokasi": "Stadion Hoegeng dan lapangan-lapangan di empat kecamatan Kota Pekalongan",
+    "foto": "https://i.ibb.co/4nh4VyjF/Screenshot-2026-03-24-144001-2304974146.webp",
+    "deskripsi": "Pekan Balon Festival digagas Pemerintah Kota Pekalongan bersama Komunitas Sedulur Balon untuk mewadahi tradisi menerbangkan balon udara saat Syawalan secara aman dan tertib, sekaligus menekan praktik penerbangan balon liar yang membahayakan lalu lintas udara. Penyisihan digelar di tingkat kecamatan, dengan tim-tim terbaik melaju ke babak grand final yang biasanya dipusatkan di Stadion Hoegeng. Penilaian lomba mencakup motif balon, kekompakan tim, diameter, hingga kesempurnaan saat balon diterbangkan. Festival ini melibatkan banyak pihak termasuk AirNav Indonesia, PLN, dan BMKG demi memastikan keamanan penerbangan, dan selalu menyedot animo ribuan warga setiap tahunnya."
   },
   {
-    "id": "kirab-budaya-pekalongan",
-    "nama": "Kirab Budaya Pekalongan",
-    "kategori": "Parade",
-    "tanggal": "17 Agustus (Hari Kemerdekaan RI)",
-    "lokasi": "Jalan Protokol Kota Pekalongan",
-    "foto": "/images/events/kirab-budaya.jpg",
-    "deskripsi": "Kirab Budaya Pekalongan adalah parade budaya meriah yang digelar setiap tanggal 17 Agustus untuk memperingati Hari Kemerdekaan Republik Indonesia. Ribuan peserta dari berbagai komunitas — pengrajin batik, kelompok seni, perwakilan kampung, dan organisasi budaya — berpawai mengenakan pakaian adat dan kostum batik sepanjang jalan protokol kota. Parade ini menampilkan keragaman budaya Pekalongan melalui pertunjukan tari tradisional, musik gamelan, kendaraan hias bermotif batik, dan atraksi seni lainnya, menjadikannya perayaan kemerdekaan sekaligus perayaan identitas budaya Kota Batik."
+    "id": "pekan-batik-nusantara",
+    "nama": "Pekan Batik Nusantara (PBN)",
+    "kategori": "Festival",
+    "tanggal": "Akhir November–awal Desember (tahunan)",
+    "lokasi": "Kawasan Wisata Budaya Jetayu & Museum Batik Pekalongan",
+    "foto": "https://i.ibb.co/wFP2FKZ0/IMG-2397-1-01-compressed.jpg",
+    "deskripsi": "Pekan Batik Nusantara merupakan perhelatan akbar tahunan yang menegaskan posisi Pekalongan sebagai Kota Batik Dunia, dengan sekitar 70% produksi batik nasional berasal dari kota ini. Festival yang dipusatkan di Kawasan Wisata Budaya Jetayu dan Museum Batik ini menghadirkan pameran batik dari Pekalongan hingga berbagai daerah lain di Indonesia, bazar UMKM, layanan publik seperti Samsat dan Imigrasi, hingga sajian kuliner khas. Acara ini menjadi etalase ekonomi kreatif berbasis batik sekaligus ruang silaturahmi keluarga, dan terus berkembang sebagai magnet wisata berskala nasional."
   },
   {
-    "id": "syawalan-krapyak",
-    "nama": "Syawalan Krapyak",
-    "kategori": "Tradisi",
-    "tanggal": "Bulan Syawal (setelah Idul Fitri)",
-    "lokasi": "Kampung Krapyak, Pekalongan Utara",
-    "foto": "/images/events/syawalan-krapyak.jpg",
-    "deskripsi": "Syawalan Krapyak merupakan tradisi unik masyarakat nelayan Kampung Krapyak yang digelar setiap bulan Syawal, seminggu setelah Hari Raya Idul Fitri. Tradisi ini memadukan ritual Islami dengan budaya pesisir — dimulai dengan doa bersama dan ziarah ke makam leluhur, dilanjutkan dengan sedekah laut berupa pelepasan sesaji ke laut sebagai ungkapan syukur dan permohonan keselamatan bagi para nelayan. Perayaan diakhiri dengan pesta rakyat yang meriah, termasuk pertunjukan seni tradisional, lomba perahu, dan pasar malam yang menjadi ajang silaturahmi antarwarga."
+    "id": "pintoe-dalem-street-fair",
+    "nama": "Pintoe Dalem Street Fair",
+    "kategori": "Festival Budaya",
+    "tanggal": "Januari–Maret, mengikuti perayaan Imlek (tahunan)",
+    "lokasi": "Kawasan Klenteng Po An Thian, Jalan Blimbing, Pekalongan Timur",
+    "foto": "https://i.ibb.co/Y4j62jDc/images-q-tbn-ANd9-Gc-SXu-y-G2n-K-Aazih-Fi-HWty-UXYM6vjm-FLgw-Ipr-FGLG86b-R4-Padz2-LJNFe-Y-s-10.jpg",
+    "deskripsi": "Pintoe Dalem Street Fair adalah bazar malam khas Imlek yang konon akarnya sudah ada sejak tahun 1930-an dan menjadi simbol kerukunan antarumat beragama di Pekalongan. Digelar selama tiga hari di sekitar Klenteng Po An Thian, festival ini menghadirkan puluhan tenant kuliner halal maupun nonhalal, atraksi barongsai, kirab budaya Tionghoa, hingga panggung musik. Puncak rangkaian Imlek biasanya ditutup dengan Kirab Suci dan sajian Lontong Cap Gomeh. Acara ini terbuka untuk umum dan selalu ramai dikunjungi warga lintas etnis dan agama."
   },
   {
-    "id": "cap-go-meh-pekalongan",
-    "nama": "Perayaan Cap Go Meh",
-    "kategori": "Perayaan",
-    "tanggal": "15 hari setelah Tahun Baru Imlek",
-    "lokasi": "Klenteng Tay Kak Sie & Kawasan Pecinan Pekalongan",
-    "foto": "/images/events/cap-go-meh.jpg",
-    "deskripsi": "Perayaan Cap Go Meh di Pekalongan merupakan salah satu yang paling meriah di Jawa Tengah, diselenggarakan lima belas hari setelah Tahun Baru Imlek di sekitar Klenteng Tay Kak Sie dan kawasan Pecinan. Perayaan ini menampilkan atraksi barongsai dan liong yang menari di sepanjang jalan, arak-arakan budaya Tionghoa-Jawa, pertunjukan wayang potehi, serta pesta kembang api yang spektakuler. Cap Go Meh di Pekalongan bukan hanya perayaan komunitas Tionghoa tetapi menjadi perayaan bersama seluruh warga kota, mencerminkan harmoni multikultural yang telah menjadi identitas Pekalongan selama berabad-abad."
+    "id": "festival-bubur-suro-krapyak",
+    "nama": "Festival Bubur Suro Krapyak",
+    "kategori": "Tradisi Budaya",
+    "tanggal": "Juli, bertepatan dengan 1 Muharram/Suro (tahunan)",
+    "lokasi": "Jalan Truntum, Kelurahan Krapyak, Pekalongan Utara",
+    "foto": "https://i.ibb.co/RGynSBvw/berita-20250708034411.jpg",
+    "deskripsi": "Festival Bubur Suro Krapyak digelar warga Kelurahan Krapyak setiap tahun untuk menyambut tahun baru Islam (1 Muharram) dengan tradisi membagikan bubur suro. Acara tiga hari ini memadukan unsur tradisi, pemberdayaan UMKM, dan wisata budaya, lengkap dengan stan ekonomi kreatif dan dukungan pengelolaan dari Dinas Pariwisata setempat. Festival ini terus dikembangkan agar lebih terstruktur dan berdampak luas bagi perekonomian warga sekitar, sembari menjaga akar tradisi religi masyarakat pesisir Pekalongan."
+  },
+  {
+    "id": "festival-literasi-ayo-membaca",
+    "nama": "Festival Literasi Ayo Membaca",
+    "kategori": "Festival",
+    "tanggal": "Oktober (tahunan)",
+    "lokasi": "GOR Jetayu Pekalongan",
+    "foto": "https://i.ibb.co/0pDNFGrj/berita-20251108031914.jpg",
+    "deskripsi": "Festival Literasi Ayo Membaca adalah agenda tahunan Dinas Kearsipan dan Perpustakaan Kota Pekalongan untuk meningkatkan minat baca masyarakat. Selama beberapa hari, GOR Jetayu disulap menjadi pusat kegiatan literasi yang menggabungkan pameran buku, berbagai lomba literasi, bazar UMKM, pelatihan menulis, hingga pertunjukan seni. Festival ini dirancang bukan sekadar seremonial, melainkan upaya berkelanjutan memperbaiki budaya membaca dan indeks literasi warga Kota Pekalongan."
+  },
+  {
+    "id": "peringatan-hari-batik-nasional",
+    "nama": "Peringatan Hari Batik Nasional",
+    "kategori": "Peringatan Budaya",
+    "tanggal": "2 Oktober (tahunan)",
+    "lokasi": "Museum Batik Pekalongan",
+    "foto": "https://i.ibb.co/DHYr0BX5/1241867-720.jpg",
+    "deskripsi": "Setiap 2 Oktober, Kota Pekalongan menggelar serangkaian kegiatan untuk memperingati Hari Batik Nasional, termasuk sarasehan budaya yang mempertemukan pemerintah, akademisi, paguyuban kampung batik, pelajar SMK, komunitas, dan pelaku industri batik. Momen ini menegaskan status Pekalongan sebagai Kota Kreatif Dunia kategori Craft and Folk Art dari UNESCO, sekaligus menjadi ajang merajut sinergi ekosistem batik agar lebih kuat menghadapi tantangan global. Acara biasanya dipusatkan di halaman Museum Batik dengan nuansa reflektif sekaligus merayakan identitas budaya kota."
+  },
+  {
+    "id": "sedekah-laut-sadranan",
+    "nama": "Sedekah Laut (Sadranan)",
+    "kategori": "Tradisi Budaya",
+    "tanggal": "Bulan Muharram/Suro (tahunan)",
+    "lokasi": "Pesisir Pantai dan Pelabuhan Nelayan Pekalongan",
+    "foto": "https://i.ibb.co/wZv9mCg5/647b28ca026d4.jpg",
+    "deskripsi": "Sedekah Laut atau Sadranan adalah tradisi syukuran tahunan para nelayan Pekalongan atas hasil tangkapan laut yang mereka peroleh sepanjang tahun. Pada hari pelaksanaannya, nelayan tidak melaut dan membagikan hasil laut kepada warga sekitar lewat pertunjukan kesenian, perlombaan, serta pasar murah. Prosesi inti berupa larungan sesaji berbentuk replika perahu ke tengah laut, dimeriahkan pula dengan kesenian sintren, ruwatan wayang, dan kirab budaya komunitas lokal. Tradisi ini menjadi gambaran kuat kehidupan masyarakat pesisir Pekalongan yang menyatu dengan laut."
   }
 ]

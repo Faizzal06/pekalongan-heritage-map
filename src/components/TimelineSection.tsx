@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
+import Image from "next/image";
 import timelineData from "@/data/timeline.json";
 
 interface TimelineItem {
@@ -10,6 +11,7 @@ interface TimelineItem {
   periode: string;
   deskripsi: string;
   highlight: string;
+  image?: string;
 }
 
 const items: TimelineItem[] = timelineData;
@@ -65,6 +67,19 @@ export default function TimelineSection() {
 
                 {/* Card */}
                 <div className="bg-white rounded-3xl shadow-heritage p-6 md:p-8">
+                  {/* Image */}
+                  {item.image && (
+                    <div className="relative w-full h-48 md:h-64 rounded-2xl overflow-hidden mb-6">
+                      <Image
+                        src={item.image}
+                        alt={item.judul}
+                        fill
+                        className="object-cover transition-transform duration-700 hover:scale-105"
+                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                      />
+                    </div>
+                  )}
+
                   {/* Era label */}
                   <span className="font-mono text-xs tracking-[0.15em] uppercase text-batik-gold font-medium">
                     {item.era}
