@@ -3,7 +3,10 @@
     "id": "museum-batik-pekalongan",
     "nama": "Museum Batik Pekalongan",
     "kategori": "museum",
-    "koordinat": { "lat": -6.8785599679490685, "lng": 109.67536156371936 },
+    "koordinat": {
+      "lat": -6.878665106010921,
+      "lng": 109.67537142011417
+    },
     "foto_utama": "https://files.catbox.moe/wq1ii9.jpg",
     "galeri": [
       "https://files.catbox.moe/wq1ii9.jpg",
@@ -22,7 +25,10 @@
     "id": "kampung-batik-kauman",
     "nama": "Kampung Batik Kauman",
     "kategori": "kampung-batik",
-    "koordinat": { "lat": -6.889958899884272, "lng": 109.67274405705429 },
+    "koordinat": {
+      "lat": -6.8899312784715425,
+      "lng": 109.67280561595793
+    },
     "foto_utama": "https://i.ibb.co/XrKMtc6n/kampung-batik.webp",
     "galeri": [
       "/images/heritage/kauman-batik-1.jpg",
@@ -41,7 +47,10 @@
     "id": "kampung-batik-pesindon",
     "nama": "Kampung Batik Pesindon",
     "kategori": "kampung-batik",
-    "koordinat": { "lat": -6.887047140772468, "lng": 109.66908578442275 },
+    "koordinat": {
+      "lat": -6.8870119156326535,
+      "lng": 109.66915388599712
+    },
     "foto_utama": "https://files.catbox.moe/e09cgj.jpg",
     "galeri": [
       "https://files.catbox.moe/6y9ry8.jpg",
@@ -60,12 +69,15 @@
     "id": "kawasan-budaya-jetayu",
     "nama": "Kawasan Budaya Jetayu",
     "kategori": "bangunan-kolonial",
-    "koordinat": { "lat": -6.878589831352707, "lng": 109.67479439964178 },
+    "koordinat": {
+      "lat": -6.878581349764763,
+      "lng": 109.67478824314368
+    },
     "foto_utama": "https://files.catbox.moe/v3thcr.jpeg",
     "galeri": [
-      "/images/heritage/jetayu-main-1.jpg",
-      "/images/heritage/jetayu-main-2.jpg",
-      "/images/heritage/jetayu-main-3.jpg"
+      "https://i.ibb.co/gbftk4W3/IMG-0235.jpg",
+      "https://i.ibb.co/rKWjNSVp/IMG-0234.jpg",
+      "https://i.ibb.co/60VxrXxB/IMG-0232.jpg"
     ],
     "tahun_berdiri": "Abad ke-18 (sejak 1700-an)",
     "jam_buka": "Setiap hari, 24 jam (area terbuka)",
@@ -79,12 +91,17 @@
     "id": "stasiun-pekalongan",
     "nama": "Stasiun Pekalongan",
     "kategori": "bangunan-kolonial",
-    "koordinat": { "lat": -6.88971175068056, "lng": 109.66429999843635 },
+    "koordinat": {
+      "lat": -6.889704308270012,
+      "lng": 109.66430084332025
+    },
     "foto_utama": "https://files.catbox.moe/2m3bpo.jpg",
     "galeri": [
-      "/images/heritage/stasiun-pkn-1.jpg",
-      "/images/heritage/stasiun-pkn-2.jpg",
-      "/images/heritage/stasiun-pkn-3.jpg"
+      "https://i.ibb.co.com/wrYtTmkC/Puluhan-Penumpang-di-Stasiun-Pekalongan-Salah-Naik-Kereta-KAI-Daop-4-Semarang-Perketat-Pengawasan.webp",
+      "https://i.ibb.co.com/jvpWyQjz/Penumpang-Masih-Sepi-Stasiun-Pekalongan-Siaga-Hadapi-Libur-Nataru.jpg",
+      "https://i.ibb.co.com/ynYYd3rM/unnamed.webp",
+      "https://i.ibb.co.com/chG8m5Qh/stasiunpekalongan.jpg",
+      "https://i.ibb.co.com/QjQWbvQT/image1.jpg"
     ],
     "tahun_berdiri": "1899",
     "jam_buka": "Setiap hari, 24 jam",
@@ -98,7 +115,10 @@
     "id": "kantor-pos-pekalongan",
     "nama": "Kantor Pos Pekalongan",
     "kategori": "bangunan-kolonial",
-    "koordinat": { "lat": -6.87576856907879, "lng": 109.67303313797807 },
+    "koordinat": {
+      "lat": -6.877817003023485,
+      "lng": 109.6741020177251
+    },
     "foto_utama": "https://files.catbox.moe/gd2c1k.jpg",
     "galeri": [
       "/images/heritage/kantor-pos-pkn-1.jpg",
@@ -117,7 +137,10 @@
     "id": "klenteng-po-an-thian",
     "nama": "Klenteng Po An Thian",
     "kategori": "tempat-religi",
-    "koordinat": { "lat": -6.879860934637667, "lng": 109.67447219975485 },
+    "koordinat": {
+      "lat": -6.879854713000528,
+      "lng": 109.67447708100038
+    },
     "foto_utama": "/images/heritage/klenteng-pat.jpg",
     "galeri": [
       "/images/heritage/klenteng-pat-1.jpg",
@@ -136,7 +159,10 @@
     "id": "gereja-santo-petrus",
     "nama": "Gereja Santo Petrus",
     "kategori": "tempat-religi",
-    "koordinat": { "lat": -6.879936229962366, "lng": 109.67482027097915 },
+    "koordinat": {
+      "lat": -6.879930118741145,
+      "lng": 109.67481488500019
+    },
     "foto_utama": "https://files.catbox.moe/bdln0s.jpg",
     "galeri": [
       "/images/heritage/gereja-st-petrus-1.jpg",
@@ -155,7 +181,10 @@
     "id": "masjid-jami-kauman",
     "nama": "Masjid Jami Kauman",
     "kategori": "tempat-religi",
-    "koordinat": { "lat": -6.8898, "lng": 109.6812 },
+    "koordinat": {
+      "lat": -6.890265449248713,
+      "lng": 109.67537455717815
+    },
     "foto_utama": "https://i.ibb.co/QjCD4d6T/0950077p.jpg",
     "galeri": [
       "/images/heritage/masjid-jami-kauman-1.jpg",
@@ -174,7 +203,10 @@
     "id": "masjid-aulia-sapuro",
     "nama": "Masjid Jami Aulia Sapuro",
     "kategori": "tempat-religi",
-    "koordinat": { "lat": -6.896297573444841, "lng": 109.67565172022663 },
+    "koordinat": {
+      "lat": -6.897123677413188,
+      "lng": 109.6755463978553
+    },
     "foto_utama": "https://i.ibb.co/mwVSyt8/masjid-jami-aulia-dibangun-pada-1035-hijriyah-atau-1614-220910161209-649.jpg",
     "galeri": [
       "/images/heritage/masjid-aulia-sapuro-1.jpg",
@@ -193,12 +225,15 @@
     "id": "soto-tauto-h-rochmani",
     "nama": "Soto Tauto H. Rochmani",
     "kategori": "kuliner-legendaris",
-    "koordinat": { "lat": -6.893795763482242, "lng": 109.66527637248225 },
-    "foto_utama": "/images/heritage/soto-tauto-rochmani.jpg",
+    "koordinat": {
+      "lat": -6.890657748128017,
+      "lng": 109.66748770964102
+    },
+    "foto_utama": "https://i.ibb.co.com/MxXm2mKD/soto-H-Rochmani.webp",
     "galeri": [
-      "/images/heritage/soto-tauto-rochmani-1.jpg",
-      "/images/heritage/soto-tauto-rochmani-2.jpg",
-      "/images/heritage/soto-tauto-rochmani-3.jpg"
+      "https://i.ibb.co.com/rG0cshLs/soto-H-Rochmani2.webp",
+      "https://i.ibb.co.com/YTJXY4hh/soto-H-Rochmani1.webp",
+      "https://i.ibb.co.com/MxXm2mKD/soto-H-Rochmani.webp"
     ],
     "tahun_berdiri": "1985",
     "jam_buka": "Setiap hari, 09.00–16.00 WIB",
@@ -212,7 +247,10 @@
     "id": "garang-asem-masduki",
     "nama": "Garang Asem Masduki",
     "kategori": "kuliner-legendaris",
-    "koordinat": { "lat": -6.901230120632625, "lng": 109.67557722506575 },
+    "koordinat": {
+      "lat": -6.901327069179325,
+      "lng": 109.67564296393186
+    },
     "foto_utama": "/images/heritage/garang-asem-masduki.jpg",
     "galeri": [
       "/images/heritage/garang-asem-masduki-1.jpg",
@@ -228,67 +266,49 @@
     "deskripsi_singkat": "Rumah makan legendaris sejak 1960-an dengan garang asem khas Pekalongan — kuah asam pedas dengan daging kerbau dan telur rendang."
   },
   {
-    "id": "sego-megono-pak-kasimin",
-    "nama": "Sego Megono Pak Kasimin (belum ketemu)",
+    "id": "sop-ayam-mekar",
+    "nama": "Sop Ayam Mekar",
     "kategori": "kuliner-legendaris",
-    "koordinat": { "lat": -6.8920, "lng": 109.6730 },
-    "foto_utama": "/images/heritage/sego-megono.jpg",
-    "galeri": [
-      "/images/heritage/sego-megono-1.jpg",
-      "/images/heritage/sego-megono-2.jpg",
-      "/images/heritage/sego-megono-3.jpg"
-    ],
-    "tahun_berdiri": "1970-an",
-    "jam_buka": "Setiap hari, 06.00–14.00 WIB",
-    "harga_tiket": "Rp 8.000–15.000",
-    "sejarah": "Sego Megono adalah kuliner khas Pekalongan yang paling merakyat. Nama 'megono' konon berasal dari kata 'mergo ono' (sebab ada), yang menggambarkan sifat sederhana makanan ini — dibuat dari bahan yang tersedia di sekitar rumah. Megono berbahan dasar nangka muda yang dicacah kecil-kecil, direbus, lalu dicampur dengan bumbu urap yang terdiri dari parutan kelapa dan bumbu dapur yang dihaluskan.\n\nDahulu, megono umumnya hanya bisa dijumpai di warung-warung makan kelas menengah ke bawah sepanjang pantura dari Pekalongan hingga Batang. Namun kini telah diadopsi bersama soto Pekalongan dan dapat ditemui di berbagai restoran. Sego Megono Pak Kasimin adalah salah satu warung legendaris yang mempertahankan cita rasa autentik megono tradisional.",
-    "cerita_budaya": "Megono adalah makanan akar rumput yang mencerminkan karakter masyarakat Pekalongan: sederhana, kreatif, dan penuh cita rasa. Membuat megono tak terlampu rumit — nangka muda direbus, dicampur bumbu urap dari parutan kelapa, bawang putih, bawang merah, cabe, jeruk purut, kencur, dan garam. Menghidangkannya pun sederhana: nasi putih langsung diberi taburan megono. Meski sederhana, megono adalah kuliner yang paling dirindukan warga Pekalongan di perantauan.",
-    "alamat": "Kota Pekalongan (berbagai lokasi warung)",
-    "deskripsi_singkat": "Kuliner khas Pekalongan paling merakyat — nasi dengan taburan nangka muda berbumbu urap kelapa, cita rasa autentik yang telah ada sejak puluhan tahun."
+    "koordinat": {
+      "lat": -6.873794926901132,
+      "lng": 109.67372734785116
+    },
+    "foto_utama": "",
+    "galeri": [],
+    "tahun_berdiri": "-",
+    "jam_buka": "Setiap hari",
+    "harga_tiket": "-",
+    "sejarah": "Belum ada informasi sejarah.",
+    "cerita_budaya": "Belum ada informasi budaya.",
+    "alamat": "Pekalongan",
+    "deskripsi_singkat": "Lokasi di Pekalongan."
   },
   {
-    "id": "kampung-canting-landungsari",
-    "nama": "Kampung Canting Landungsari-Kebulen (belum ketemu)",
+    "id": "batik-monument-jlamprang",
+    "nama": "Batik monument Jlamprang",
     "kategori": "kampung-batik",
-    "koordinat": { "lat": -6.8905, "lng": 109.6635 },
-    "foto_utama": "/images/heritage/kampung-canting.jpg",
-    "galeri": [
-      "/images/heritage/kampung-canting-1.jpg",
-      "/images/heritage/kampung-canting-2.jpg",
-      "/images/heritage/kampung-canting-3.jpg"
-    ],
-    "tahun_berdiri": "Turun-temurun (generasi ke-3)",
-    "jam_buka": "Senin–Sabtu, 08.00–17.00 WIB",
-    "harga_tiket": "Gratis",
-    "sejarah": "Sebagai pusat industri batik, berbagai kebutuhan dan usaha terkait batik ikut berkembang di Kota Pekalongan, termasuk pembuatan canting — alat paling penting untuk membatik. Kampung Canting Landungsari-Kebulen di Kelurahan Landungsari dan Kebulen, Kecamatan Pekalongan Barat, menjadi pusat pengrajin canting terbesar di Pekalongan.\n\nPara pengrajin di kampung ini pada umumnya adalah generasi ketiga yang secara turun-temurun mewarisi keahlian membuat canting dari para pendahulunya. Canting terdiri dari dua jenis: canting cap dan canting tulis. Proses pembuatan canting cap batik tergantung tingkat kerumitan motifnya — untuk motif sederhana bisa selesai dalam 2-5 hari, namun untuk motif rumit membutuhkan waktu hingga satu bulan.",
-    "cerita_budaya": "Pembuatan canting cap membutuhkan tingkat ketelitian, ketelatenan, dan kesabaran yang sangat tinggi agar menghasilkan karya seni yang bagus. Harga canting cap berkisar antara Rp 100.000 hingga Rp 3.000.000 — semakin halus motifnya, semakin lama proses pembuatannya dan semakin mahal harganya. Kini, canting cap tidak hanya dipandang sebagai alat membatik, namun juga sebagai karya seni yang indah untuk hiasan dan souvenir. Kampung ini adalah hidden gem yang jarang dikunjungi wisatawan namun sangat penting dalam ekosistem batik Pekalongan.",
-    "alamat": "Kelurahan Landungsari & Kebulen, Kec. Pekalongan Barat, Kota Pekalongan",
-    "deskripsi_singkat": "Sentra pengrajin canting batik turun-temurun (generasi ke-3), tempat lahirnya alat-alat membatik berkualitas tinggi untuk seluruh Pekalongan."
-  },
-  {
-    "id": "kampung-tenun-atbm-medono",
-    "nama": "Kampung Tenun ATBM Medono",
-    "kategori": "kampung-batik",
-    "koordinat": { "lat": -6.905324552787377, "lng": 109.66833186635206 },
-    "foto_utama": "/images/heritage/kampung-tenun-medono.jpg",
-    "galeri": [
-      "/images/heritage/kampung-tenun-medono-1.jpg",
-      "/images/heritage/kampung-tenun-medono-2.jpg",
-      "/images/heritage/kampung-tenun-medono-3.jpg"
-    ],
-    "tahun_berdiri": "Turun-temurun",
-    "jam_buka": "Setiap hari, 08.00–16.30 WIB",
-    "harga_tiket": "Gratis",
-    "sejarah": "Kelurahan Medono, Kecamatan Pekalongan Barat, dikenal sebagai pusat kerajinan tenun tangan ATBM (Alat Tenun Bukan Mesin). Kampung ini menghasilkan kain tenun ATBM dan beragam produk kerajinan interior rumah seperti korden, taplak meja, karpet, serta keset. Sebagian perajin juga memproduksi handuk dan kain ihram.\n\nTenun merupakan salah satu potensi Kota Pekalongan selain batik. Pengrajin di Medono masih menggunakan alat tenun tradisional yang dioperasikan secara manual, menghasilkan kain berkualitas tinggi dengan tekstur dan motif yang tidak bisa ditiru oleh mesin industri.",
-    "cerita_budaya": "Produk tenun ATBM Medono tidak hanya diminati pasar lokal dan nasional, tetapi juga konsumen internasional. Produk-produk tenun seperti serbet makan dan syal diekspor ke sejumlah negara antara lain Perancis, Amerika, Hong Kong, dan Malaysia. Salah satu pengrajin terkenal adalah Tenun ATBM Ilman Kandung di Jl. Karya Bhakti, Gang 3, yang mampu membuat kain tenun ATBM dengan panjang 90 meter dalam waktu satu minggu. Kampung ini adalah bukti bahwa tradisi kerajinan tangan Pekalongan tidak hanya terbatas pada batik.",
-    "alamat": "Jl. Karya Bhakti, Medono, Kec. Pekalongan Barat, Kota Pekalongan",
-    "deskripsi_singkat": "Sentra tenun tradisional ATBM yang produknya diekspor ke Perancis, Amerika, dan berbagai negara — warisan kerajinan tangan Pekalongan selain batik."
+    "koordinat": {
+      "lat": -6.8820669072969425,
+      "lng": 109.67968436634143
+    },
+    "foto_utama": "",
+    "galeri": [],
+    "tahun_berdiri": "-",
+    "jam_buka": "Setiap hari",
+    "harga_tiket": "-",
+    "sejarah": "Belum ada informasi sejarah.",
+    "cerita_budaya": "Belum ada informasi budaya.",
+    "alamat": "Pekalongan",
+    "deskripsi_singkat": "Lokasi di Pekalongan."
   },
   {
     "id": "pasar-grosir-setono",
     "nama": "Pasar Grosir Batik Setono",
     "kategori": "bangunan-kolonial",
-    "koordinat": { "lat": -6.902616284130997, "lng": 109.68999014191078 },
+    "koordinat": {
+      "lat": -6.902622498429688,
+      "lng": 109.69003623332966
+    },
     "foto_utama": "https://i.ibb.co/tw92c3C0/pasar-batik-grosir-sentono.jpg",
     "galeri": [
       "/images/heritage/pasar-setono-1.jpg",
@@ -304,48 +324,13 @@
     "deskripsi_singkat": "Pusat grosir batik terbesar di Pekalongan di jalur Pantura, menjual batik, konveksi, tenun, dan kerajinan dengan harga grosir langsung dari produsen."
   },
   {
-    "id": "jalan-blimbing-pecinan",
-    "nama": "Jalan Blimbing — Kawasan Pecinan (belum ketemu)",
-    "kategori": "bangunan-kolonial",
-    "koordinat": { "lat": -6.8894, "lng": 109.6760 },
-    "foto_utama": "/images/heritage/jalan-blimbing.jpg",
-    "galeri": [
-      "/images/heritage/jalan-blimbing-1.jpg",
-      "/images/heritage/jalan-blimbing-2.jpg",
-      "/images/heritage/jalan-blimbing-3.jpg"
-    ],
-    "tahun_berdiri": "Abad ke-19",
-    "jam_buka": "Setiap hari, 24 jam (area publik)",
-    "harga_tiket": "Gratis",
-    "sejarah": "Jalan Blimbing di kawasan Pecinan Pekalongan dulunya dikenal sebagai Chinese Wijk atau pemukiman Tionghoa yang menjadi pusat denyut nadi perdagangan. Di sini, gedung-gedung tua saling berhadapan, berdiri kontras namun gagah di tepi jalan. Kawasan ini menyimpan eksotika bangunan tua yang sering terlewatkan oleh wisatawan.\n\nSalah satu bangunan paling menarik adalah rumah walet bergaya Indische Empire yang berlantai dua dengan tembok cat putih yang mulai memudar. Jendela-jendela besarnya (krepyak) dan pintu kayu yang tinggi menggambarkan gaya arsitektur Indische Empire. Konon dulunya ini adalah rumah saudagar kaya yang kini beralih fungsi menjadi sarang burung walet.\n\nKawasan ini juga menjadi rumah bagi Klenteng Po An Thian (1882) dan Gereja Santo Petrus (1930), menciptakan 'Segitiga Emas Toleransi' yang unik.",
-    "cerita_budaya": "Berjalan di Jalan Blimbing rasanya seperti masuk ke set film klasik. Gedung-gedung tua bergaya Indische Empire, rumah walet yang memudar, ornamen klenteng yang merah menyala, dan lonceng gereja yang berdentang — semuanya berpadu dalam harmoni yang memukau. Kawasan ini adalah spot foto vintage yang sangat instagrammable. Setiap perayaan Cap Go Meh, jalan ini menjadi pusat pawai lampion yang meriah, sementara di hari-hari biasa, suasana tenang dan nostalgik menyelimuti gang-gang sempit di sekitarnya.",
-    "alamat": "Jl. Blimbing, Kec. Pekalongan Utara, Kota Pekalongan",
-    "deskripsi_singkat": "Kawasan Pecinan bersejarah dengan gedung-gedung Indische Empire yang eksotis, rumah Klenteng Po An Thian dan Gereja Santo Petrus dalam harmoni toleransi."
-  },
-  {
-    "id": "pantai-pasir-kencana",
-    "nama": "Pantai Pasir Kencana",
-    "kategori": "wisata-alam",
-    "koordinat": { "lat": -6.859281315860979, "lng": 109.69103432626011 },
-    "foto_utama": "https://i.ibb.co/Jwg1wM3R/fd118676-e32f-4f22-aaa6-be222ec820f52.jpg",
-    "galeri": [
-      "/images/heritage/pasir-kencana-1.jpg",
-      "/images/heritage/pasir-kencana-2.jpg",
-      "/images/heritage/pasir-kencana-3.jpg"
-    ],
-    "tahun_berdiri": "-",
-    "jam_buka": "Setiap hari, 06.00–18.00 WIB",
-    "harga_tiket": "Rp 5.000–10.000",
-    "sejarah": "Obyek Wisata Pantai Pasir Kencana merupakan obyek wisata utama yang dimiliki Pemerintah Kota Pekalongan. Terletak berbatasan dengan Tempat Pelelangan Ikan dan Pelabuhan Perikanan Nusantara di Pantai Utara Jawa, dengan jarak tempuh 4,5 km dari pusat kota atau stasiun kereta api. Luas lahan pantai ini adalah 1,5 hektar dan dikelola oleh Dinas Pariwisata, Kebudayaan, Pemuda dan Olahraga Kota Pekalongan.\n\nDi sekitar pantai terdapat pula Krematorium, Pura Hindu, tambak-tambak ikan, serta Aquarium Ikan Laut yang ada di Pelabuhan Perikanan. Pantai ini juga menjadi lokasi tradisi Pek Cun yang diselenggarakan oleh umat Konghucu setiap tahun.",
-    "cerita_budaya": "Di Pantai Pasir Kencana, pengunjung dapat bersantai sambil menyaksikan matahari terbit dan terbenam, aktivitas nelayan dan perahunya, bermain di taman, memancing, berolahraga pantai, atau sekedar menghirup udara pantai yang segar. Tradisi Pek Cun yang digelar di sini menjadi bukti keragaman budaya Pekalongan — ritual yang melibatkan berbagai komunitas masyarakat lintas agama dalam suasana kebersamaan.",
-    "alamat": "Pesisir Utara, Kec. Pekalongan Utara, Kota Pekalongan",
-    "deskripsi_singkat": "Pantai utama Kota Pekalongan dengan pemandangan sunrise-sunset, aktivitas nelayan, dan lokasi tradisi budaya lintas agama."
-  },
-  {
     "id": "pekalongan-mangrove-park",
     "nama": "Pekalongan Mangrove Park (PMP)",
     "kategori": "hidden-gems",
-    "koordinat": { "lat": -6.858280425748842, "lng": 109.6750566573072 },
+    "koordinat": {
+      "lat": -6.858252582014678,
+      "lng": 109.67503944127357
+    },
     "foto_utama": "https://i.ibb.co/DfhKMsTw/mangrove-pekalongan.jpg",
     "galeri": [
       "/images/heritage/mangrove-park-1.jpg",
@@ -361,78 +346,31 @@
     "deskripsi_singkat": "Wisata edukasi ekosistem mangrove di pesisir Pekalongan — pusat restorasi lingkungan, mitigasi bencana, dan budidaya kepiting soka."
   },
   {
-    "id": "pantai-slamaran-indah",
-    "nama": "Pantai Slamaran Indah",
-    "kategori": "wisata-alam",
-    "koordinat": { "lat": -6.862119486326977, "lng": 109.70173727091755 },
-    "foto_utama": "/images/heritage/slamaran-indah.jpg",
-    "galeri": [
-      "/images/heritage/slamaran-indah-1.jpg",
-      "/images/heritage/slamaran-indah-2.jpg",
-      "/images/heritage/slamaran-indah-3.jpg"
-    ],
-    "tahun_berdiri": "-",
-    "jam_buka": "Setiap hari, 06.00–18.00 WIB",
-    "harga_tiket": "Rp 5.000–10.000",
-    "sejarah": "Pantai Slamaran Indah adalah potensi daya tarik wisata alam pantai yang masih alami, terletak di Kelurahan Krapyak Lor, Kecamatan Pekalongan Utara. Berada di sebelah timur Pantai Pasir Kencana dan dibatasi oleh muara Pelabuhan Perikanan Nusantara Pekalongan. Dapat dicapai lewat muara pelabuhan dengan perahu pesiar atau lewat jalur darat sekitar 5 km dari pusat kota.\n\nLuas lahan Pantai Slamaran Indah sekitar 3,5 hektar, dilengkapi fasilitas lahan parkir yang luas, rumah makan, warung makan, serta perahu sewa yang siap mengantarkan pengunjung berkeliling sekitar pantai. Pantai ini juga menjadi lokasi tujuan utama setelah tradisi Syawalan/Lopis Raksasa di Krapyak.",
-    "cerita_budaya": "Pantai Slamaran memiliki pemandangan yang sangat indah dengan udara segar, serta dapat disaksikan terbit dan terbenamnya matahari. Setiap tradisi Syawalan (7 hari setelah Idul Fitri), ribuan pengunjung berbondong-bondong ke pantai ini setelah pembagian Lopis Raksasa di Krapyak. Pantai ini juga menjadi tempat penyelenggaraan tradisi Nyadran/Sedekah Laut oleh masyarakat nelayan sebagai ungkapan rasa syukur atas hasil laut yang melimpah.",
-    "alamat": "Krapyak Lor, Kec. Pekalongan Utara, Kota Pekalongan",
-    "deskripsi_singkat": "Pantai alami di pesisir utara Pekalongan dengan pemandangan sunrise-sunset yang indah, lokasi tradisi Syawalan dan Nyadran nelayan."
-  },
-  {
-    "id": "wisata-bahari-ppnp",
-    "nama": "Wisata Bahari PPNP",
-    "kategori": "wisata-alam",
-    "koordinat": { "lat": -6.858325286281507, "lng": 109.69196219981592 },
-    "foto_utama": "/images/heritage/ppnp.jpg",
-    "galeri": [
-      "/images/heritage/ppnp-1.jpg",
-      "/images/heritage/ppnp-2.jpg",
-      "/images/heritage/ppnp-3.jpg"
-    ],
-    "tahun_berdiri": "2006",
-    "jam_buka": "Setiap hari, 08.00–17.00 WIB",
-    "harga_tiket": "Rp 5.000–10.000",
-    "sejarah": "Wisata Bahari Pelabuhan Perikanan Nusantara Pekalongan (PPNP) adalah suatu kompleks wisata laut milik Kementerian Kelautan dan Perikanan RI yang berada di Kota Pekalongan. Kompleks ini diresmikan pada Juli 2006 oleh Menteri Kelautan dan Perikanan, Freddy Numberi.\n\nWisata bahari PPNP berada di pesisir pantai Kota Pekalongan, tepatnya di Jl. WR Supratman No. 1. Kawasan wisata ini menawarkan pemandangan pantai, laut, serta muara sungai Pekalongan. Area wisata bahari seluas 10.000 m² dilengkapi taman bunga/pohon rindang dan taman bermain anak-anak.\n\nGedung Aquarium 3 lantai menjadi daya tarik utama: Lantai 1 berisi aquarium laut dan air tawar ber-AC dengan berbagai jenis ikan, Lantai 2 berisi Ruang Iptek seluas 150 m² dengan miniatur kapal dan alat tangkap ikan, dan Lantai 3 merupakan ruang terbuka untuk view kelaut (gardu pandang atas).",
-    "cerita_budaya": "Wisata Bahari PPNP menggambarkan identitas Pekalongan sebagai kota pesisir yang hidup dari laut. Di sini pengunjung dapat menyewa perahu wisata untuk berkeliling pantai, menyaksikan koleksi ikan laut di akuarium, memancing, atau bersantai di anjungan. Kompleks ini juga menjadi pusat aktivitas nelayan Pekalongan yang setiap hari membawa hasil tangkapan ke tempat pelelangan ikan.",
-    "alamat": "Jl. WR Supratman No. 1, Komplek Pelabuhan Perikanan Nusantara, Pekalongan Utara",
-    "deskripsi_singkat": "Kompleks wisata bahari dengan aquarium 3 lantai, perahu wisata, dan pemandangan pantai — pusat aktivitas nelayan Pekalongan."
-  },
-  {
-    "id": "toko-batik-ny-oey",
-    "nama": "Toko Batik Ny. Oey",
-    "kategori": "hidden-gems",
-    "koordinat": { "lat": -6.9697957264973915, "lng": 109.64612022476257 },
-    "foto_utama": "/images/heritage/toko-batik-ny-oey.jpg",
+    "id": "gallery-dian-pelangi",
+    "nama": "Gallery Dian Pelangi",
+    "kategori": "kampung-batik",
+    "koordinat": {
+      "lat": -6.896620376183843,
+      "lng": 109.6695319056026
+    },
+    "foto_utama": "",
     "galeri": [],
-    "tahun_berdiri": "1920-an",
+    "tahun_berdiri": "-",
     "jam_buka": "Setiap hari",
-    "harga_tiket": "Gratis",
-    "sejarah": "Toko batik tertua di Kauman, berdiri sejak 1920-an.",
-    "cerita_budaya": "Menyimpan koleksi batik lawasan yang sangat langka dan autentik.",
-    "alamat": "Kauman, Kec. Pekalongan Timur, Kota Pekalongan",
-    "deskripsi_singkat": "Toko batik tertua di Kauman, berdiri sejak 1920-an."
-  },
-  {
-    "id": "gang-batik-pelangi",
-    "nama": "Gang Batik Pelangi (belum ketemu)",
-    "kategori": "hidden-gems",
-    "koordinat": { "lat": -6.8920, "lng": 109.6715 },
-    "foto_utama": "/images/heritage/gang-batik-pelangi.jpg",
-    "galeri": [],
-    "tahun_berdiri": "-",
-    "jam_buka": "Setiap hari, 24 jam",
-    "harga_tiket": "Gratis",
-    "sejarah": "Gang sempit penuh mural motif batik yang digambar oleh warga sekitar.",
-    "cerita_budaya": "Menjadi spot foto favorit bagi wisatawan yang berkunjung ke kawasan kampung batik.",
-    "alamat": "Kota Pekalongan",
-    "deskripsi_singkat": "Gang sempit penuh mural motif batik, spot foto favorit."
+    "harga_tiket": "-",
+    "sejarah": "Belum ada informasi sejarah.",
+    "cerita_budaya": "Belum ada informasi budaya.",
+    "alamat": "Pekalongan",
+    "deskripsi_singkat": "Lokasi di Pekalongan."
   },
   {
     "id": "warung-kopi-tahlil",
     "nama": "Warung Kopi Tahlil",
     "kategori": "kuliner-legendaris",
-    "koordinat": { "lat": -6.8981356257494095, "lng": 109.67975883969095 },
+    "koordinat": {
+      "lat": -6.885420725440756,
+      "lng": 109.67847487353667
+    },
     "foto_utama": "/images/heritage/kopi-tahlil.jpg",
     "galeri": [],
     "tahun_berdiri": "1970",
@@ -447,7 +385,10 @@
     "id": "pelabuhan-lama",
     "nama": "Pelabuhan Lama",
     "kategori": "hidden-gems",
-    "koordinat": { "lat": -6.857831037826201, "lng": 109.69208567917003 },
+    "koordinat": {
+      "lat": -6.8578889419176186,
+      "lng": 109.69213039849042
+    },
     "foto_utama": "https://i.ibb.co/bDDH8Qb/berita-20220404021637.jpg",
     "galeri": [],
     "tahun_berdiri": "Era Kolonial",
@@ -459,18 +400,75 @@
     "deskripsi_singkat": "Sisa dermaga kolonial dengan view sunset terbaik."
   },
   {
-    "id": "soto-tauto-pak-marsum",
-    "nama": "Soto Tauto Pak Marsum",
-    "kategori": "kuliner-legendaris",
-    "koordinat": { "lat": -6.8930, "lng": 109.6710 },
-    "foto_utama": "/images/heritage/soto-tauto-marsum.jpg",
+    "id": "eks-officiele-huis",
+    "nama": "Eks Officiële Huis van de Resident van Pekalongan",
+    "kategori": "bangunan-kolonial",
+    "koordinat": {
+      "lat": -6.878727411287548,
+      "lng": 109.67364722677898
+    },
+    "foto_utama": "",
     "galeri": [],
     "tahun_berdiri": "-",
     "jam_buka": "Setiap hari",
-    "harga_tiket": "Mulai Rp 25.000",
-    "sejarah": "Salah satu soto tauto legendaris di Pekalongan.",
-    "cerita_budaya": "Soto tauto ini terkenal dengan kuah tauco yang kental dan gurih.",
-    "alamat": "Kota Pekalongan",
-    "deskripsi_singkat": "Kuliner soto tauto legendaris Pekalongan."
+    "harga_tiket": "-",
+    "sejarah": "Belum ada informasi sejarah.",
+    "cerita_budaya": "Belum ada informasi budaya.",
+    "alamat": "Pekalongan",
+    "deskripsi_singkat": "Lokasi di Pekalongan."
+  },
+  {
+    "id": "gedung-pertani",
+    "nama": "Gedung Pertani",
+    "kategori": "bangunan-kolonial",
+    "koordinat": {
+      "lat": -6.877627004263697,
+      "lng": 109.67646496603514
+    },
+    "foto_utama": "",
+    "galeri": [],
+    "tahun_berdiri": "-",
+    "jam_buka": "Setiap hari",
+    "harga_tiket": "-",
+    "sejarah": "Belum ada informasi sejarah.",
+    "cerita_budaya": "Belum ada informasi budaya.",
+    "alamat": "Pekalongan",
+    "deskripsi_singkat": "Lokasi di Pekalongan."
+  },
+  {
+    "id": "gor-jetayu",
+    "nama": "Gor Jetayu (Societet/Gedung Setan)",
+    "kategori": "bangunan-kolonial",
+    "koordinat": {
+      "lat": -6.878193683078044,
+      "lng": 109.67569044516769
+    },
+    "foto_utama": "",
+    "galeri": [],
+    "tahun_berdiri": "-",
+    "jam_buka": "Setiap hari",
+    "harga_tiket": "-",
+    "sejarah": "Belum ada informasi sejarah.",
+    "cerita_budaya": "Belum ada informasi budaya.",
+    "alamat": "Pekalongan",
+    "deskripsi_singkat": "Lokasi di Pekalongan."
+  },
+  {
+    "id": "limun-oriental",
+    "nama": "Limun Oriental",
+    "kategori": "kuliner-legendaris",
+    "koordinat": {
+      "lat": -6.878841343466054,
+      "lng": 109.67660854679524
+    },
+    "foto_utama": "",
+    "galeri": [],
+    "tahun_berdiri": "-",
+    "jam_buka": "Setiap hari",
+    "harga_tiket": "-",
+    "sejarah": "Belum ada informasi sejarah.",
+    "cerita_budaya": "Belum ada informasi budaya.",
+    "alamat": "Pekalongan",
+    "deskripsi_singkat": "Lokasi di Pekalongan."
   }
 ]
