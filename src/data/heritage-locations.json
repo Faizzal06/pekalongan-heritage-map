@@ -251,11 +251,11 @@
       "lat": -6.901327069179325,
       "lng": 109.67564296393186
     },
-    "foto_utama": "/images/heritage/garang-asem-masduki.jpg",
+    "foto_utama": "https://i.ibb.co/M3ccqG5/IMG-0580.webp",
     "galeri": [
-      "/images/heritage/garang-asem-masduki-1.jpg",
-      "/images/heritage/garang-asem-masduki-2.jpg",
-      "/images/heritage/garang-asem-masduki-3.jpg"
+      "https://i.ibb.co/7dXSXY7c/IMG-0581.webp",
+      "https://i.ibb.co/VYgQkcv5/IMG-0583.jpg",
+      "https://i.ibb.co/M3ccqG5/IMG-0580.webp"
     ],
     "tahun_berdiri": "1960-an",
     "jam_buka": "Setiap hari, 08.00–21.00 WIB",
@@ -273,14 +273,19 @@
       "lat": -6.873794926901132,
       "lng": 109.67372734785116
     },
-    "foto_utama": "",
-    "galeri": [],
-    "tahun_berdiri": "-",
-    "jam_buka": "Setiap hari",
-    "harga_tiket": "-",
-    "sejarah": "Belum ada informasi sejarah.",
-    "cerita_budaya": "Belum ada informasi budaya.",
-    "alamat": "Pekalongan",
+    "foto_utama": "https://i.ibb.co.com/nMyyDhTc/sopmekar1.webp",
+    "galeri": [
+      "https://i.ibb.co.com/nMyyDhTc/sopmekar1.webp",
+      "https://i.ibb.co.com/JDvNx4t/sopmekar2.webp",
+      "https://i.ibb.co.com/6RbqGjH1/sopmekar3.jpg",
+      "https://i.ibb.co.com/RTmgyzsd/sopmekar4.jpg"
+    ],
+    "tahun_berdiri": "1970-an",
+    "jam_buka": "Setiap hari, 08.30–15.00 WIB",
+    "harga_tiket": "-+ Rp 25.000",
+    "sejarah": "Sop Ayam Pak Mekar di Kandang Panjang adalah salah satu kuliner legendaris dan tersembunyi (*hidden gem*) paling populer di Kota Pekalongan. Berdiri selama lebih dari setengah abad, warung ini kini dikelola oleh generasi kedua dan konsisten mempertahankan resep tradisionalnya sehingga tetap menjadi ikon kuliner lokal yang dicari lintas generasi.\n\nBerbeda dengan sop ayam biasa, hidangan di sini menonjol karena penggunaan bahan-bahan segar yang dimasak dadakan. Kuahnya bening namun kaya akan kaldu ayam kampung asli yang gurih alami, disajikan panas dengan potongan ayam yang empuk serta porsi sayuran yang melimpah.",
+    "cerita_budaya": "Warung Sop Ayam Pak Mekar merepresentasikan kehangatan kuliner rumahan khas masyarakat Pekalongan Utara. Meski lokasinya tersembunyi di dalam gang pemukiman warga, warung ini tidak pernah sepi pengunjung dan menyatukan berbagai lapisan masyarakat. Keunikan budayanya juga terlihat dari kebiasaan lokal menikmati sop yang dicampur langsung dengan tahu goreng panas serta siraman sambal kecap manis dan ulekan cabai rawit (*slentem pisan*), menciptakan harmoni rasa gurih, pedas, dan manis.",
+    "alamat": "Jl. Kusuma Bangsa No.38, Kandang Panjang, Kec. Pekalongan Utara, Kota Pekalongan, Jawa Tengah 51141.",
     "deskripsi_singkat": "Lokasi di Pekalongan."
   },
   {
@@ -291,14 +296,18 @@
       "lat": -6.8820669072969425,
       "lng": 109.67968436634143
     },
-    "foto_utama": "",
-    "galeri": [],
+    "foto_utama": "https://i.ibb.co/Kzm7hPfF/IMG-0630.png",
+    "galeri": [
+      "https://i.ibb.co/HTkS4sGy/IMG-0627.jpg",
+      "https://i.ibb.co/wNNzQgZN/IMG-0629.png",
+      "https://i.ibb.co/Kzm7hPfF/IMG-0630.png"
+    ],
     "tahun_berdiri": "-",
     "jam_buka": "Setiap hari",
-    "harga_tiket": "-",
-    "sejarah": "Belum ada informasi sejarah.",
-    "cerita_budaya": "Belum ada informasi budaya.",
-    "alamat": "Pekalongan",
+    "harga_tiket": "Gratis",
+    "sejarah": "Tugu Batik Jlamprang adalah monumen ikonik di Kota Pekalongan yang berlokasi di daerah Klego, Kecamatan Pekalongan Timur, Jawa Tengah. Monumen ini dibangun untuk merayakan identitas Pekalongan sebagai pusat peradaban multikultural dan Kota Batik dunia",
+    "cerita_budaya": "Motif Jlamprang lahir dari adaptasi saudagar Arab pada masa lalu merespons kelangkaan kain Patola India. Polanya didominasi oleh bentuk geometris seperti bintang, mata angin, dan dedaunan, dengan makna filosofis perpaduan nilai spiritual Islam dan kearifan lokal",
+    "alamat": "Kecamatan Pekalongan Timur",
     "deskripsi_singkat": "Lokasi di Pekalongan."
   },
   {
@@ -311,9 +320,10 @@
     },
     "foto_utama": "https://i.ibb.co/tw92c3C0/pasar-batik-grosir-sentono.jpg",
     "galeri": [
-      "/images/heritage/pasar-setono-1.jpg",
-      "/images/heritage/pasar-setono-2.jpg",
-      "/images/heritage/pasar-setono-3.jpg"
+      "https://i.ibb.co/8Lckm6QZ/setono.jpg",
+      "https://i.ibb.co/xq6F2nXY/setono1.jpg",
+      "https://i.ibb.co/wrsgQ6Zw/setono2.jpg",
+      "https://i.ibb.co/xKBQ8CKC/setono3.jpg"
     ],
     "tahun_berdiri": "Era 1970-an",
     "jam_buka": "Setiap hari, 08.00–17.00 WIB",
@@ -333,9 +343,9 @@
     },
     "foto_utama": "https://i.ibb.co/DfhKMsTw/mangrove-pekalongan.jpg",
     "galeri": [
-      "/images/heritage/mangrove-park-1.jpg",
-      "/images/heritage/mangrove-park-2.jpg",
-      "/images/heritage/mangrove-park-3.jpg"
+      "https://i.ibb.co/SXVpsyPq/289ed9fc-ea27-45c3-abf8-85815645c9f4.jpg",
+      "https://i.ibb.co/9HvQN0xF/8959df6c-17a3-4de6-826f-45cee815bf48.jpg",
+      "https://i.ibb.co/DfhKMsTw/mangrove-pekalongan.jpg"
     ],
     "tahun_berdiri": "2013",
     "jam_buka": "Setiap hari, 07.00–17.00 WIB",
@@ -353,8 +363,13 @@
       "lat": -6.896620376183843,
       "lng": 109.6695319056026
     },
-    "foto_utama": "",
-    "galeri": [],
+    "foto_utama": "https://i.ibb.co.com/SD2Z3Cfv/dianpelangi.webp",
+    "galeri": [
+      "https://i.ibb.co.com/SD2Z3Cfv/dianpelangi.webp",
+      "https://i.ibb.co.com/W4MLNr2G/dianpelangi1.webp",
+      "https://i.ibb.co.com/93WW77kk/dianpelangi2.webp",
+      "https://i.ibb.co.com/B2Gcf9cr/dianpelangi3.webp"
+    ],
     "tahun_berdiri": "-",
     "jam_buka": "Setiap hari",
     "harga_tiket": "-",
@@ -371,8 +386,13 @@
       "lat": -6.885420725440756,
       "lng": 109.67847487353667
     },
-    "foto_utama": "/images/heritage/kopi-tahlil.jpg",
-    "galeri": [],
+    "foto_utama": "https://i.ibb.co.com/8nCfDYzf/kopi-tahlil.jpg",
+    "galeri": [
+      "https://i.ibb.co.com/8nCfDYzf/kopi-tahlil.jpg",
+      "https://i.ibb.co.com/SXR6vWVs/kopi-tahlil2.webp",
+      "https://i.ibb.co.com/WWq7qZmL/kopi-tahlil3.webp",
+      "https://i.ibb.co.com/wFfz6p8j/kopi-tahlil4.jpg"
+    ],
     "tahun_berdiri": "1970",
     "jam_buka": "Sore - Malam",
     "harga_tiket": "Mulai Rp 5.000",
@@ -390,7 +410,11 @@
       "lng": 109.69213039849042
     },
     "foto_utama": "https://i.ibb.co/bDDH8Qb/berita-20220404021637.jpg",
-    "galeri": [],
+    "galeri": [
+      "https://i.ibb.co/TFvFpyt/36a59c07-3532-4655-840a-c91bec4082ae.jpg",
+      "https://i.ibb.co/Lz9MtZgX/30a07e1e-1049-4f8a-924e-b5b89d24015a.jpg",
+      "https://i.ibb.co/bDDH8Qb/berita-20220404021637.jpg"
+    ],
     "tahun_berdiri": "Era Kolonial",
     "jam_buka": "Setiap hari, 24 jam",
     "harga_tiket": "Gratis",
@@ -407,14 +431,18 @@
       "lat": -6.878727411287548,
       "lng": 109.67364722677898
     },
-    "foto_utama": "",
-    "galeri": [],
-    "tahun_berdiri": "-",
+    "foto_utama": "https://i.ibb.co/KdNYbTQ/IMG-0598.webp",
+    "galeri": [
+      "https://i.ibb.co/KdNYbTQ/IMG-0598.webp",
+      "https://i.ibb.co/ZRjBKyZ9/IMG-0599.jpg",
+      "https://i.ibb.co/PfhwxSg/IMG-0601.jpg"
+    ],
+    "tahun_berdiri": "1820-an",
     "jam_buka": "Setiap hari",
-    "harga_tiket": "-",
-    "sejarah": "Belum ada informasi sejarah.",
-    "cerita_budaya": "Belum ada informasi budaya.",
-    "alamat": "Pekalongan",
+    "harga_tiket": "Gratis",
+    "sejarah": "Eks Officiële Huis van de Resident van Pekalongan merupakan salah satu bangunan kolonial terpenting di Kota Pekalongan. Bangunan ini dahulu berfungsi sebagai rumah jabatan Residen Pekalongan, yaitu pejabat tertinggi pemerintahan Hindia Belanda di wilayah Karesidenan Pekalongan. Pembangunannya diperkirakan dimulai pada tahun 1850 oleh Residen J. van der Eb dan pertama kali ditempati oleh Residen George Johan Peter van de Poel.\nBangunan ini didirikan pada masa berkembangnya industri gula di wilayah Pekalongan. Dari kantor dan rumah dinas inilah pemerintah kolonial mengawasi administrasi pemerintahan, perdagangan, serta aktivitas beberapa pabrik gula yang tersebar di wilayah Karesidenan Pekalongan.",
+    "cerita_budaya": "Masyarakat Pekalongan mengenal gedung ini sebagai salah satu \"saksi bisu\" perjalanan sejarah kota sejak masa kolonial hingga Indonesia modern. Kawasan sekitarnya sering digunakan untuk festival budaya, pameran batik, pertunjukan seni, dan kegiatan sejarah yang memperkenalkan warisan budaya Pekalongan kepada generasi muda.",
+    "alamat": "Jl. Pemuda No. 1, Kawasan Budaya Jetayu, Kota Pekalongan, Jawa Tengah",
     "deskripsi_singkat": "Lokasi di Pekalongan."
   },
   {
@@ -425,15 +453,19 @@
       "lat": -6.877627004263697,
       "lng": 109.67646496603514
     },
-    "foto_utama": "",
-    "galeri": [],
-    "tahun_berdiri": "-",
+    "foto_utama": "https://i.ibb.co/xKzds0FV/IMG-0592.jpg",
+    "galeri": [
+      "https://i.ibb.co/xKzds0FV/IMG-0592.jpg",
+      "https://i.ibb.co/8LGqzwNR/IMG-0591.jpg",
+      "https://i.ibb.co/xKzds0FV/IMG-0592.jpg"
+    ],
+    "tahun_berdiri": "1980-an",
     "jam_buka": "Setiap hari",
-    "harga_tiket": "-",
-    "sejarah": "Belum ada informasi sejarah.",
-    "cerita_budaya": "Belum ada informasi budaya.",
-    "alamat": "Pekalongan",
-    "deskripsi_singkat": "Lokasi di Pekalongan."
+    "harga_tiket": "Gratis",
+    "sejarah": "Gedung Pertani merupakan salah satu bangunan heritage yang berada di Kawasan Budaya Jetayu, Kota Pekalongan. Pada masa kolonial Belanda, bangunan ini digunakan sebagai kantor perbankan dan pusat administrasi keuangan yang berkaitan dengan perdagangan gula. Gedung ini juga menjadi saksi sejarah penerapan sistem tanam paksa (cultuurstelsel) yang pernah berlangsung di wilayah Pekalongan.\nMenjelang pendudukan Jepang sekitar tahun 1941, fungsi perbankan di gedung tersebut berhenti beroperasi. Kemudian pada sekitar tahun 1980-an bangunan ini digunakan sebagai kantor cabang PT Pertani (Persero), sehingga masyarakat Pekalongan lebih mengenalnya dengan nama Gedung Pertani",
+    "cerita_budaya": "Di masyarakat setempat juga berkembang berbagai cerita rakyat dan kisah misteri mengenai bangunan tua ini. Beberapa warga mengaitkannya dengan penampakan noni Belanda dan aktivitas supranatural karena usia bangunan yang sangat tua. Namun cerita tersebut merupakan bagian dari folklore lokal dan tidak memiliki bukti sejarah yang dapat diverifikasi.",
+    "alamat": "Jl. Jetayu No. 9, Kelurahan Panjang Wetan, Kecamatan Pekalongan Utara, Kota Pekalongan, Jawa Tengah.",
+    "deskripsi_singkat": "Gedung Pertani menjadi bagian penting dari narasi sejarah Kota Tua Jetayu. Bangunan ini menggambarkan bagaimana Pekalongan berkembang sebagai pusat perdagangan pada masa kolonial. Bersama GOR Jetayu, Museum Batik, Kali Loji, dan bangunan kolonial lainnya, gedung ini sering dijadikan lokasi wisata sejarah dan kegiatan edukasi heritage."
   },
   {
     "id": "gor-jetayu",
@@ -443,14 +475,18 @@
       "lat": -6.878193683078044,
       "lng": 109.67569044516769
     },
-    "foto_utama": "",
-    "galeri": [],
-    "tahun_berdiri": "-",
+    "foto_utama": "https://i.ibb.co/6JV5smJ5/d3fc2195-c99b-4b70-a8e3-4fe0ac14e1d0.jpg",
+    "galeri": [
+      "https://i.ibb.co/6JV5smJ5/d3fc2195-c99b-4b70-a8e3-4fe0ac14e1d0.jpg",
+      "https://i.ibb.co/4ZL1wTkQ/619aaf7c-e431-4029-88e1-1a47fe914a96.jpg",
+      "https://i.ibb.co/sJQmx58Z/6fc3693d-442e-4f9c-8777-36f35bc35f48.jpg"
+    ],
+    "tahun_berdiri": "1928",
     "jam_buka": "Setiap hari",
     "harga_tiket": "-",
-    "sejarah": "Belum ada informasi sejarah.",
-    "cerita_budaya": "Belum ada informasi budaya.",
-    "alamat": "Pekalongan",
+    "sejarah": "GOR Jetayu bukan sekadar gedung olahraga biasa. Bangunan ini merupakan bagian dari Kawasan Budaya Jetayu, yaitu kawasan kota tua yang menyimpan banyak bangunan peninggalan kolonial Belanda. Kawasan ini dahulu menjadi pusat pemerintahan, perdagangan, dan aktivitas masyarakat multietnis di Pekalongan. \nArsitektur GOR Jetayu memiliki ciri bangunan kolonial dengan pilar-pilar besar dan fasad bergaya Eropa yang masih dipertahankan hingga sekarang. Karena nilai sejarahnya yang tinggi, gedung ini menjadi salah satu bangunan heritage yang sering diperkenalkan dalam wisata sejarah Kota Pekalongan.",
+    "cerita_budaya": "Nama \"Jetayu\" sendiri sangat dikenal sebagai pusat kebudayaan Kota Pekalongan. Kawasan ini dikelilingi berbagai bangunan bersejarah seperti:",
+    "alamat": "Jl. Jetayu, Panjang Wetan, Kecamatan Pekalongan Utara, Kota Pekalongan.",
     "deskripsi_singkat": "Lokasi di Pekalongan."
   },
   {
@@ -461,14 +497,18 @@
       "lat": -6.878841343466054,
       "lng": 109.67660854679524
     },
-    "foto_utama": "",
-    "galeri": [],
+    "foto_utama": "https://i.ibb.co/8nNRCCKx/be710fe6-148f-4145-b4b5-93b550e32c42.jpg",
+    "galeri": [
+      "https://i.ibb.co/Hp45zyrN/4e017401-51a1-454e-bc04-ca489cdae3b9.jpg",
+      "https://i.ibb.co/Fk3Kvqk5/509955be-da87-4f02-915b-20a39d7e7424.jpg",
+      "https://i.ibb.co/XrNzy0mJ/2845b35d-fe9f-4033-8f27-1e8feabf8d4c.jpg"
+    ],
     "tahun_berdiri": "-",
-    "jam_buka": "Setiap hari",
-    "harga_tiket": "-",
-    "sejarah": "Belum ada informasi sejarah.",
-    "cerita_budaya": "Belum ada informasi budaya.",
-    "alamat": "Pekalongan",
+    "jam_buka": "Setiap hari, 08.00–17.30 WIB.",
+    "harga_tiket": "Gratis, Pengunjung hanya membayar makanan atau minuman yang dipesan",
+    "sejarah": "Limun Oriental merupakan salah satu minuman legendaris khas Pekalongan yang telah bertahan lebih dari satu abad. Awalnya diproduksi secara sederhana di Kedungwuni pada tahun 1920, kemudian pada tahun 1923 lokasi produksi dipindahkan ke Kota Pekalongan, tepatnya di kawasan Panjang Wetan yang masih digunakan hingga sekarang.\nPada masa awal berdirinya, minuman ini dikenal dengan nama \"Aer Belanda\" atau Banyu Londo. Seiring perkembangan usaha, nama produknya beberapa kali berubah hingga akhirnya menggunakan merek Limun Oriental Cap Nyonya Silhuet yang dikenal masyarakat sampai saat ini.\nTahun 1980-an penjualannya sempat menurun akibat masuknya berbagai minuman bersoda internasional. Namun sejak 2017, generasi kelima keluarga pendiri melakukan inovasi dengan membuka kedai bergaya klasik yang memadukan wisata sejarah dan kuliner sehingga Limun Oriental kembali populer sebagai ikon oleh-oleh Pekalongan.",
+    "cerita_budaya": "Limun Oriental bukan sekadar minuman, tetapi bagian dari identitas budaya masyarakat Pekalongan. Selama puluhan tahun minuman ini sering hadir dalam acara keluarga, hajatan, perayaan hari raya, hingga kegiatan masyarakat. Banyak warga Pekalongan yang menganggap Limun Oriental sebagai simbol nostalgia masa kecil dan warisan kuliner turun-temurun.",
+    "alamat": "Jalan Rajawali Utara No. 15, Panjang Wetan, Pekalongan Utara",
     "deskripsi_singkat": "Lokasi di Pekalongan."
   }
 ]

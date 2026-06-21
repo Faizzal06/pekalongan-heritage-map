@@ -1,66 +1,34 @@
 [
   {
-    "id": "kampung-krapyak",
-    "nama": "Kampung Krapyak",
-    "foto": "/images/hidden-gems/kampung-krapyak.jpg",
-    "deskripsi": "Perkampungan nelayan bersejarah di pesisir utara Pekalongan yang menyimpan tradisi Syawalan unik dan kehidupan maritim autentik. Deretan perahu warna-warni di tepi sungai, jaring ikan yang dijemur di pekarangan, dan aroma khas pesisir menciptakan suasana kampung nelayan yang tak terjamah modernisasi. Kampung ini juga dikenal dengan kuliner seafood segar langsung dari tangkapan nelayan lokal.",
-    "tips": "Kunjungi saat perayaan Syawalan (seminggu setelah Idul Fitri) untuk menyaksikan tradisi sedekah laut dan pesta rakyat yang meriah. Datang pagi hari untuk melihat aktivitas nelayan membongkar hasil tangkapan.",
-    "koordinat": { "lat": -6.8600, "lng": 109.6900 }
+    "id": "soto-tauto-h-rochmani",
+    "nama": "Soto Tauto H. Rochmani",
+    "foto": "https://i.ibb.co.com/MxXm2mKD/soto-H-Rochmani.webp",
+    "deskripsi": "Warung Soto Tauto Pak Haji Rochmani telah berdiri sejak 1985, menyajikan soto dengan bumbu tauco yang khas — kedelai yang telah dimasak dan dihaluskan. Soto tauto merupakan adaptasi kuliner orang Tionghoa di Pekalongan dengan sentuhan cita rasa Jawa pesisiran. Kuahnya kental berwarna kecokelatan dengan aroma tauco yang khas, dilengkapi dengan bihun putih, daun bawang, dan potongan daging.",
+    "tips": "Pesan soto tauto dengan tambahan tempe dan tahu goreng khas Pekalongan untuk pengalaman rasa yang lengkap. Buka dari jam 09:00–16:00 WIB setiap hari. Harga terjangkau sekitar Rp 27.000–35.000 per porsi.",
+    "koordinat": { "lat": -6.8622, "lng": 109.6675 }
   },
   {
-    "id": "gang-balaikambang",
-    "nama": "Gang Balaikambang",
-    "foto": "/images/hidden-gems/gang-balaikambang.jpg",
-    "deskripsi": "Lorong tersembunyi di kawasan kota lama Pekalongan yang dipagari deretan bangunan kolonial, peranakan, dan Jawa tradisional dari abad ke-19. Gang ini seperti museum arsitektur terbuka yang menceritakan sejarah multikulturalisme Pekalongan melalui fasad-fasad bangunan tuanya. Suasana tenang dan nostalgia kota tua menjadikannya surga bagi fotografer dan pecinta heritage.",
-    "tips": "Waktu terbaik untuk berkunjung adalah pagi hari saat cahaya matahari menerangi fasad bangunan-bangunan tua dari sudut yang sempurna. Bawa kamera dan jangan ragu untuk bertanya kepada warga lokal tentang sejarah bangunan-bangunan di sekitar.",
-    "koordinat": { "lat": -6.8888, "lng": 109.6748 }
+    "id": "garang-asem-masduki",
+    "nama": "Garang Asem Masduki",
+    "foto": "https://i.ibb.co/M3ccqG5/IMG-0580.webp",
+    "deskripsi": "Rumah Makan Masduki di Alun-alun Lama Pekalongan adalah ikon kuliner legendaris sejak 1960-an. Garang asem adalah makanan sejenis rawon tetapi lebih bening, berasa asam dan pedas, dengan kuah yang ditambah banyak tomat dan daging kerbau. Cita rasa asam-pedas-segar mencerminkan akulturasi budaya Pekalongan — perpaduan Jawa pesisiran dengan pengaruh komunitas yang pernah menetap di kota ini.",
+    "tips": "Nikmati garang asem dengan telur rendang sebagai pelengkap rasa yang sempurna. Warung buka setiap hari dari 08:00–21:00 WIB. Harga berkisar Rp 25.000–45.000 per porsi. Tempat ini menyatukan berbagai generasi dan lapisan masyarakat Pekalongan.",
+    "koordinat": { "lat": -6.8659, "lng": 109.6756 }
   },
   {
-    "id": "pasar-pagi-tradisional",
-    "nama": "Pasar Pagi Tradisional",
-    "foto": "/images/hidden-gems/pasar-pagi.jpg",
-    "deskripsi": "Pasar tradisional tertua di Pekalongan yang beroperasi sejak subuh buta, menawarkan pengalaman autentik kehidupan masyarakat lokal. Dari ikan segar tangkapan nelayan, sayuran dari petani pedesaan, hingga jajanan pasar buatan tangan yang masih hangat dari kukusan — semua tersedia dengan harga yang sangat terjangkau. Pasar ini juga menjadi tempat terbaik untuk mencicipi soto tauto, megono, dan kuliner khas Pekalongan lainnya dalam versi paling autentik.",
-    "tips": "Datanglah sebelum pukul 06.00 WIB untuk merasakan suasana paling ramai dan mendapatkan bahan makanan paling segar. Jangan lupa sarapan soto tauto di dalam pasar — cari warung yang paling ramai dikunjungi warga lokal.",
-    "koordinat": { "lat": -6.8910, "lng": 109.6735 }
+    "id": "sop-ayam-mekar",
+    "nama": "Sop Ayam Mekar",
+    "foto": "https://i.ibb.co.com/nMyyDhTc/sopmekar1.webp",
+    "deskripsi": "Warung Sop Ayam Pak Mekar di Kandang Panjang adalah kuliner legendaris tersembunyi yang paling dicari lintas generasi. Berdiri lebih dari setengah abad sejak 1970-an, warung ini konsisten mempertahankan resep tradisionalnya. Sop di sini menonjol dengan penggunaan kaldu ayam kampung asli yang gurih alami, potongan ayam yang empuk, dan porsi sayuran yang melimpah.",
+    "tips": "Campur langsung sop dengan tahu goreng panas serta siraman sambal kecap manis dan ulekan cabai rawit (slentem pisan) untuk rasa yang harmonis. Buka setiap hari dari 08:30–15:00 WIB. Harga hanya sekitar Rp 25.000 per porsi. Lokasinya tersembunyi di gang pemukiman, tetapi patut dicari!",
+    "koordinat": { "lat": -6.8642, "lng": 109.6737 }
   },
   {
-    "id": "jembatan-sungai-loji",
-    "nama": "Jembatan Sungai Loji",
-    "foto": "/images/hidden-gems/jembatan-loji.jpg",
-    "deskripsi": "Jembatan baja peninggalan kolonial Belanda dari awal abad ke-20 yang melintasi Sungai Loji di kawasan kota lama. Konstruksi rivet baja yang masih kokoh dan pemandangan aliran sungai yang tenang diapit bangunan-bangunan tua menciptakan suasana romantis nan nostalgia. Pada sore hari, jembatan ini menawarkan pemandangan sunset yang memukau di antara siluet kota tua Pekalongan.",
-    "tips": "Kunjungi saat golden hour (pukul 16.00–17.30 WIB) untuk mendapatkan foto terbaik dengan cahaya matahari sore yang menerangi jembatan dan bangunan kolonial di sekitarnya.",
-    "koordinat": { "lat": -6.8878, "lng": 109.6770 }
-  },
-  {
-    "id": "taman-ronggowarsito",
-    "nama": "Taman Ronggowarsito",
-    "foto": "/images/hidden-gems/taman-ronggowarsito.jpg",
-    "deskripsi": "Taman kota bertemakan budaya Jawa yang terletak di pusat Pekalongan, dinamai untuk menghormati pujangga besar Ronggowarsito. Pada siang hari, taman ini menjadi ruang hijau yang teduh untuk bersantai, sementara malam hari berubah menjadi area kuliner jalanan dengan pedagang-pedagang kaki lima yang menjajakan jajanan khas Pekalongan. Bangku-bangku taman dihiasi motif batik, menambah nuansa kultural yang khas.",
-    "tips": "Datang pada malam hari (setelah pukul 18.00 WIB) untuk menikmati suasana kuliner malam dan jajanan khas seperti es dawet, tahu pletok, dan sate. Pada akhir pekan, sering ada pertunjukan seni gratis dari komunitas lokal.",
-    "koordinat": { "lat": -6.8892, "lng": 109.6722 }
-  },
-  {
-    "id": "pantai-pasir-kencana",
-    "nama": "Pantai Pasir Kencana",
-    "foto": "/images/hidden-gems/pantai-pasir-kencana.jpg",
-    "deskripsi": "Pantai bersejarah di pesisir utara Pekalongan yang dulunya merupakan titik pendaratan pedagang kuno dari berbagai penjuru Asia. Kini pantai ini menawarkan wisata alam dengan hamparan pasir hitam, taman bermain, dan fasilitas rekreasi keluarga. Setiap tahun, pantai ini menjadi lokasi upacara sedekah laut yang sakral, sebuah tradisi nelayan yang memadukan kepercayaan lokal dengan ajaran Islam.",
-    "tips": "Kunjungi saat pagi hari untuk udara yang masih segar dan pemandangan nelayan berangkat melaut. Hindari musim hujan (Desember–Februari) karena pantai sering terkena banjir rob. Sediakan payung atau topi untuk berlindung dari terik matahari.",
-    "koordinat": { "lat": -6.8650, "lng": 109.6850 }
-  },
-  {
-    "id": "alun-alun-pekalongan",
-    "nama": "Alun-Alun Pekalongan",
-    "foto": "/images/hidden-gems/alun-alun.jpg",
-    "deskripsi": "Ruang publik bersejarah yang telah menjadi jantung kehidupan sosial Pekalongan sejak abad ke-18. Dikelilingi oleh Masjid Agung, bangunan pemerintahan, dan deretan pertokoan, alun-alun ini menjadi saksi bisu perjalanan sejarah kota dari era kesultanan hingga modern. Pohon-pohon beringin raksasa peninggalan kolonial masih berdiri kokoh, memberikan keteduhan bagi warga yang berolahraga, bersantai, dan menikmati jajanan kaki lima.",
-    "tips": "Waktu terbaik adalah sore hingga malam hari saat warga lokal berkumpul dan pedagang jajanan mulai berjualan. Jangan lewatkan momen saat event Pekan Batik Internasional berlangsung — alun-alun berubah menjadi panggung pertunjukan budaya yang spektakuler.",
-    "koordinat": { "lat": -6.8895, "lng": 109.6715 }
-  },
-  {
-    "id": "pasar-grosir-setono",
-    "nama": "Pasar Grosir Setono",
-    "foto": "/images/hidden-gems/pasar-setono.jpg",
-    "deskripsi": "Pusat perdagangan batik terbesar di Pekalongan yang menampung lebih dari 100 kios dan toko batik dalam satu kompleks. Dari batik tulis premium karya maestro berharga jutaan rupiah hingga batik cap dan printing terjangkau untuk sehari-hari, semua tersedia di sini. Pasar ini menjadi barometer ekonomi batik Pekalongan dan surga belanja bagi siapa pun yang ingin membeli batik berkualitas dengan harga jauh lebih murah dari toko-toko di kota besar.",
-    "tips": "Datanglah pada hari kerja untuk menghindari keramaian dan mendapatkan perhatian lebih dari para penjual. Jangan malu untuk menawar — harga awal biasanya masih bisa diturunkan 20-30%. Minta penjual menjelaskan perbedaan antara batik tulis, cap, dan printing sebelum membeli.",
-    "koordinat": { "lat": -6.9010, "lng": 109.6650 }
+    "id": "pekalongan-mangrove-park",
+    "nama": "Pekalongan Mangrove Park (PMP)",
+    "foto": "https://i.ibb.co/DfhKMsTw/mangrove-pekalongan.jpg",
+    "deskripsi": "Pekalongan Mangrove Park adalah wisata edukasi ekosistem mangrove yang diresmikan tahun 2013 untuk mitigasi bencana rob dan wisata pembelajaran. Kawasan seluas 5,7 hektar ini menawarkan pengalaman menyaksikan berbagai jenis mangrove seperti Avicennia, Bruguiera, dan Rhizophora. Di sini pengunjung dapat belajar tentang ekosistem pesisir sambil menikmati jogging track dan perjalanan dengan Kapal Wisata Katamaran.",
+    "tips": "Kunjungi dengan keluarga untuk edukasi tentang pentingnya ekosistem pesisir. Sewa kapal katamaran untuk menjelajahi tumbuhan mangrove dari perspektif berbeda. Lokasi ini juga mengembangkan silvofishery (tumpang sari antara ikan dan mangrove). Buka setiap hari 07:00–17:00 WIB. Tiket masuk Rp 5.000–10.000.",
+    "koordinat": { "lat": -6.8619, "lng": 109.6750 }
   }
 ]
