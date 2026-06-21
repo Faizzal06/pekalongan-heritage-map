@@ -2,7 +2,9 @@
 
 import { motion } from "framer-motion";
 import Image from "next/image";
-import timelineData from "@/data/timeline.json";
+import timelineDataId from "@/data/timeline.json";
+import timelineDataEn from "@/data/timeline-en.json";
+import { useLanguage } from "@/context/LanguageContext";
 
 interface TimelineItem {
   id: string;
@@ -14,8 +16,6 @@ interface TimelineItem {
   image?: string;
 }
 
-const items: TimelineItem[] = timelineData;
-
 const cardVariants = {
   hidden: { opacity: 0, y: 40 },
   visible: {
@@ -26,6 +26,10 @@ const cardVariants = {
 };
 
 export default function TimelineSection() {
+  const { language } = useLanguage();
+  
+  const items: TimelineItem[] = language === "en" ? timelineDataEn : timelineDataId;
+
   return (
     <section className="relative py-16 md:py-24">
       <div className="max-w-3xl mx-auto px-4 md:px-8">
@@ -37,10 +41,10 @@ export default function TimelineSection() {
           className="text-center mb-16 md:mb-20"
         >
           <h1 className="font-display text-4xl md:text-5xl font-bold text-primary leading-tight mb-4">
-            Perjalanan Sejarah Pekalongan
+            {language === "en" ? "Pekalongan History Journey" : "Perjalanan Sejarah Pekalongan"}
           </h1>
           <p className="text-lg md:text-xl text-on-surface-variant leading-relaxed max-w-xl mx-auto">
-            Dari Pelabuhan Dagang hingga Kota Batik Dunia
+            {language === "en" ? "From a Trading Port to the World Batik City" : "Dari Pelabuhan Dagang hingga Kota Batik Dunia"}
           </p>
         </motion.div>
 

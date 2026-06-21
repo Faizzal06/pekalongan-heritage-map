@@ -2,6 +2,9 @@
 
 import Link from "next/link";
 import { motion } from "framer-motion";
+import heritageLocationsId from "@/data/heritage-locations.json";
+import heritageLocationsEn from "@/data/heritage-locations-en.json";
+import { useLanguage } from "@/context/LanguageContext";
 
 interface Location {
   id: string;
@@ -37,7 +40,11 @@ const KATEGORI_COLORS: Record<string, string> = {
   "hidden-gems": "#6B1A6B",
 };
 
-export default function PlaceDetailClient({ location }: { location: Location }) {
+export default function PlaceDetailClient({ location: initialLocation }: { location: Location }) {
+  const { language, t } = useLanguage();
+  const locations = language === "en" ? heritageLocationsEn : heritageLocationsId;
+  const location = (locations as any[]).find((l) => l.id === initialLocation.id) || initialLocation;
+
   return (
     <div className="min-h-screen bg-surface">
       {/* Hero */}
@@ -63,7 +70,7 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
             <line x1="19" y1="12" x2="5" y2="12"/>
             <polyline points="12 19 5 12 12 5"/>
           </svg>
-          Kembali
+          {t("ui.back")}
         </Link>
       </div>
 
@@ -99,7 +106,7 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
                   <line x1="3" y1="10" x2="21" y2="10"/>
                 </svg>
               }
-              label="Tahun Berdiri"
+              label={t("place.established")}
               value={location.tahun_berdiri}
             />
             <InfoCard
@@ -109,7 +116,7 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
                   <polyline points="12 6 12 12 16 14"/>
                 </svg>
               }
-              label="Jam Buka"
+              label={t("place.open_hours")}
               value={location.jam_buka}
             />
             <InfoCard
@@ -119,7 +126,7 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
                   <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
                 </svg>
               }
-              label="Harga Tiket"
+              label={t("place.ticket")}
               value={location.harga_tiket}
             />
           </div>
@@ -127,7 +134,7 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
           {/* Sejarah */}
           <section className="mb-8">
             <h2 className="font-display text-xl font-bold text-primary mb-3">
-              Sejarah
+              {t("place.history")}
             </h2>
             <div className="text-on-surface-variant leading-relaxed whitespace-pre-line">
               {location.sejarah}
@@ -138,7 +145,7 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
           {location.cerita_budaya && (
             <section className="mb-8">
               <h2 className="font-display text-xl font-bold text-primary mb-3">
-                Cerita Budaya
+                {t("place.culture")}
               </h2>
               <div className="text-on-surface-variant leading-relaxed italic border-l-4 border-batik-gold pl-4">
                 {location.cerita_budaya}
@@ -150,7 +157,7 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
           {location.galeri && location.galeri.length > 0 && (
             <section className="mb-8">
               <h2 className="font-display text-xl font-bold text-primary mb-3">
-                Galeri Foto
+                {t("place.gallery")}
               </h2>
               {/* Native scroll-snap gallery */}
               <div className="flex overflow-x-auto gap-4 pb-4 snap-x snap-mandatory custom-scrollbar -mx-6 px-6 md:mx-0 md:px-0">
@@ -182,7 +189,7 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
           {/* Alamat */}
           <section className="mb-8">
             <h2 className="font-display text-xl font-bold text-primary mb-3">
-              Alamat
+              {t("place.address")}
             </h2>
             <p className="text-on-surface-variant">{location.alamat}</p>
           </section>
@@ -199,7 +206,7 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
                 <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
                 <circle cx="12" cy="10" r="3"/>
               </svg>
-              Buka di Google Maps
+              {t("ui.open_gmaps")}
             </a>
             <Link
               href={`/peta?loc=${location.id}`}
@@ -210,7 +217,7 @@ export default function PlaceDetailClient({ location }: { location: Location }) 
                 <line x1="8" y1="2" x2="8" y2="18"/>
                 <line x1="16" y1="6" x2="16" y2="22"/>
               </svg>
-              Lihat di Peta
+              {t("ui.see_on_map")}
             </Link>
           </div>
         </motion.div>

@@ -1,0 +1,514 @@
+[
+  {
+    "id": "museum-batik-pekalongan",
+    "nama": "Pekalongan Batik Museum",
+    "kategori": "museum",
+    "koordinat": {
+      "lat": -6.878665106010921,
+      "lng": 109.67537142011417
+    },
+    "foto_utama": "https://files.catbox.moe/wq1ii9.jpg",
+    "galeri": [
+      "https://files.catbox.moe/wq1ii9.jpg",
+      "https://files.catbox.moe/nyu11k.jpg",
+      "https://files.catbox.moe/1e9rxl.jpg"
+    ],
+    "tahun_berdiri": "1972",
+    "jam_buka": "Tuesday–Sunday, 08:00–15:30 WIB",
+    "harga_tiket": "IDR 5,000 (general), IDR 3,000 (children)",
+    "sejarah": "The Pekalongan Batik Museum was first established on July 12, 1972, through the initiative of the Head of the Museum Division of the Central Java Department of Education and Culture together with the 10th Mayor of Pekalongan, Drs. R. Soepomo. Initially, the museum occupied a simple 40 m² building in the Jalan Resimen XVII area (now the Police Post area), housing a collection of 1,149 batik pieces, including centuries-old wayang beber (scrolled shadow puppets) and non-mechanical weaving looms (ATBM)[cite: 3].\n\nOn May 23, 2006, the museum was moved to a more representative building at Jl. Jetayu No. 1—a former Dutch colonial financial administration building featuring magnificent Indische Empire architecture. The inauguration was conducted directly by the President of the Republic of Indonesia, Dr. H. Susilo Bambang Yudhoyono, on July 12, 2006. The museum is now managed by the Pekalongan City Education and Culture Office[cite: 3].\n\nThe museum's collection includes classic batik, vintage batik, and contemporary batik from various eras and cultural influences—ranging from 19th-century coastal batik and Chinese-Peranakan 'Encim' batik to contemporary works. The museum also preserves ancient batik-making equipment, including centuries-old copper canting[cite: 3].",
+    "cerita_budaya": "The museum is not just a place to display fabrics, but a living space where visitors can witness the batik-making process directly from artisans who still maintain traditional hand-drawn techniques[cite: 3]. The museum facilities consist of an Audio Visual Room, Pesisiran Room (Exhibition I), Nusantara Room (Exhibition II), Pedalaman Room (Exhibition III), an Hall, and a Library. Every Saturday morning, the museum holds batik workshops for tourists and school children, serving as a bridge between the older generation of batik makers and the younger generation[cite: 3].",
+    "alamat": "Jl. Jetayu No. 1, Panjang Wetan, North Pekalongan District, Pekalongan City",
+    "deskripsi_singkat": "The most complete batik art museum in Indonesia with a collection of over 1,000 batik fabrics from various eras and cultural influences[cite: 3]."
+  },
+  {
+    "id": "kampung-batik-kauman",
+    "nama": "Kauman Batik Village",
+    "kategori": "kampung-batik",
+    "koordinat": {
+      "lat": -6.8899312784715425,
+      "lng": 109.67280561595793
+    },
+    "foto_utama": "https://i.ibb.co/XrKMtc6n/kampung-batik.webp",
+    "galeri": [
+      "https://i.ibb.co/F4s75Ytm/IMG-1816-768x512.jpg",
+      "https://i.ibb.co/XkbN94wy/photo-6215101618056181309-y.jpg",
+      "https://i.ibb.co/gM9FRB6H/IMG-20210914-100450-1536x864.jpg"
+    ],
+    "tahun_berdiri": "18th Century",
+    "jam_buka": "Every day, 08:00–17:00 WIB",
+    "harga_tiket": "Free",
+    "sejarah": "Kauman Batik Village is located in the East Pekalongan District and is considered the first village in the Pekalongan City area[cite: 3]. This is evidenced by the many ancient houses from the past and the presence of the Jami' Kauman Mosque, which was built around 1852. The name 'Kauman' comes from the word 'kaum,' which refers to the Muslim community inhabiting this area[cite: 3].\n\nOne piece of evidence that Kauman is the oldest batik village is the discovery of 'Encim' batik, the patterns of which are a blend of Arab and Indian batik (Jlamprang) with Chinese-influenced batik. In 2007, the Ministry of Tourism and Creative Economy designated Kauman as a 'Kampung Batik Kauman' (Kauman Batik Village)[cite: 3].\n\nIn 2012, Kauman Batik Village received an award as one of the best tourism villages in Indonesia. Since its designation, the village has continued to develop, with many showrooms, kiosks, and shops selling batik products and other batik crafts[cite: 3].",
+    "cerita_budaya": "Here, visitors can directly witness the process of making hand-drawn and stamped batik by artisans who have inherited these skills through generations[cite: 3]. Kauman is also equipped with modern infrastructure such as a wastewater treatment plant (IPAL) for batik waste, information technology (internet), and batik learning facilities. Many vintage batik shops still maintain traditional techniques and classic Pekalongan motifs[cite: 3].",
+    "alamat": "Kauman, East Pekalongan District, Pekalongan City",
+    "deskripsi_singkat": "The oldest batik center in Pekalongan with hundreds of artisans and batik shops still maintaining traditional techniques. Named one of Indonesia's best tourism villages in 2012[cite: 3]."
+  },
+  {
+    "id": "kampung-batik-pesindon",
+    "nama": "Pesindon Batik Village",
+    "kategori": "kampung-batik",
+    "koordinat": {
+      "lat": -6.8870119156326535,
+      "lng": 109.66915388599712
+    },
+    "foto_utama": "https://files.catbox.moe/e09cgj.jpg",
+    "galeri": [
+      "https://files.catbox.moe/6y9ry8.jpg",
+      "https://files.catbox.moe/3bs2ib.jpg",
+      "https://files.catbox.moe/3ionx4.jpg"
+    ],
+    "tahun_berdiri": "1950s",
+    "jam_buka": "Every day, 08:00–17:00 WIB",
+    "harga_tiket": "Free",
+    "sejarah": "Pesindon Batik Village is a sub-district located in Kergon Village, West Pekalongan District[cite: 3]. Since the 1950s, batik making has been the primary livelihood for residents in this area. The name 'Pesindon' comes from the word 'pesinden' (singer), which supposedly refers to female artisans who worked on batik while singing[cite: 3].\n\nThe village has developed into a dense batik production center with home-based artisans. There are 33 showrooms and batik producers that welcome visitors. Each showroom is equipped with a resting area for guests. Visitors can also go directly to batik production houses and even into the production kitchen[cite: 3].\n\nPesindon Batik Village, along with Kauman Batik Village, is categorized as a National Tourism Village. The village is located near the Pekalongan Anyar Market and the Railway Station[cite: 3].",
+    "cerita_budaya": "Pesindon Batik Tourism Village not only provides a variety of batik types but also offers a direct look into the heart of production[cite: 3]. Visitors can witness the making of batik with high artistic quality while also gaining batik education and knowledge of the socio-cultural life of Pekalongan batik makers[cite: 3]. The village is also equipped with a Secretariat Office, a telecenter for transactions reaching international levels, places of worship, a parking area, and batik-decorated pedicabs (becak) as a means of tourism transportation[cite: 3].",
+    "alamat": "Jl. Hayam Wuruk, Kergon, West Pekalongan District, Pekalongan City",
+    "deskripsi_singkat": "A batik center with 33 showrooms and batik producers, where visitors can directly witness the batik-making process from the production kitchen[cite: 3]."
+  },
+  {
+    "id": "kawasan-budaya-jetayu",
+    "nama": "Jetayu Cultural Area",
+    "kategori": "bangunan-kolonial",
+    "koordinat": {
+      "lat": -6.878581349764763,
+      "lng": 109.67478824314368
+    },
+    "foto_utama": "https://files.catbox.moe/v3thcr.jpeg",
+    "galeri": [
+      "https://i.ibb.co/gbftk4W3/IMG-0235.jpg",
+      "https://i.ibb.co/rKWjNSVp/IMG-0234.jpg",
+      "https://i.ibb.co/60VxrXxB/IMG-0232.jpg"
+    ],
+    "tahun_berdiri": "18th Century (since the 1700s)",
+    "jam_buka": "Every day, 24 hours (open area)",
+    "harga_tiket": "Free",
+    "sejarah": "The Jetayu Cultural Area was once the heart of Dutch colonial administration in Pekalongan[cite: 3]. The buildings in this area have existed since the 1700s and became the administrative center of the Pekalongan Residency during the Dutch East Indies era. This is where major decisions were made, and these grand buildings stand as silent witnesses to the changes in eras from the colonial period to Indonesian independence[cite: 3].\n\nThis area includes several important historical buildings: the former Pekalongan Resident Office (built in 1850), the Batik Museum (a former Dutch financial administration building), the Pekalongan Post Office (established in 1920), and an open field that is now a public space[cite: 3]. The Art Deco, Neo-Classical, and Indische Empire style buildings in this area still maintain their architectural originality[cite: 3].\n\nDuring the independence era, the Bakorwil Building in this area was used as the Official Residence/Office of the Pekalongan Residency until 2000[cite: 3].",
+    "cerita_budaya": "The colonial-style buildings in the Jetayu area now function as a center for cultural and artistic activities[cite: 3]. Every weekend, traditional art performances and cultural exhibitions are frequently held[cite: 3]. This area is also the main route for the Batik Carnival Costume Festival held since 2011, where participants carnival for 2 kilometers from the Pekalongan City Square to the Jetayu area[cite: 3]. Jetayu is the European face of Pekalongan—a representation of well-preserved colonial architecture[cite: 3].",
+    "alamat": "Jl. Jetayu, Panjang Wetan, North Pekalongan District, Pekalongan City",
+    "deskripsi_singkat": "A heritage area with Dutch colonial buildings dating back to the 18th century, which now serves as a center for Pekalongan's cultural and artistic activities[cite: 3]."
+  },
+  {
+    "id": "stasiun-pekalongan",
+    "nama": "Pekalongan Station",
+    "kategori": "bangunan-kolonial",
+    "koordinat": {
+      "lat": -6.889704308270012,
+      "lng": 109.66430084332025
+    },
+    "foto_utama": "https://files.catbox.moe/2m3bpo.jpg",
+    "galeri": [
+      "https://i.ibb.co.com/wrYtTmkC/Puluhan-Penumpang-di-Stasiun-Pekalongan-Salah-Naik-Kereta-KAI-Daop-4-Semarang-Perketat-Pengawasan.webp",
+      "https://i.ibb.co.com/jvpWyQjz/Penumpang-Masih-Sepi-Stasiun-Pekalongan-Siaga-Hadapi-Libur-Nataru.jpg",
+      "https://i.ibb.co.com/ynYYd3rM/unnamed.webp",
+      "https://i.ibb.co.com/chG8m5Qh/stasiunpekalongan.jpg",
+      "https://i.ibb.co.com/QjQWbvQT/image1.jpg"
+    ],
+    "tahun_berdiri": "1899",
+    "jam_buka": "Every day, 24 hours",
+    "harga_tiket": "Free (station area)",
+    "sejarah": "Pekalongan Station was built at the end of the 19th century by the Dutch colonial government as part of the northern Java railway line connecting Batavia (Jakarta) with Surabaya[cite: 3]. This station became one of the busiest on the Semarang-Jakarta line and serves as a witness to the importance of Pekalongan's role as a port city and batik industrial center[cite: 3].\n\nThe station building, featuring Dutch colonial architecture, still maintains its originality to this day, characterized by thick walls, high ceilings, and large ventilation designed for the tropical climate[cite: 3]. The station is situated on the strategic Pantura route, making it the main gateway for tourists visiting the City of Batik[cite: 3].",
+    "cerita_budaya": "Every day, thousands of passengers use this station, making it a hub of economic and social activity for the people of Pekalongan[cite: 3]. For batik makers and traders of the past, this station was the main route for shipping batik products to markets in Jakarta, Semarang, and Surabaya[cite: 3]. To this day, the station remains one of the city's important landmarks[cite: 3].",
+    "alamat": "Jl. Gajah Mada, West Pekalongan District, Pekalongan City",
+    "deskripsi_singkat": "A historic train station with Dutch colonial architecture that is still actively operating as the main gateway to Pekalongan City[cite: 3]."
+  },
+  {
+    "id": "kantor-pos-pekalongan",
+    "nama": "Pekalongan Post Office",
+    "kategori": "bangunan-kolonial",
+    "koordinat": {
+      "lat": -6.877817003023485,
+      "lng": 109.6741020177251
+    },
+    "foto_utama": "https://files.catbox.moe/gd2c1k.jpg",
+    "galeri": [
+      "https://i.ibb.co/5XxKRcTx/kantor-pos-pekalongan-2022.webp",
+      "https://files.catbox.moe/gd2c1k.jpg",
+      "https://i.ibb.co/JjZ1wzk7/cagar-budaya-kantor-pos-pkl-jpg.webp"
+    ],
+    "tahun_berdiri": "1756 (precursor), 1920 (current building)",
+    "jam_buka": "Monday–Saturday, 08:00–16:00 WIB",
+    "harga_tiket": "Free",
+    "sejarah": "The Pekalongan Post Office has a very long history. Its origins date back to 1746 when the Jetayu area served as a horse-changing station on the Batavia–Semarang postal route[cite: 3]. The current post office building in Jetayu was established in 1920, replacing the older structure[cite: 3].\n\nThe facade of the Pekalongan Post Office clearly shows the identity of Dutch colonial architectural style, with thick walls, classic pillars, and high ceilings[cite: 3]. This building is located directly across from Jetayu Field, near the Pekalongan Batik Museum, making it an integral part of the Jetayu heritage area[cite: 3].\n\nThis Post Office is one of the Pos Indonesia heritage buildings that is still functioning today, serving as a living witness to the transformation of postal services from the colonial era to the digital era[cite: 3].",
+    "cerita_budaya": "As a heritage building still in active operation, the Pekalongan Post Office is proof that colonial heritage can continue to live and function amidst modernization[cite: 3]. Its strategic location in the Jetayu area makes it an attractive heritage walk spot in the afternoon, when the sunlight falls perfectly on the walls of the colonial building[cite: 3].",
+    "alamat": "Jl. Cenderawasih No. 1, Kandang Panjang, North Pekalongan District, Pekalongan City",
+    "deskripsi_singkat": "A Dutch colonial-style Pos Indonesia heritage building that has been operating since the 1700s, located in the Jetayu cultural area[cite: 3]."
+  },
+  {
+    "id": "klenteng-po-an-thian",
+    "nama": "Po An Thian Temple",
+    "kategori": "tempat-religi",
+    "koordinat": {
+      "lat": -6.879854713000528,
+      "lng": 109.67447708100038
+    },
+    "foto_utama": "https://i.ibb.co/8D4s5DdF/klenteng1.jpg",
+    "galeri": [
+      "https://i.ibb.co/6c0FzVXZ/klenteng2.jpg",
+      "https://i.ibb.co/8D4s5DdF/klenteng1.jpg",
+      "https://i.ibb.co/Hp1cTpVf/klenteng3.jpg"
+    ],
+    "tahun_berdiri": "1882",
+    "jam_buka": "Every day, 06:00–18:00 WIB",
+    "harga_tiket": "Free",
+    "sejarah": "The Po An Thian Temple was established in 1882 by the Chinese community living in Pekalongan[cite: 3]. Located on Jalan Blimbing, in the heart of the Chinatown (Chinese Wijk) area of Pekalongan, this temple has become a center for religious and social activities for the Chinese community and stands as a historical witness to cultural diversity in Pekalongan City[cite: 3].\n\nThis temple is more than just a place of worship; it is a silent witness to the arrival of Chinese ancestors to Pekalongan, which began with merchants stopping at the port of Pekalongan since the 17th century[cite: 3]. Its dragon ornaments and vibrant red color contrast yet harmonize with the surrounding environment[cite: 3].\n\nThis temple is the center of Cap Go Meh celebrations in Pekalongan, which are centered in the Jalan Blimbing area, with parades then moving to Jalan Bandung, Jalan Diponegoro, Jalan Hayam Wuruk, and Jalan Sultan Agung[cite: 3].",
+    "cerita_budaya": "The Po An Thian Temple stands side-by-side with the Saint Peter Church—a rare and heartwarming sight[cite: 3]. Not far from there, the dome of a mosque peeks out among the rooftops[cite: 3]. These three places of worship on one street reflect the beautiful harmonization between followers of different religions, a real manifestation of 'Bhinneka Tunggal Ika' (Unity in Diversity) that has been practiced by the residents of Pekalongan long before the slogan was frequently echoed[cite: 3]. Every year, this temple becomes the location for Lunar New Year and 'Pek Cun' tradition celebrations, attended by thousands of visitors[cite: 3].",
+    "alamat": "Jl. Blimbing, North Pekalongan District, Pekalongan City",
+    "deskripsi_singkat": "The oldest temple in Pekalongan (1882) located in the Chinatown area, a symbol of cultural diversity and inter-religious harmony in the city[cite: 3]."
+  },
+  {
+    "id": "gereja-santo-petrus",
+    "nama": "Saint Peter Church",
+    "kategori": "tempat-religi",
+    "koordinat": {
+      "lat": -6.879930118741145,
+      "lng": 109.67481488500019
+    },
+    "foto_utama": "https://files.catbox.moe/bdln0s.jpg",
+    "galeri": [
+      "https://files.catbox.moe/bdln0s.jpg",
+      "https://i.ibb.co/fz5Dj8Cj/gereja1.jpg",
+      "https://i.ibb.co/SwjbqrRs/gereja2.jpg"
+    ],
+    "tahun_berdiri": "1930",
+    "jam_buka": "Every day (according to worship schedule)",
+    "harga_tiket": "Free",
+    "sejarah": "Saint Peter Church is a Catholic church built around 1930 in the Jalan Blimbing area, right in the heart of Pekalongan's Chinatown[cite: 3]. The church features distinctive colonial architecture with thick walls and high ceilings, designed to withstand the coastal tropical climate[cite: 3].\n\nFor nearly a century, Saint Peter Church has been a peaceful neighbor to the Po An Thian Temple that stands side-by-side with it[cite: 3]. The presence of this church reflects the presence of the Catholic community—both of European and Chinese descent—who have long been part of Pekalongan's cultural mosaic[cite: 3].\n\nThis church is one of the 'Golden Triangle of Tolerance' sites on Jalan Blimbing, along with the Po An Thian Temple and a mosque not far from there[cite: 3].",
+    "cerita_budaya": "The presence of Saint Peter Church next to the Po An Thian Temple and near a mosque is tangible proof of the long-standing tolerance between religious communities in Pekalongan[cite: 3]. Three different places of worship for different religions stand side-by-side on one street, creating a rare and moving sight[cite: 3]. This is an intangible cultural heritage that is just as important as the physical buildings[cite: 3].",
+    "alamat": "Jl. Blimbing, North Pekalongan District, Pekalongan City",
+    "deskripsi_singkat": "A colonial-style Catholic church (1930) that stands side-by-side with the Po An Thian Temple, a symbol of inter-religious tolerance in Pekalongan[cite: 3]."
+  },
+  {
+    "id": "masjid-jami-kauman",
+    "nama": "Jami Kauman Mosque",
+    "kategori": "tempat-religi",
+    "koordinat": {
+      "lat": -6.890265449248713,
+      "lng": 109.67537455717815
+    },
+    "foto_utama": "https://i.ibb.co/QjCD4d6T/0950077p.jpg",
+    "galeri": [
+      "https://i.ibb.co/NnG2vMx8/Masjid-Agung-Al-Jami.jpg",
+      "https://i.ibb.co/S7w38fmV/masjid-kauman2.jpg",
+      "https://i.ibb.co/Kp3CZXzW/AF1-Qip-P5fh-XT-wr-OQBtu-O9dhq-G1b-Ymv-D8ly-Sjdj-BZ4-A-s1360-w1360-h1020-rw.webp"
+    ],
+    "tahun_berdiri": "1852",
+    "jam_buka": "Every day, 24 hours",
+    "harga_tiket": "Free",
+    "sejarah": "The Jami Kauman Mosque was established around 1852 by the Muslim community in the Kauman area, East Pekalongan District[cite: 3]. This mosque is one of the oldest in Pekalongan and became a center for the spread of Islam in the northern coastal region of Java[cite: 3]. The existence of this mosque is also proof that Kauman has been a settlement for a long time[cite: 3].\n\nThis mosque functions not only as a place of worship but also as a center for education and social activities for the Kauman community, which is known as the oldest batik center in Pekalongan[cite: 3]. The Kauman batik artisans have a close relationship with this mosque, and many of them are active in religious activities[cite: 3].",
+    "cerita_budaya": "The Jami Kauman Mosque is the center for the 'Dugderan' Festival held every Ramadan[cite: 3]. This tradition marks the arrival of the fasting month with the beating of drums (bedug) and bamboo cannons, attended by thousands of worshippers from various regions[cite: 3]. The mosque also serves as a gathering point for Kauman batik artisans who combine spirituality with creativity in their batik works[cite: 3].",
+    "alamat": "Kauman, East Pekalongan District, Pekalongan City",
+    "deskripsi_singkat": "A historic mosque (1852) in the heart of Kauman Batik Village, the center for religious and cultural activities of the Pekalongan batik community[cite: 3]."
+  },
+  {
+    "id": "masjid-aulia-sapuro",
+    "nama": "Jami Aulia Sapuro Mosque",
+    "kategori": "tempat-religi",
+    "koordinat": {
+      "lat": -6.897123677413188,
+      "lng": 109.6755463978553
+    },
+    "foto_utama": "https://i.ibb.co/mwVSyt8/masjid-jami-aulia-dibangun-pada-1035-hijriyah-atau-1614-220910161209-649.jpg",
+    "galeri": [
+      "https://i.ibb.co/JjFV2hr0/sapuro1.jpg",
+      "https://i.ibb.co/HTWkgN7X/sapuro2.jpg",
+      "https://i.ibb.co/WpPvK056/sapuro3.jpg"
+    ],
+    "tahun_berdiri": "1614 AD (1035 AH)",
+    "jam_buka": "Every day, 24 hours",
+    "harga_tiket": "Free",
+    "sejarah": "The Jami Aulia Sapuro Mosque was built in 1035 Hijri or around 1614 AD by four envoys of the Demak Bintoro Kingdom, namely Kiai Maksum, Kiai Sulaiman, Kiai Lukman, and Nyai Kudung[cite: 3]. These four figures initially intended to build a mosque in Alas Roban, Batang Regency, but through the istikharah prayer, they received guidance to move the location to Sapuro[cite: 3].\n\nThe wood used in the Aulia Sapuro Mosque building is believed to be remnants from the construction of the Great Mosque of Demak, which was built earlier in 1479 AD by the Walisongo[cite: 3]. At over 400 years old, this mosque is the oldest in the entire former Pekalongan Residency region[cite: 3].\n\nThis mosque has undergone five major repairs: 1614 AD, 1722 AD, 1787 AD, 1884 AD, and 2010 AD[cite: 3]. Each repair is marked by an inscription that is still stored inside the mosque[cite: 3]. It was initially named the Galuh Rantai Mosque, then changed its name to Jami Aulia Mosque in the 1980s due to its location in the middle of a complex of tombs of the 'aulia' (saints/holy men)[cite: 3].",
+    "cerita_budaya": "In the tomb complex around the mosque, there are the graves of a number of great scholars and royal figures, including Habib Ahmad Alatas, Habib Hasyim bin Yahya, Prince Adipati Aryo Notodirjo (died 1899), and the Regent of Pasuruan, Raden Tumenggung Amongnegoro (died 1666)[cite: 3]. Another unique feature is the existence of a giant Al-Qur'an (1.2 x 2 meters) containing Juz 30 that is attached to the wall of the mosque[cite: 3]. This mosque is a pilgrimage destination for tourists from various regions and abroad[cite: 3].",
+    "alamat": "Sapuro Kebulen Village, West Pekalongan District, Pekalongan City",
+    "deskripsi_singkat": "The oldest mosque in the Pekalongan Residency (400+ years old) built by envoys of the Demak Kingdom, housing a giant Al-Qur'an and the tombs of great scholars[cite: 3]."
+  },
+  {
+    "id": "soto-tauto-h-rochmani",
+    "nama": "Soto Tauto H. Rochmani",
+    "kategori": "kuliner-legendaris",
+    "koordinat": {
+      "lat": -6.890657748128017,
+      "lng": 109.66748770964102
+    },
+    "foto_utama": "https://i.ibb.co.com/MxXm2mKD/soto-H-Rochmani.webp",
+    "galeri": [
+      "https://i.ibb.co.com/rG0cshLs/soto-H-Rochmani2.webp",
+      "https://i.ibb.co.com/YTJXY4hh/soto-H-Rochmani1.webp",
+      "https://i.ibb.co.com/MxXm2mKD/soto-H-Rochmani.webp"
+    ],
+    "tahun_berdiri": "1985",
+    "jam_buka": "Every day, 09:00–16:00 WIB",
+    "harga_tiket": "IDR 27,000–35,000",
+    "sejarah": "Soto Tauto Pak Haji Rochmani stall has been established since around 1985, making it one of Pekalongan's legendary culinary spots[cite: 3]. Initially selling in the Pasar Sayun area, this stall later moved to Jl. Kurinci No. 40, Bendan[cite: 3]. It is now managed by the next generation of the family who still maintains the original recipe[cite: 3].\n\n'Soto tauto' is a soto soup with 'tauco' seasoning—fermented soybeans that have been cooked and mashed—which is the main differentiator from other soto dishes in Indonesia[cite: 3]. It is said that soto tauto was originally a dish of the Chinese people in Pekalongan which was then adapted by the local community with a touch of coastal Javanese flavor[cite: 3]. The broth is thick and brownish with a distinctive aroma of tauco[cite: 3].",
+    "cerita_budaya": "Soto tauto is the most famous Pekalongan culinary dish, missed by both Pekalongan migrants and tourists[cite: 3]. It is served simply: white rice noodles, scallions, shallots, and soto broth with added tauco, which makes the soup more fragrant with a distinctive taste[cite: 3]. As a side dish, Pekalongan-style fried tempeh and tofu are usually available[cite: 3]. Pak H. Rochmani's stall is a mandatory destination for culinary lovers visiting the City of Batik[cite: 3].",
+    "alamat": "Jl. Kurinci No. 40, Bendan, West Pekalongan District, Pekalongan City",
+    "deskripsi_singkat": "A legendary soto tauto since 1985 with a distinctive thick tauco broth, one of the must-try culinary dishes in Pekalongan[cite: 3]."
+  },
+  {
+    "id": "garang-asem-masduki",
+    "nama": "Garang Asem Masduki",
+    "kategori": "kuliner-legendaris",
+    "koordinat": {
+      "lat": -6.901327069179325,
+      "lng": 109.67564296393186
+    },
+    "foto_utama": "https://i.ibb.co/M3ccqG5/IMG-0580.webp",
+    "galeri": [
+      "https://i.ibb.co/7dXSXY7c/IMG-0581.webp",
+      "https://i.ibb.co/VYgQkcv5/IMG-0583.jpg",
+      "https://i.ibb.co/M3ccqG5/IMG-0580.webp"
+    ],
+    "tahun_berdiri": "1960s",
+    "jam_buka": "Every day, 08:00–21:00 WIB",
+    "harga_tiket": "IDR 25,000–45,000",
+    "sejarah": "The Masduki Restaurant in the old Pekalongan City Square (Jalan Jenderal Sudirman) is one of the most famous places serving Pekalongan-style 'garang asem'[cite: 3]. Established since the 1960s, this stall has been an icon of Pekalongan City's culinary scene for over half a century[cite: 3].\n\n'Garang asem' is a dish similar to rawon but clearer and with a more sour and spicy taste[cite: 3]. The broth is filled with plenty of tomatoes and mixed with meat, usually water buffalo meat, served hot accompanied by rendang eggs[cite: 3]. This sour-spicy-fresh taste makes Pekalongan's garang asem different from similar dishes in other regions[cite: 3].",
+    "cerita_budaya": "Garang asem represents cultural acculturation in Pekalongan—a blend of the bold coastal Javanese flavor with culinary influences from the various communities that once lived in this city[cite: 3]. Masduki Restaurant has become a gathering place for various generations of Pekalongan residents, from officials to ordinary traders, all sitting together enjoying a warm and refreshing bowl of garang asem[cite: 3].",
+    "alamat": "Jl. Jenderal Sudirman (Old City Square), Pekalongan City",
+    "deskripsi_singkat": "A legendary restaurant since the 1960s with Pekalongan's signature garang asem—a sour and spicy broth with water buffalo meat and rendang eggs[cite: 3]."
+  },
+  {
+    "id": "sop-ayam-mekar",
+    "nama": "Sop Ayam Mekar",
+    "kategori": "kuliner-legendaris",
+    "koordinat": {
+      "lat": -6.873794926901132,
+      "lng": 109.67372734785116
+    },
+    "foto_utama": "https://i.ibb.co.com/nMyyDhTc/sopmekar1.webp",
+    "galeri": [
+      "https://i.ibb.co.com/nMyyDhTc/sopmekar1.webp",
+      "https://i.ibb.co.com/JDvNx4t/sopmekar2.webp",
+      "https://i.ibb.co.com/6RbqGjH1/sopmekar3.jpg",
+      "https://i.ibb.co.com/RTmgyzsd/sopmekar4.jpg"
+    ],
+    "tahun_berdiri": "1970s",
+    "jam_buka": "Every day, 08:30–15:00 WIB",
+    "harga_tiket": "-+ IDR 25,000",
+    "sejarah": "Sop Ayam Pak Mekar in Kandang Panjang is one of the most popular legendary 'hidden gem' culinary spots in Pekalongan City[cite: 3]. Established for over half a century, this stall is now managed by the second generation and consistently maintains its traditional recipe, making it a local culinary icon sought after by generations[cite: 3].\n\nUnlike regular chicken soup, the dishes here stand out due to the use of fresh ingredients cooked to order[cite: 3]. The broth is clear but rich in natural, savory free-range chicken stock, served hot with tender chicken pieces and generous portions of vegetables[cite: 3].",
+    "cerita_budaya": "Pak Mekar's Chicken Soup stall represents the warmth of home-style cooking typical of the people of North Pekalongan[cite: 3]. Even though its location is hidden in a residential alleyway, this stall is never empty of visitors and brings together various levels of society[cite: 3]. Its unique culture can also be seen from the local habit of enjoying the soup mixed directly with hot fried tofu and a splash of sweet soy sauce mixed with crushed bird's eye chilies (*slentem pisan*), creating a harmony of savory, spicy, and sweet tastes[cite: 3].",
+    "alamat": "Jl. Kusuma Bangsa No.38, Kandang Panjang, North Pekalongan District, Pekalongan City, Central Java 51141",
+    "deskripsi_singkat": "A legendary hidden gem in Pekalongan[cite: 3]."
+  },
+  {
+    "id": "batik-monument-jlamprang",
+    "nama": "Jlamprang Batik Monument",
+    "kategori": "kampung-batik",
+    "koordinat": {
+      "lat": -6.8820669072969425,
+      "lng": 109.67968436634143
+    },
+    "foto_utama": "https://i.ibb.co/Kzm7hPfF/IMG-0630.png",
+    "galeri": [
+      "https://i.ibb.co/HTkS4sGy/IMG-0627.jpg",
+      "https://i.ibb.co/wNNzQgZN/IMG-0629.png",
+      "https://i.ibb.co/Kzm7hPfF/IMG-0630.png"
+    ],
+    "tahun_berdiri": "-",
+    "jam_buka": "Every day",
+    "harga_tiket": "Free",
+    "sejarah": "The Jlamprang Batik Monument is an iconic monument in Pekalongan City located in the Klego area, East Pekalongan District, Central Java[cite: 3]. This monument was built to celebrate Pekalongan's identity as a center of multicultural civilization and a World Batik City[cite: 3].",
+    "cerita_budaya": "The Jlamprang motif was born from the adaptation of Arab merchants in the past responding to the scarcity of Indian Patola cloth[cite: 3]. The pattern is dominated by geometric shapes such as stars, compass points, and leaves, with a philosophical meaning of a blend of Islamic spiritual values and local wisdom[cite: 3].",
+    "alamat": "East Pekalongan District",
+    "deskripsi_singkat": "A location in Pekalongan[cite: 3]."
+  },
+  {
+    "id": "pasar-grosir-setono",
+    "nama": "Setono Batik Wholesale Market",
+    "kategori": "bangunan-kolonial",
+    "koordinat": {
+      "lat": -6.902622498429688,
+      "lng": 109.69003623332966
+    },
+    "foto_utama": "https://i.ibb.co/tw92c3C0/pasar-batik-grosir-sentono.jpg",
+    "galeri": [
+      "https://i.ibb.co/8Lckm6QZ/setono.jpg",
+      "https://i.ibb.co/xq6F2nXY/setono1.jpg",
+      "https://i.ibb.co/wrsgQ6Zw/setono2.jpg",
+      "https://i.ibb.co/xKBQ8CKC/setono3.jpg"
+    ],
+    "tahun_berdiri": "1970s era",
+    "jam_buka": "Every day, 08:00–17:00 WIB",
+    "harga_tiket": "Free",
+    "sejarah": "The Setono Batik Wholesale Market is the first shopping tourism center selling various folk crafts in Pekalongan, especially batik[cite: 3]. Located about 3 km east of the center of Pekalongan City, precisely on Jl. Raya Baros, which is the Jakarta–Surabaya Highway (Pantura Route), this market is easily accessible from various directions[cite: 3].\n\nAlthough it is called the Batik Wholesale Market, the commodities traded are not only batik[cite: 3]. This market also serves retail purchases and provides commodities such as batik, apparel, woven fabrics, sarongs (palekat), and handicrafts[cite: 3]. Around the market, there are also many Batik and Craft Houses scattered in several areas in Pekalongan City[cite: 3].",
+    "cerita_budaya": "The Setono Wholesale Market is the pulse of Pekalongan's batik trade[cite: 3]. This is where traders from all over Indonesia come to buy batik in large quantities, which are then distributed to markets in Jakarta, Surabaya, and throughout the archipelago[cite: 3]. For tourists, this market offers an authentic batik shopping experience—directly from the source, at much more affordable wholesale prices[cite: 3]. Its bustling atmosphere, full of haggling, is a reflection of Pekalongan's trading culture that has been going on for centuries[cite: 3].",
+    "alamat": "Jl. Dr. Sutomo / Jl. Raya Baros, East Pekalongan District, Pekalongan City",
+    "deskripsi_singkat": "The largest batik wholesale center in Pekalongan on the Pantura route, selling batik, apparel, woven fabrics, and handicrafts at wholesale prices directly from producers[cite: 3]."
+  },
+  {
+    "id": "pekalongan-mangrove-park",
+    "nama": "Pekalongan Mangrove Park (PMP)",
+    "kategori": "hidden-gems",
+    "koordinat": {
+      "lat": -6.858252582014678,
+      "lng": 109.67503944127357
+    },
+    "foto_utama": "https://i.ibb.co/DfhKMsTw/mangrove-pekalongan.jpg",
+    "galeri": [
+      "https://i.ibb.co/SXVpsyPq/289ed9fc-ea27-45c3-abf8-85815645c9f4.jpg",
+      "https://i.ibb.co/9HvQN0xF/8959df6c-17a3-4de6-826f-45cee815bf48.jpg",
+      "https://i.ibb.co/DfhKMsTw/mangrove-pekalongan.jpg"
+    ],
+    "tahun_berdiri": "2013",
+    "jam_buka": "Every day, 07:00–17:00 WIB",
+    "harga_tiket": "IDR 5,000–10,000",
+    "sejarah": "The Pekalongan Mangrove Park was inaugurated at the end of 2013 by the then Minister of Forestry, Zulkifli Hasan[cite: 3]. This area was formerly shrimp ponds owned by the Pekalongan City Agriculture and Marine Service[cite: 3]. Its location, being very close to the sea, made it vulnerable to tidal flooding (rob), so the development of the mangrove area became a solution for disaster mitigation as well as educational tourism[cite: 3].\n\nExisting infrastructure facilities include the Mangrove Learning Restoration Center Building, shelters for resting, permanent and semi-permanent nurseries, a jogging track, and a Catamaran Tourism Boat, which was a direct aid from the Ministry of Marine Affairs and Fisheries[cite: 3]. This area has a developed area of 5.7 hectares with a larger total planned area[cite: 3].",
+    "cerita_budaya": "Pekalongan Mangrove Park is not only nature tourism but also a means of family education about the importance of coastal ecosystems[cite: 3]. Here, visitors can learn about various types of mangroves such as Avicennia, Bruguiera, and Rhizophora[cite: 3]. This area also develops the productive economy through soft-shell crab cultivation, seaweed, and silvofishery (intercropping between fish/shrimp and mangroves)[cite: 3]. PMP is an example of how Pekalongan faces the challenges of climate change with creativity[cite: 3].",
+    "alamat": "Kandang Panjang Village, North Pekalongan District, Pekalongan City",
+    "deskripsi_singkat": "Educational tourism of the mangrove ecosystem on the coast of Pekalongan—a center for environmental restoration, disaster mitigation, and soft-shell crab cultivation[cite: 3]."
+  },
+  {
+    "id": "gallery-dian-pelangi",
+    "nama": "Dian Pelangi Gallery",
+    "kategori": "kampung-batik",
+    "koordinat": {
+      "lat": -6.896620376183843,
+      "lng": 109.6695319056026
+    },
+    "foto_utama": "https://i.ibb.co.com/SD2Z3Cfv/dianpelangi.webp",
+    "galeri": [
+      "https://i.ibb.co.com/SD2Z3Cfv/dianpelangi.webp",
+      "https://i.ibb.co.com/W4MLNr2G/dianpelangi1.webp",
+      "https://i.ibb.co.com/93WW77kk/dianpelangi2.webp",
+      "https://i.ibb.co.com/B2Gcf9cr/dianpelangi3.webp"
+    ],
+    "tahun_berdiri": "-",
+    "jam_buka": "Every day",
+    "harga_tiket": "-",
+    "sejarah": "No historical information available.",
+    "cerita_budaya": "No cultural information available.",
+    "alamat": "Pekalongan",
+    "deskripsi_singkat": "A location in Pekalongan[cite: 3]."
+  },
+  {
+    "id": "warung-kopi-tahlil",
+    "nama": "Tahlil Coffee Stall",
+    "kategori": "kuliner-legendaris",
+    "koordinat": {
+      "lat": -6.885420725440756,
+      "lng": 109.67847487353667
+    },
+    "foto_utama": "https://i.ibb.co.com/8nCfDYzf/kopi-tahlil.jpg",
+    "galeri": [
+      "https://i.ibb.co.com/8nCfDYzf/kopi-tahlil.jpg",
+      "https://i.ibb.co.com/SXR6vWVs/kopi-tahlil2.webp",
+      "https://i.ibb.co.com/WWq7qZmL/kopi-tahlil3.webp",
+      "https://i.ibb.co.com/wFfz6p8j/kopi-tahlil4.jpg"
+    ],
+    "tahun_berdiri": "1970",
+    "jam_buka": "Afternoon - Night",
+    "harga_tiket": "Starting from IDR 5,000",
+    "sejarah": "Black coffee typical of Pekalongan that has existed since 1970[cite: 3].",
+    "cerita_budaya": "Tahlil coffee is usually served with spices that warm the body[cite: 3].",
+    "alamat": "Pekalongan City",
+    "deskripsi_singkat": "Black coffee typical of Pekalongan that has existed since 1970[cite: 3]."
+  },
+  {
+    "id": "pelabuhan-lama",
+    "nama": "Old Port",
+    "kategori": "hidden-gems",
+    "koordinat": {
+      "lat": -6.8578889419176186,
+      "lng": 109.69213039849042
+    },
+    "foto_utama": "https://i.ibb.co/bDDH8Qb/berita-20220404021637.jpg",
+    "galeri": [
+      "https://i.ibb.co/TFvFpyt/36a59c07-3532-4655-840a-c91bec4082ae.jpg",
+      "https://i.ibb.co/Lz9MtZgX/30a07e1e-1049-4f8a-924e-b5b89d24015a.jpg",
+      "https://i.ibb.co/bDDH8Qb/berita-20220404021637.jpg"
+    ],
+    "tahun_berdiri": "Colonial Era",
+    "jam_buka": "Every day, 24 hours",
+    "harga_tiket": "Free",
+    "sejarah": "Colonial-era pier remnants with the best sunset view[cite: 3].",
+    "cerita_budaya": "This old port was once the lifeline for the trade of batik and agricultural products to various islands[cite: 3].",
+    "alamat": "North Coast, Pekalongan City",
+    "deskripsi_singkat": "Colonial-era pier remnants with the best sunset view[cite: 3]."
+  },
+  {
+    "id": "eks-officiele-huis",
+    "nama": "Former Official House of the Resident of Pekalongan",
+    "kategori": "bangunan-kolonial",
+    "koordinat": {
+      "lat": -6.878727411287548,
+      "lng": 109.67364722677898
+    },
+    "foto_utama": "https://i.ibb.co/KdNYbTQ/IMG-0598.webp",
+    "galeri": [
+      "https://i.ibb.co/KdNYbTQ/IMG-0598.webp",
+      "https://i.ibb.co/ZRjBKyZ9/IMG-0599.jpg",
+      "https://i.ibb.co/PfhwxSg/IMG-0601.jpg"
+    ],
+    "tahun_berdiri": "1820s",
+    "jam_buka": "Every day",
+    "harga_tiket": "Free",
+    "sejarah": "The former Official House of the Resident of Pekalongan is one of the most important colonial buildings in Pekalongan City[cite: 3]. This building formerly functioned as the official residence of the Pekalongan Resident, the highest official of the Dutch East Indies government in the Pekalongan Residency region[cite: 3]. Its construction is estimated to have started in 1850 by Resident J. van der Eb and was first occupied by Resident George Johan Peter van de Poel[cite: 3].\nThis building was established during the development of the sugar industry in the Pekalongan region[cite: 3]. From this office and official residence, the colonial government oversaw the administration of government, trade, and the activities of several sugar factories spread across the Pekalongan Residency region[cite: 3].",
+    "cerita_budaya": "The people of Pekalongan know this building as one of the \"silent witnesses\" to the city's journey through history from the colonial era to modern Indonesia[cite: 3]. The surrounding area is often used for cultural festivals, batik exhibitions, art performances, and historical activities that introduce Pekalongan's cultural heritage to the younger generation[cite: 3].",
+    "alamat": "Jl. Pemuda No. 1, Jetayu Cultural Area, Pekalongan City, Central Java",
+    "deskripsi_singkat": "A location in Pekalongan[cite: 3]."
+  },
+  {
+    "id": "gedung-pertani",
+    "nama": "Pertani Building",
+    "kategori": "bangunan-kolonial",
+    "koordinat": {
+      "lat": -6.877627004263697,
+      "lng": 109.67646496603514
+    },
+    "foto_utama": "https://i.ibb.co/xKzds0FV/IMG-0592.jpg",
+    "galeri": [
+      "https://i.ibb.co/xKzds0FV/IMG-0592.jpg",
+      "https://i.ibb.co/8LGqzwNR/IMG-0591.jpg",
+      "https://i.ibb.co/xKzds0FV/IMG-0592.jpg"
+    ],
+    "tahun_berdiri": "1980s",
+    "jam_buka": "Every day",
+    "harga_tiket": "Free",
+    "sejarah": "The Pertani Building is one of the heritage buildings located in the Jetayu Cultural Area, Pekalongan City[cite: 3]. During the Dutch colonial period, this building was used as a banking office and financial administration center related to the sugar trade[cite: 3]. This building also witnessed the history of the implementation of the cultivation system (cultuurstelsel) that once took place in the Pekalongan region[cite: 3].\nApproaching the Japanese occupation around 1941, the banking function in the building ceased operations[cite: 3]. Then, around the 1980s, this building was used as a branch office of PT Pertani (Persero), so the people of Pekalongan know it more by the name Pertani Building[cite: 3].",
+    "cerita_budaya": "Various folklore and mystery stories about this old building also developed among the local community[cite: 3]. Some residents associate it with the appearance of a Dutch girl and supernatural activities due to the very old age of the building[cite: 3]. However, those stories are part of local folklore and have no verifiable historical evidence[cite: 3].",
+    "alamat": "Jl. Jetayu No. 9, Panjang Wetan Village, North Pekalongan District, Pekalongan City, Central Java",
+    "deskripsi_singkat": "The Pertani Building is an important part of the historical narrative of the Jetayu Old City. This building illustrates how Pekalongan developed as a center of trade during the colonial era[cite: 3]. Along with the Jetayu Sports Hall (GOR), the Batik Museum, Kali Loji, and other colonial buildings, this building is often used as a site for historical tourism and heritage education activities[cite: 3]."
+  },
+  {
+    "id": "gor-jetayu",
+    "nama": "Jetayu Sports Hall (Societet/Gedung Setan)",
+    "kategori": "bangunan-kolonial",
+    "koordinat": {
+      "lat": -6.878193683078044,
+      "lng": 109.67569044516769
+    },
+    "foto_utama": "https://i.ibb.co/6JV5smJ5/d3fc2195-c99b-4b70-a8e3-4fe0ac14e1d0.jpg",
+    "galeri": [
+      "https://i.ibb.co/6JV5smJ5/d3fc2195-c99b-4b70-a8e3-4fe0ac14e1d0.jpg",
+      "https://i.ibb.co/4ZL1wTkQ/619aaf7c-e431-4029-88e1-1a47fe914a96.jpg",
+      "https://i.ibb.co/sJQmx58Z/6fc3693d-442e-4f9c-8777-36f35bc35f48.jpg"
+    ],
+    "tahun_berdiri": "1928",
+    "jam_buka": "Every day",
+    "harga_tiket": "-",
+    "sejarah": "The Jetayu Sports Hall (GOR) is not just an ordinary sports building[cite: 3]. This building is part of the Jetayu Cultural Area, an old city area that preserves many Dutch colonial heritage buildings[cite: 3]. This area formerly served as a center for government, trade, and the activities of the multi-ethnic community in Pekalongan[cite: 3].\nThe architecture of Jetayu Sports Hall features colonial building characteristics with large pillars and European-style facades that are still maintained today[cite: 3]. Due to its high historical value, this building is one of the heritage buildings often introduced in Pekalongan City's historical tourism[cite: 3].",
+    "cerita_budaya": "The name \"Jetayu\" itself is well known as the cultural center of Pekalongan City[cite: 3]. This area is surrounded by various historical buildings such as:",
+    "alamat": "Jl. Jetayu, Panjang Wetan, North Pekalongan District, Pekalongan City",
+    "deskripsi_singkat": "A location in Pekalongan[cite: 3]."
+  },
+  {
+    "id": "limun-oriental",
+    "nama": "Limun Oriental",
+    "kategori": "kuliner-legendaris",
+    "koordinat": {
+      "lat": -6.878841343466054,
+      "lng": 109.67660854679524
+    },
+    "foto_utama": "https://i.ibb.co/8nNRCCKx/be710fe6-148f-4145-b4b5-93b550e32c42.jpg",
+    "galeri": [
+      "https://i.ibb.co/Hp45zyrN/4e017401-51a1-454e-bc04-ca489cdae3b9.jpg",
+      "https://i.ibb.co/Fk3Kvqk5/509955be-da87-4f02-915b-20a39d7e7424.jpg",
+      "https://i.ibb.co/XrNzy0mJ/2845b35d-fe9f-4033-8f27-1e8feabf8d4c.jpg"
+    ],
+    "tahun_berdiri": "-",
+    "jam_buka": "Every day, 08:00–17:30 WIB",
+    "harga_tiket": "Free, visitors only pay for the food or drinks ordered",
+    "sejarah": "Limun Oriental is one of Pekalongan's legendary signature drinks that has survived for over a century[cite: 3]. Initially produced simply in Kedungwuni in 1920, the production location was moved to Pekalongan City in 1923, precisely in the Panjang Wetan area, which is still used today[cite: 3].\nIn its early years, this drink was known as \"Aer Belanda\" or Banyu Londo[cite: 3]. As the business developed, the product name changed several times until it finally used the Limun Oriental Cap Nyonya Silhuet brand, which is known to the public to this day[cite: 3]. In the 1980s, its sales declined due to the influx of various international carbonated soft drinks[cite: 3]. However, since 2017, the fifth generation of the founder's family innovated by opening a classic-style shop that combines historical tourism and culinary delights, making Limun Oriental popular again as an icon of Pekalongan souvenirs[cite: 3].",
+    "cerita_budaya": "Limun Oriental is not just a drink, but part of the cultural identity of the people of Pekalongan[cite: 3]. For decades, this drink has often been present in family events, celebrations, holidays, and community activities[cite: 3]. Many Pekalongan residents consider Limun Oriental as a symbol of childhood nostalgia and a heritage culinary legacy[cite: 3].",
+    "alamat": "Jalan Rajawali Utara No. 15, Panjang Wetan, North Pekalongan",
+    "deskripsi_singkat": "A location in Pekalongan[cite: 3]."
+  }
+]

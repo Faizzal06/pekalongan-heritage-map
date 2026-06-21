@@ -2,7 +2,9 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import batikMotifs from "@/data/batik-motifs.json";
+import batikMotifsId from "@/data/batik-motifs.json";
+import batikMotifsEn from "@/data/batik-motifs-en.json";
+import { useLanguage } from "@/context/LanguageContext";
 
 /* ─── types ─── */
 interface BatikMotif {
@@ -17,7 +19,6 @@ interface BatikMotif {
   daerah_asal: string;
 }
 
-const motifs: BatikMotif[] = batikMotifs as BatikMotif[];
 
 /* ─── filter categories ─── */
 const FILTERS = ["Semua", "Arab", "Tionghoa", "Jawa", "Belanda"] as const;
@@ -68,9 +69,11 @@ const modalContentVariants = {
 function BatikDetailModal({
   motif,
   onClose,
+  t
 }: {
   motif: BatikMotif;
   onClose: () => void;
+  t: (key: string) => string;
 }) {
   return (
     <motion.div
@@ -151,7 +154,7 @@ function BatikDetailModal({
           <div className="grid grid-cols-2 gap-4">
             <div>
               <span className="font-mono text-xs uppercase tracking-wider text-on-surface-variant">
-                Pengaruh
+                {t("batik.influence")}
               </span>
               <p className="font-semibold text-primary mt-0.5">
                 {motif.pengaruh}
@@ -159,7 +162,7 @@ function BatikDetailModal({
             </div>
             <div>
               <span className="font-mono text-xs uppercase tracking-wider text-on-surface-variant">
-                Warna Utama
+                {t("batik.main_color")}
               </span>
               <p className="font-semibold text-primary mt-0.5">
                 {motif.warna_utama}
@@ -170,7 +173,7 @@ function BatikDetailModal({
           {/* filosofi */}
           <div>
             <h3 className="font-display text-lg font-bold text-primary mb-2">
-              Filosofi
+              {t("batik.philosophy")}
             </h3>
             <p className="italic text-batik-gold leading-relaxed">
               &ldquo;{motif.filosofi}&rdquo;
@@ -203,11 +206,16 @@ function BatikDetailModal({
    Batik Explorer Page
    ══════════════════════════════════════════════════════ */
 export default function BatikPage() {
-  const [activeFilter, setActiveFilter] = useState<string>("Semua");
+  const { language, t } = useLanguage();
+  const motifs: BatikMotif[] = (language === "en" ? batikMotifsEn : batikMotifsId) as BatikMotif[];
+
+  const FILTERS = [t("batik.all"), "Arab", "Tionghoa", "Jawa", "Belanda"] as const;
+
+  const [activeFilter, setActiveFilter] = useState<string>(FILTERS[0]);
   const [selectedMotif, setSelectedMotif] = useState<BatikMotif | null>(null);
 
   const filtered =
-    activeFilter === "Semua"
+    activeFilter === t("batik.all")
       ? motifs
       : motifs.filter((m) => m.pengaruh === activeFilter);
 
@@ -221,8 +229,8 @@ export default function BatikPage() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          Ensiklopedia Batik{" "}
-          <span className="text-batik-red">Pekalongan</span>
+          {t("batik.title1")}
+          <span className="text-batik-red">{t("batik.title2")}</span>
         </motion.h1>
 
         <motion.p
@@ -231,8 +239,7 @@ export default function BatikPage() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.1 }}
         >
-          Motif-motif khas yang mencerminkan keberagaman budaya pesisir utara
-          Jawa
+          {t("batik.subtitle")}
         </motion.p>
       </section>
 
@@ -336,6 +343,7 @@ export default function BatikPage() {
           <BatikDetailModal
             motif={selectedMotif}
             onClose={() => setSelectedMotif(null)}
+            t={t}
           />
         )}
       </AnimatePresence>

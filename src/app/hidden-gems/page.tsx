@@ -2,7 +2,9 @@
 
 import { motion } from "framer-motion";
 import Link from "next/link";
-import hiddenGems from "@/data/hidden-gems.json";
+import hiddenGemsId from "@/data/hidden-gems.json";
+import hiddenGemsEn from "@/data/hidden-gems-en.json";
+import { useLanguage } from "@/context/LanguageContext";
 
 /* ─── types ─── */
 interface HiddenGem {
@@ -14,7 +16,6 @@ interface HiddenGem {
   koordinat: { lat: number; lng: number };
 }
 
-const gems: HiddenGem[] = hiddenGems as HiddenGem[];
 
 /* ─── gradient palette per index ─── */
 const gradients = [
@@ -46,6 +47,9 @@ const cardVariants = {
    Hidden Gems Page
    ══════════════════════════════════════════════════════ */
 export default function HiddenGemsPage() {
+  const { language, t } = useLanguage();
+  const gems: HiddenGem[] = (language === "en" ? hiddenGemsEn : hiddenGemsId) as HiddenGem[];
+
   return (
     <div className="min-h-screen bg-surface">
       {/* ── Hero header ── */}
@@ -56,8 +60,8 @@ export default function HiddenGemsPage() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          Hidden Gems{" "}
-          <span className="text-pin-hidden-gems">Pekalongan</span>
+          {t("gems.title1")}
+          <span className="text-pin-hidden-gems">{t("gems.title2")}</span>
         </motion.h1>
 
         <motion.p
@@ -66,7 +70,7 @@ export default function HiddenGemsPage() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.1 }}
         >
-          Tempat-tempat tersembunyi yang wajib dikunjungi
+          {t("gems.subtitle")}
         </motion.p>
       </section>
 
@@ -129,7 +133,7 @@ export default function HiddenGemsPage() {
                     💡
                   </span>
                   <span className="font-bold text-batik-red text-sm uppercase tracking-wide">
-                    Tips
+                    {t("gems.tips")}
                   </span>
                 </div>
                 <p className="text-on-surface-variant text-sm leading-relaxed">
@@ -155,7 +159,7 @@ export default function HiddenGemsPage() {
                   <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
                   <circle cx="12" cy="10" r="3" />
                 </svg>
-                Lihat di Peta
+                {t("ui.see_on_map")}
               </Link>
             </div>
           </motion.article>

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "jlamprang",
+    "nama": "Jlamprang Batik",
+    "pengaruh": "Arab",
+    "foto": "https://i.ibb.co/99K6vbNQ/Batik-Lung-Kembang-Design.jpg",
+    "warna_utama": "Dark red, black, and white",
+    "filosofi": "Symbolizes the harmony of the universe and the balance of human life in relation to the Creator.",
+    "deskripsi": "Jlamprang Batik is a signature motif from Pekalongan inspired by Patola fabrics from Gujarat, India, brought by Arab and Indian traders to the north coast of Java. Its motifs consist of repeating geometric patterns in the shape of eight-pointed stars and interconnected diamonds, creating a hypnotic, symmetrical composition. Jlamprang is considered the most iconic Pekalongan batik motif and has become the city's visual identity.",
+    "ciri_khas": "Symmetrical geometric patterns with repeating eight-pointed star shapes (octagrams), inspired by Indian Patola fabric. The coloring technique uses bold colors with high contrast.",
+    "daerah_asal": "Kauman, West Pekalongan"
+  },
+  {
+    "id": "encim",
+    "nama": "Encim Batik",
+    "pengaruh": "Chinese",
+    "foto": "https://files.catbox.moe/fitlfx.jpg",
+    "warna_utama": "Pastel pink, blue, and bright green",
+    "filosofi": "Reflects the beauty and elegance of women, as well as hopes for a life full of happiness and prosperity.",
+    "deskripsi": "Encim Batik was born from the creative hands of Chinese ladies (Encim) in Pekalongan in the 19th century. This motif combines Chinese cultural elements such as the phoenix (burung hong), chrysanthemum flowers, butterflies, and vines with Javanese batik techniques. Its bright and feminine colors made Encim batik very popular among upper-class women during the colonial era.",
+    "ciri_khas": "Naturalistic floral motifs (small bouquets), phoenixes, butterflies, and Chinese-style natural elements. Soft and bright pastel colors that were uncommon in traditional Javanese batik.",
+    "daerah_asal": "Chinatown (Pecinan), North Pekalongan"
+  },
+  {
+    "id": "pesisiran",
+    "nama": "Pesisiran Batik",
+    "pengaruh": "Javanese",
+    "foto": "https://files.catbox.moe/ilkcuv.jpeg",
+    "warna_utama": "Blue, red, yellow, and green",
+    "filosofi": "Depicts the open spirit of the coastal community that embraces various cultural influences and blends them into a unique identity.",
+    "deskripsi": "Pesisiran Batik is a genre of batik born from the culture of the northern coastal communities of Java, especially Pekalongan. Unlike court batik (batik keraton), which is bound by strict rules of soga colors and specific motifs, Pesisiran batik is free to express creativity through bright colors and motifs inspired by daily life: fish, birds, flowers, and natural scenery. This freedom of expression makes Pesisiran batik more dynamic and popular among the general public.",
+    "ciri_khas": "Naturalistic motifs depicting coastal flora and fauna, the use of bright colors without the limitations of court conventions, and a free, asymmetrical composition.",
+    "daerah_asal": "Pesindon and Batik Village (Kampung Batik), Pekalongan"
+  },
+  {
+    "id": "buketan",
+    "nama": "Buketan Batik",
+    "pengaruh": "Dutch",
+    "foto": "https://files.catbox.moe/6y1aq6.jpg",
+    "warna_utama": "Maroon, cream, and leaf green",
+    "filosofi": "A symbol of eternal natural beauty and respect for the cycle of life through perfectly blooming flower petals.",
+    "deskripsi": "Buketan Batik (from the Dutch word 'boeket', meaning flower bouquet) is a motif that emerged from European influence in the 19th century when Pekalongan was under Dutch colonial rule. This motif features arrangements of European flowers such as roses, tulips, and orchids, arranged in a naturalistic composition resembling a still-life painting. Buketan Batik serves as tangible proof of the acculturation of Western aesthetics and Eastern batik techniques.",
+    "ciri_khas": "European-style flower arrangements (boeket) with high naturalistic detail, often including ribbons and baskets. Fine coloring techniques with color gradients that mimic European oil paintings.",
+    "daerah_asal": "Panjang Wetan, North Pekalongan"
+  },
+  {
+    "id": "terang-bulan",
+    "nama": "Terang Bulan Batik",
+    "pengaruh": "Arab",
+    "foto": "https://files.catbox.moe/3anzkj.jpg",
+    "warna_utama": "Dark blue, white, and golden yellow",
+    "filosofi": "Symbolizes the light of knowledge and guidance that illuminates darkness, just as the moon illuminates the night.",
+    "deskripsi": "Terang Bulan Batik is a classic Pekalongan motif that combines crescent moon and star elements—symbols common in Islamic aesthetics—with Javanese floral ornaments. This motif is thought to have developed in the 17th century alongside the influx of Arab cultural influence through Muslim traders who settled in Pekalongan. The name 'Terang Bulan' (Bright Moon) also refers to a popular Malay song that describes the beauty of a bright moonlit night.",
+    "ciri_khas": "Crescent moon and star motifs surrounded by floral and arabesque ornaments. The use of dark blue and gold creates a luxurious and spiritual impression.",
+    "daerah_asal": "Kauman, West Pekalongan"
+  },
+  {
+    "id": "liong",
+    "nama": "Liong Batik",
+    "pengaruh": "Chinese",
+    "foto": "https://files.catbox.moe/80zbii.jpg",
+    "warna_utama": "Red, gold, and blue",
+    "filosofi": "A symbol of strength, luck, and wisdom that protects its owner from all dangers.",
+    "deskripsi": "Liong Batik features the Chinese dragon (liong) motif winding through clouds and fire, blending with Javanese batik elements such as megamendung and tropical flora. This motif is the most dramatic and striking product of Chinese-Javanese cultural acculturation in Pekalongan batik. In the past, batik fabric with the Liong motif was only worn for important events such as weddings and Chinese New Year celebrations.",
+    "ciri_khas": "Detailed and dynamic Chinese dragon figures (liong), surrounded by clouds, fire, and pearls. Bold and contrasting colors that reflect traditional Chinese symbolism.",
+    "daerah_asal": "Chinatown (Pecinan), North Pekalongan"
+  }
+]

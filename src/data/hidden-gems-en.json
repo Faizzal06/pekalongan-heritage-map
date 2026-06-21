@@ -1,0 +1,34 @@
+[
+  {
+    "id": "soto-tauto-h-rochmani",
+    "nama": "Soto Tauto H. Rochmani",
+    "foto": "https://i.ibb.co.com/MxXm2mKD/soto-H-Rochmani.webp",
+    "deskripsi": "The Pak Haji Rochmani Soto Tauto stall has been established since 1985, serving soto with a distinctive tauco seasoning—fermented soybeans that have been cooked and mashed. Soto tauto is a culinary adaptation by the Chinese community in Pekalongan with a touch of coastal Javanese flavor. The broth is thick and brownish with a distinctive tauco aroma, accompanied by white rice noodles, scallions, and slices of meat.",
+    "tips": "Order soto tauto with additional Pekalongan-style fried tempeh and tofu for a complete flavor experience. Open daily from 09:00–16:00 WIB. Prices are affordable, around IDR 27,000–35,000 per portion.",
+    "koordinat": { "lat": -6.8622, "lng": 109.6675 }
+  },
+  {
+    "id": "garang-asem-masduki",
+    "nama": "Garang Asem Masduki",
+    "foto": "https://i.ibb.co/M3ccqG5/IMG-0580.webp",
+    "deskripsi": "The Masduki Restaurant in the Old Pekalongan Square has been a legendary culinary icon since the 1960s. Garang asem is a dish similar to rawon but clearer, tasting sour and spicy, with a broth enhanced by plenty of tomatoes and buffalo meat. Its fresh, sour-spicy flavor reflects Pekalongan's cultural acculturation—a blend of coastal Javanese with the influences of communities that once resided in this city.",
+    "tips": "Enjoy garang asem with a rendang egg as the perfect flavor complement. The stall is open daily from 08:00–21:00 WIB. Prices range from IDR 25,000–45,000 per portion. This place unites various generations and layers of Pekalongan society.",
+    "koordinat": { "lat": -6.8659, "lng": 109.6756 }
+  },
+  {
+    "id": "sop-ayam-mekar",
+    "nama": "Sop Ayam Mekar",
+    "foto": "https://i.ibb.co.com/nMyyDhTc/sopmekar1.webp",
+    "deskripsi": "The Pak Mekar Chicken Soup stall in Kandang Panjang is a legendary hidden culinary gem most sought after across generations. Established for over half a century since the 1970s, this stall has consistently maintained its traditional recipe. The soup here stands out with its use of authentic free-range chicken stock that is naturally savory, tender chicken pieces, and generous portions of vegetables.",
+    "tips": "Mix the soup directly with hot fried tofu and a splash of sweet soy sauce mixed with crushed bird's eye chilies (slentem pisan) for a harmonious flavor. Open daily from 08:30–15:00 WIB. The price is only around IDR 25,000 per portion. Its location is hidden in a residential alley, but it is well worth searching for!",
+    "koordinat": { "lat": -6.8642, "lng": 109.6737 }
+  },
+  {
+    "id": "pekalongan-mangrove-park",
+    "nama": "Pekalongan Mangrove Park (PMP)",
+    "foto": "https://i.ibb.co/DfhKMsTw/mangrove-pekalongan.jpg",
+    "deskripsi": "Pekalongan Mangrove Park is an educational mangrove ecosystem tourism site inaugurated in 2013 for tidal flood (rob) mitigation and educational tourism. This 5.7-hectare area offers the experience of witnessing various types of mangroves such as Avicennia, Bruguiera, and Rhizophora. Here, visitors can learn about coastal ecosystems while enjoying a jogging track and a trip on a Catamaran Tourism Boat.",
+    "tips": "Visit with family for education on the importance of coastal ecosystems. Rent a catamaran boat to explore the mangrove plants from a different perspective. This location also develops silvofishery (intercropping between fish and mangroves). Open daily from 07:00–17:00 WIB. Entrance fee is IDR 5,000–10,000.",
+    "koordinat": { "lat": -6.8619, "lng": 109.6750 }
+  }
+]

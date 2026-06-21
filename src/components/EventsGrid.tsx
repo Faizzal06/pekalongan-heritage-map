@@ -1,7 +1,9 @@
 "use client";
 
 import { motion } from "framer-motion";
-import eventsData from "@/data/events.json";
+import eventsDataId from "@/data/events.json";
+import eventsDataEn from "@/data/events-en.json";
+import { useLanguage } from "@/context/LanguageContext";
 
 interface EventItem {
   id: string;
@@ -13,7 +15,6 @@ interface EventItem {
   deskripsi: string;
 }
 
-const events: EventItem[] = eventsData;
 
 const containerVariants = {
   hidden: {},
@@ -100,6 +101,9 @@ function PinIcon() {
 }
 
 export default function EventsGrid() {
+  const { language, t } = useLanguage();
+  const events: EventItem[] = language === "en" ? eventsDataEn : eventsDataId;
+
   return (
     <section className="py-16 md:py-24">
       <div className="max-w-5xl mx-auto px-4 md:px-8">
@@ -111,11 +115,10 @@ export default function EventsGrid() {
           className="text-center mb-14 md:mb-18"
         >
           <h1 className="font-display text-4xl md:text-5xl font-bold text-primary leading-tight mb-4">
-            Acara & Festival
+            {t("events.title")}
           </h1>
           <p className="text-lg text-on-surface-variant leading-relaxed max-w-xl mx-auto">
-            Kalender acara dan festival budaya yang mewarnai kehidupan Kota
-            Pekalongan sepanjang tahun
+            {t("events.subtitle")}
           </p>
         </motion.div>
 
@@ -168,7 +171,7 @@ export default function EventsGrid() {
                   <div>
                     <span className="font-mono text-[10px] tracking-[0.15em] uppercase text-on-surface-variant font-medium flex items-center gap-1.5 mb-1">
                       <CalendarIcon />
-                      TANGGAL
+                      {t("events.date")}
                     </span>
                     <p className="text-sm text-on-surface-variant pl-6">
                       {event.tanggal}
@@ -179,7 +182,7 @@ export default function EventsGrid() {
                   <div>
                     <span className="font-mono text-[10px] tracking-[0.15em] uppercase text-on-surface-variant font-medium flex items-center gap-1.5 mb-1">
                       <PinIcon />
-                      LOKASI
+                      {t("events.location")}
                     </span>
                     <p className="text-sm text-on-surface-variant pl-6">
                       {event.lokasi}

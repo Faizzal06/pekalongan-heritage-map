@@ -3,7 +3,9 @@
 import { useState, useMemo, useEffect } from "react";
 import dynamic from "next/dynamic";
 import MapSidebar from "@/components/map/MapSidebar";
-import heritageLocations from "@/data/heritage-locations.json";
+import heritageLocationsId from "@/data/heritage-locations.json";
+import heritageLocationsEn from "@/data/heritage-locations-en.json";
+import { useLanguage } from "@/context/LanguageContext";
 
 const MapContainer = dynamic(() => import("@/components/map/MapContainer"), {
   ssr: false,
@@ -35,6 +37,9 @@ const allKategori: Kategori[] = [
 ];
 
 export default function PetaPage() {
+  const { language } = useLanguage();
+  const heritageLocations = language === "en" ? heritageLocationsEn : heritageLocationsId;
+
   const [activeFilters, setActiveFilters] = useState<Set<Kategori>>(
     new Set(allKategori)
   );

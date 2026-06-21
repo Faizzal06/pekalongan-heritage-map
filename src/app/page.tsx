@@ -1,6 +1,11 @@
+"use client";
+
 import Link from "next/link";
+import { useLanguage } from "@/context/LanguageContext";
 
 export default function HomePage() {
+  const { t } = useLanguage();
+
   return (
     <div className="relative min-h-[calc(100vh-4rem)] py-12 md:py-20 flex flex-col justify-center overflow-hidden">
       {/* Background pattern */}
@@ -28,8 +33,7 @@ export default function HomePage() {
 
         {/* Subtitle */}
         <p className="text-lg md:text-xl text-on-surface-variant leading-relaxed mb-10 max-w-xl mx-auto animate-fade-in-up" style={{ animationDelay: "0.2s" }}>
-          Jelajahi kekayaan warisan budaya Kota Batik melalui peta interaktif.
-          Temukan museum, kampung batik, kuliner legendaris, dan hidden gems.
+          {t("home.subtitle")}
         </p>
 
         {/* CTA Buttons */}
@@ -43,7 +47,7 @@ export default function HomePage() {
               <line x1="8" y1="2" x2="8" y2="18" />
               <line x1="16" y1="6" x2="16" y2="22" />
             </svg>
-            Mulai Jelajah
+            {t("home.cta.start")}
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="group-hover:translate-x-1 transition-transform">
               <line x1="5" y1="12" x2="19" y2="12" />
               <polyline points="12 5 19 12 12 19" />
@@ -58,16 +62,16 @@ export default function HomePage() {
               <circle cx="12" cy="12" r="10" />
               <polyline points="12 6 12 12 16 14" />
             </svg>
-            Lihat Sejarah
+            {t("home.cta.history")}
           </Link>
         </div>
 
         {/* Stats */}
         <div className="mt-16 grid grid-cols-3 gap-8 max-w-md mx-auto animate-fade-in-up" style={{ animationDelay: "0.5s" }}>
           {[
-            { value: "26+", label: "Lokasi Heritage" },
-            { value: "6", label: "Kategori" },
-            { value: "6", label: "Motif Batik" },
+            { value: "26+", label: t("home.stats.locations") },
+            { value: "6", label: t("home.stats.categories") },
+            { value: "6", label: t("home.stats.motifs") },
           ].map((stat) => (
             <div key={stat.label} className="text-center">
               <div className="font-display text-3xl font-bold text-batik-red">

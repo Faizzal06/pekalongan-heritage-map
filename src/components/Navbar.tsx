@@ -5,18 +5,22 @@ import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { useLanguage } from "@/context/LanguageContext";
 
-const navItems = [
-  { href: "/peta", label: "Peta" },
-  { href: "/sejarah", label: "Sejarah" },
-  { href: "/batik", label: "Batik" },
-  { href: "/acara", label: "Acara" },
-  { href: "/hidden-gems", label: "Hidden Gems" },
+const getNavItems = (t: (key: string) => string) => [
+  { href: "/peta", label: t("nav.peta") },
+  { href: "/sejarah", label: t("nav.sejarah") },
+  { href: "/batik", label: t("nav.batik") },
+  { href: "/acara", label: t("nav.acara") },
+  { href: "/hidden-gems", label: t("nav.hidden-gems") },
 ];
 
 export default function Navbar() {
   const pathname = usePathname();
   const [mobileOpen, setMobileOpen] = useState(false);
+  const { language, setLanguage, t } = useLanguage();
+  
+  const navItems = getNavItems(t);
 
   return (
     <nav className="sticky top-0 z-50 bg-surface/90 backdrop-blur-md border-b border-outline-variant/30">
@@ -62,9 +66,13 @@ export default function Navbar() {
 
         {/* Language Badge + Mobile Menu */}
         <div className="flex items-center gap-3">
-          <span className="text-sm font-bold border-2 border-on-surface px-3 py-1 rounded-md select-none">
-            ID
-          </span>
+          <button
+            onClick={() => setLanguage(language === "id" ? "en" : "id")}
+            className="text-sm font-bold border-2 border-on-surface px-3 py-1 rounded-md select-none hover:bg-on-surface hover:text-surface transition-colors cursor-pointer"
+            aria-label="Toggle Language"
+          >
+            {language.toUpperCase()}
+          </button>
 
           {/* Mobile Hamburger */}
           <button
