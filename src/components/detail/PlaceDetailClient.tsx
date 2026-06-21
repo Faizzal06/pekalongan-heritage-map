@@ -161,7 +161,7 @@ export default function PlaceDetailClient({ location: initialLocation }: { locat
               </h2>
               {/* Native scroll-snap gallery */}
               <div className="flex overflow-x-auto gap-4 pb-4 snap-x snap-mandatory custom-scrollbar -mx-6 px-6 md:mx-0 md:px-0">
-                {location.galeri.map((imgUrl, idx) => (
+                {location.galeri.map((imgUrl: string, idx: number) => (
                   <div 
                     key={idx}
                     className="relative w-[260px] md:w-[300px] h-[180px] md:h-[200px] shrink-0 rounded-2xl overflow-hidden snap-center shadow-sm bg-surface-container-high"
