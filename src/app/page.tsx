@@ -69,7 +69,7 @@ export default function HomePage() {
         {/* Stats */}
         <div className="mt-16 grid grid-cols-3 gap-8 max-w-md mx-auto animate-fade-in-up" style={{ animationDelay: "0.5s" }}>
           {[
-            { value: "26+", label: t("home.stats.locations") },
+            { value: "23+", label: t("home.stats.locations") },
             { value: "6", label: t("home.stats.categories") },
             { value: "6", label: t("home.stats.motifs") },
           ].map((stat) => (
